@@ -1,0 +1,352 @@
+[
+  {
+    "query_id": "t01",
+    "split": "test",
+    "method": "dense",
+    "query": "How many oil reserve barrels did IEA members agree in early October to release through January 2027?",
+    "filter": null,
+    "results": [
+      {
+        "id": "world-bank-cmo-2026-10:22:paragraph-900:0",
+        "source_id": "world-bank-cmo-2026-10",
+        "source": "CMO-October-2026.pdf",
+        "page": 22,
+        "text": "ENERGY COMMODITY MARKETS OUTLOOK | OCTOBER 2026 14 Oil Recent developments In mid-October, front-month Brent futures reached about $110 per barrel (bbl) as markets weighed rising crude supply and an accelerated release of emergency oil stockpiles by International Energy Agency (IEA) members against conflict in the Middle East (figure 7.A). Entering October, average Middle East oil exports approached their 2025 level owing to greater use of ship-to-ship transfers and untracked shipments (figure 7.B). The recovery was concentrated on crude oil and condensates, while oil products exports, including diesel, have lagged, partly because refinery damage. Tanker shortages, which drove Gulf voyage rates to record highs, together with intensifying attacks on vessels, thinning inventories and concerns about longer-term supply, kept Brent prices elevated (figure 7.C).",
+        "metadata": {
+          "year": 2026,
+          "section": "energy",
+          "version": "October 2026 edition",
+          "printed_page": 14
+        },
+        "score": 0.5384691800446317,
+        "strategy": "dense",
+        "rank": 1,
+        "evidence_hit": false
+      },
+      {
+        "id": "world-bank-cmo-2026-10:24:paragraph-900:0",
+        "source_id": "world-bank-cmo-2026-10",
+        "source": "CMO-October-2026.pdf",
+        "page": 24,
+        "text": "ENERGY COMMODITY MARKETS OUTLOOK | OCTOBER 2026 16 Supply losses have persistently exceeded the reduction in global oil demand since the onset of the Middle East conflict, with the deficit widening sharply in 2026Q2 to 2.9 mb/d but narrowing in the following quarter (figure 8.F). Accordingly, oil inventories have become the fulcrum on which oil markets have balanced. Although global observed oil inventories still total about 7.8 billion barrels, much is in transit or tied up operationally—for instance, to keep pipelines pressurized—and therefore is not readily usable. In this context, OECD member governments’ inventories at end-September were the lowest in more than three decades, with the U.S. strategic reserves the lowest since 1982. Global oil markets have thus become increasingly vulnerable to further supply disruptions.",
+        "metadata": {
+          "year": 2026,
+          "section": "energy",
+          "version": "October 2026 edition",
+          "printed_page": 16
+        },
+        "score": 0.5361446858408978,
+        "strategy": "dense",
+        "rank": 2,
+        "evidence_hit": false
+      },
+      {
+        "id": "world-bank-cmo-2026-10:10:paragraph-900:4",
+        "source_id": "world-bank-cmo-2026-10",
+        "source": "CMO-October-2026.pdf",
+        "page": 10,
+        "text": "Monthly data from various editions of the IEA ’s Oil Market Report for global observed inventories. Last observation is September 2026. The gray area depicts the range of inventories for each month over 2021–25. C. Changes in U.S. exports and China’s imports in each month compared with values in February 2026. Values are in gross terms and include both crude oil and oil products. D. The implied oil market balance is the difference between supply and demand. Data based on IEA ’s Oil Market Report (October 2026 edition). Wholesale prices of key oil products, especially diesel and jet fuel, have climbed considerably more than those of crude oil since March (figure 2.A). This mainly reflects the effects of Middle East supply outages, as well as attacks on oil infrastructure in the Russian Federation, following its invasion of Ukraine.",
+        "metadata": {
+          "year": 2026,
+          "section": "executive_summary",
+          "version": "October 2026 edition",
+          "printed_page": 2
+        },
+        "score": 0.5317080147459593,
+        "strategy": "dense",
+        "rank": 3,
+        "evidence_hit": false
+      }
+    ],
+    "context": "[world-bank-cmo-2026-10:22:paragraph-900:0 | CMO-October-2026.pdf | page 22]\nENERGY COMMODITY MARKETS OUTLOOK | OCTOBER 2026 14 Oil Recent developments In mid-October, front-month Brent futures reached about $110 per barrel (bbl) as markets weighed rising crude supply and an accelerated release of emergency oil stockpiles by International Energy Agency (IEA) members against conflict in the Middle East (figure 7.A). Entering October, average Middle East oil exports approached their 2025 level owing to greater use of ship-to-ship transfers and untracked shipments (figure 7.B). The recovery was concentrated on crude oil and condensates, while oil products exports, including diesel, have lagged, partly because refinery damage. Tanker shortages, which drove Gulf voyage rates to record highs, together with intensifying attacks on vessels, thinning inventories and concerns about longer-term supply, kept Brent prices elevated (figure 7.C).\n\n[world-bank-cmo-2026-10:24:paragraph-900:0 | CMO-October-2026.pdf | page 24]\nENERGY COMMODITY MARKETS OUTLOOK | OCTOBER 2026 16 Supply losses have persistently exceeded the reduction in global oil demand since the onset of the Middle East conflict, with the deficit widening sharply in 2026Q2 to 2.9 mb/d but narrowing in the following quarter (figure 8.F). Accordingly, oil inventories have become the fulcrum on which oil markets have balanced. Although global observed oil inventories still total about 7.8 billion barrels, much is in transit or tied up operationally—for instance, to keep pipelines pressurized—and therefore is not readily usable. In this context, OECD member governments’ inventories at end-September were the lowest in more than three decades, with the U.S. strategic reserves the lowest since 1982. Global oil markets have thus become increasingly vulnerable to further supply disruptions.\n\n[world-bank-cmo-2026-10:10:paragraph-900:4 | CMO-October-2026.pdf | page 10]\nMonthly data from various editions of the IEA ’s Oil Market Report for global observed inventories. Last observation is September 2026. The gray area depicts the range of inventories for each month over 2021–25. C. Changes in U.S. exports and China’s imports in each month compared with values in February 2026. Values are in gross terms and include both crude oil and oil products. D. The implied oil market balance is the difference between supply and demand. Data based on IEA ’s Oil Market Report (October 2026 edition). Wholesale prices of key oil products, especially diesel and jet fuel, have climbed considerably more than those of crude oil since March (figure 2.A). This mainly reflects the effects of Middle East supply outages, as well as attacks on oil infrastructure in the Russian Federation, following its invasion of Ukraine.",
+    "context_ids": [
+      "world-bank-cmo-2026-10:22:paragraph-900:0",
+      "world-bank-cmo-2026-10:24:paragraph-900:0",
+      "world-bank-cmo-2026-10:10:paragraph-900:4"
+    ],
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false,
+    "elapsed_ms": 1078.51
+  },
+  {
+    "query_id": "t02",
+    "split": "test",
+    "method": "dense",
+    "query": "What growth in global natural gas production is forecast for 2027, in percent and bcm?",
+    "filter": null,
+    "results": [
+      {
+        "id": "world-bank-cmo-2026-10:29:paragraph-900:0",
+        "source_id": "world-bank-cmo-2026-10",
+        "source": "CMO-October-2026.pdf",
+        "page": 29,
+        "text": "ENERGYCOMMODITY MARKETS OUTLOOK | OCTOBER 2026 21 Global natural gas production is projected to decline by 0.8 percent (35 bcm) in 2026. A drop of more than 11 percent (90 bcm) in the Middle East—driven by damage to gas-processing and LNG facilities—is expected to be partly offset by increases of 3.2 percent (42 bcm) in North America and 2.1 percent (18 bcm) in Eurasia. Global production is forecast to increase by about 2.5 percent (110 bcm) in 2027, led by nearly a 5.5 percent (39 bcm) recovery in the Middle East, with the region’s output expected to remain below its 2025 level because of reduced LNG export capacity in Qatar and delays to its North Field expansion. Production is also expected to rise by 3 percent (41 bcm) in North America, 2 percent (15 bcm) in Asia Pacific, and 1 percent (10 bcm) in Eurasia.",
+        "metadata": {
+          "year": 2026,
+          "section": "energy",
+          "version": "October 2026 edition",
+          "printed_page": 21
+        },
+        "score": 0.6915185310223382,
+        "strategy": "dense",
+        "rank": 1,
+        "evidence_hit": true
+      },
+      {
+        "id": "world-bank-cmo-2026-10:29:paragraph-900:4",
+        "source_id": "world-bank-cmo-2026-10",
+        "source": "CMO-October-2026.pdf",
+        "page": 29,
+        "text": "In contrast, the U.S. benchmark is projected to remain unchanged in 2026 (y/y), and to increase by about 6 percent in 2027 and about 5 percent in 2028, mainly driven by growing external demand for LNG. Global natural gas consumption is projected to decline by about 1 percent (50 bcm) in 2026 (figure 10.D). Demand is expected to decrease by about 8 percent (50 bcm) in the Middle East, reflecting disrupted industrial demand. In Europe and Asia Pacific, consumption is set to soften by 2.5 percent (13 bcm) and about 1 percent (9 bcm), respectively, as power-sector use declines. By contrast, Eurasian demand is projected to rise as residential consumption rebounds after mild weather in 2025.",
+        "metadata": {
+          "year": 2026,
+          "section": "energy",
+          "version": "October 2026 edition",
+          "printed_page": 21
+        },
+        "score": 0.6906287654824073,
+        "strategy": "dense",
+        "rank": 2,
+        "evidence_hit": false
+      },
+      {
+        "id": "world-bank-cmo-2026-10:29:paragraph-900:5",
+        "source_id": "world-bank-cmo-2026-10",
+        "source": "CMO-October-2026.pdf",
+        "page": 29,
+        "text": "In 2027, global consumption is forecast to grow by 2.6 percent (110 bcm), led by increases of about 7 percent (43 bcm) in the Middle East as industrial production and gas processing normalize, and 4 percent (about 40 bcm) in Asia Pacific.",
+        "metadata": {
+          "year": 2026,
+          "section": "energy",
+          "version": "October 2026 edition",
+          "printed_page": 21
+        },
+        "score": 0.6843067336764593,
+        "strategy": "dense",
+        "rank": 3,
+        "evidence_hit": false
+      }
+    ],
+    "context": "[world-bank-cmo-2026-10:29:paragraph-900:0 | CMO-October-2026.pdf | page 29]\nENERGYCOMMODITY MARKETS OUTLOOK | OCTOBER 2026 21 Global natural gas production is projected to decline by 0.8 percent (35 bcm) in 2026. A drop of more than 11 percent (90 bcm) in the Middle East—driven by damage to gas-processing and LNG facilities—is expected to be partly offset by increases of 3.2 percent (42 bcm) in North America and 2.1 percent (18 bcm) in Eurasia. Global production is forecast to increase by about 2.5 percent (110 bcm) in 2027, led by nearly a 5.5 percent (39 bcm) recovery in the Middle East, with the region’s output expected to remain below its 2025 level because of reduced LNG export capacity in Qatar and delays to its North Field expansion. Production is also expected to rise by 3 percent (41 bcm) in North America, 2 percent (15 bcm) in Asia Pacific, and 1 percent (10 bcm) in Eurasia.\n\n[world-bank-cmo-2026-10:29:paragraph-900:4 | CMO-October-2026.pdf | page 29]\nIn contrast, the U.S. benchmark is projected to remain unchanged in 2026 (y/y), and to increase by about 6 percent in 2027 and about 5 percent in 2028, mainly driven by growing external demand for LNG. Global natural gas consumption is projected to decline by about 1 percent (50 bcm) in 2026 (figure 10.D). Demand is expected to decrease by about 8 percent (50 bcm) in the Middle East, reflecting disrupted industrial demand. In Europe and Asia Pacific, consumption is set to soften by 2.5 percent (13 bcm) and about 1 percent (9 bcm), respectively, as power-sector use declines. By contrast, Eurasian demand is projected to rise as residential consumption rebounds after mild weather in 2025.\n\n[world-bank-cmo-2026-10:29:paragraph-900:5 | CMO-October-2026.pdf | page 29]\nIn 2027, global consumption is forecast to grow by 2.6 percent (110 bcm), led by increases of about 7 percent (43 bcm) in the Middle East as industrial production and gas processing normalize, and 4 percent (about 40 bcm) in Asia Pacific.",
+    "context_ids": [
+      "world-bank-cmo-2026-10:29:paragraph-900:0",
+      "world-bank-cmo-2026-10:29:paragraph-900:4",
+      "world-bank-cmo-2026-10:29:paragraph-900:5"
+    ],
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "elapsed_ms": 1026.07
+  },
+  {
+    "query_id": "t03",
+    "split": "test",
+    "method": "dense",
+    "query": "How large are total grain supplies projected to be in 2026–27 relative to the record and two years earlier?",
+    "filter": null,
+    "results": [
+      {
+        "id": "world-bank-cmo-2026-10:35:paragraph-900:0",
+        "source_id": "world-bank-cmo-2026-10",
+        "source": "CMO-October-2026.pdf",
+        "page": 35,
+        "text": "AGRICULTURECOMMODITY MARKETS OUTLOOK | OCTOBER 2026 27 13.C and 13.D). Even so, total grain supplies (production and beginning stocks combined) in 2026-27 are projected to be the second largest on record and about 3 percent higher than two years earlier, which should limit price increases compared with past episodes of grain market stress. Among grains, price pressures are most pronounced for wheat, amid several headwinds to production and trade. Wheat prices are projected to jump by 28 percent in 2026 and 14 percent in 2027, before easing by 11 percent in 2028. Global wheat output is expected to contract by 3 percent in 2026–27 with reduced harvests in several major producing countries.",
+        "metadata": {
+          "year": 2026,
+          "section": "agriculture",
+          "version": "October 2026 edition",
+          "printed_page": 27
+        },
+        "score": 0.7405301927955664,
+        "strategy": "dense",
+        "rank": 1,
+        "evidence_hit": true
+      },
+      {
+        "id": "world-bank-cmo-2026-10:45:paragraph-900:4",
+        "source_id": "world-bank-cmo-2026-10",
+        "source": "CMO-October-2026.pdf",
+        "page": 45,
+        "text": "The aggregate stocks-to-use ratio (a rough measure of supply relative to demand) for grains is expected to be nearly 28 percent in 2026-27, similar to the 30-year average of 27.7 percent and well above the 18.1 percent recorded in 2007-08. Excluding China, the ratio is expected to reach 17.2 percent in 2026-27, still above the 15 percent recorded in 2007-08 (figure B1.3.E). Global food markets could tighten if El Niño coincided with further trade disrup- tions, including additional restrictions on Black Sea grain exports and renewed export controls by major exporters. Unlike grain markets, global edible oil markets are tighter, with aggregate stocks-to-use ratios approaching levels recorded during the 2007–08 price spikes (figure BOX 1 The 2026-27 El Niño: Implications for commodity markets (continued) c.",
+        "metadata": {
+          "year": 2026,
+          "section": "agriculture",
+          "version": "October 2026 edition",
+          "printed_page": 37
+        },
+        "score": 0.6681901041978219,
+        "strategy": "dense",
+        "rank": 2,
+        "evidence_hit": false
+      },
+      {
+        "id": "world-bank-cmo-2026-10:35:paragraph-900:2",
+        "source_id": "world-bank-cmo-2026-10",
+        "source": "CMO-October-2026.pdf",
+        "page": 35,
+        "text": "In sum, production declines and export disruptions are expected to reduce global wheat exports by 7 percent in 2026–27, with shipments falling across all nine leading exporters. Maize prices are projected to rise by 10 percent in 2026 and 5 percent in 2027, before declining by 10 percent in 2028. The increases reflect an anticipated 3 percent decline in global production in 2026–27. The forecast assumes some easing in 2027 of the constraints on Black Sea trade created this year by attacks on grain shipments and port infrastructure. Projected output gains of 11 percent in Russia and 8 percent in Ukraine in 2026–27 are expected to partly offset harvest FIGURE 13 Supply conditions for grains and edible oils Strong El Niño conditions have emerged and are expected to intensify in late 2026 and early 2027.",
+        "metadata": {
+          "year": 2026,
+          "section": "agriculture",
+          "version": "October 2026 edition",
+          "printed_page": 27
+        },
+        "score": 0.6576867054081736,
+        "strategy": "dense",
+        "rank": 3,
+        "evidence_hit": false
+      }
+    ],
+    "context": "[world-bank-cmo-2026-10:35:paragraph-900:0 | CMO-October-2026.pdf | page 35]\nAGRICULTURECOMMODITY MARKETS OUTLOOK | OCTOBER 2026 27 13.C and 13.D). Even so, total grain supplies (production and beginning stocks combined) in 2026-27 are projected to be the second largest on record and about 3 percent higher than two years earlier, which should limit price increases compared with past episodes of grain market stress. Among grains, price pressures are most pronounced for wheat, amid several headwinds to production and trade. Wheat prices are projected to jump by 28 percent in 2026 and 14 percent in 2027, before easing by 11 percent in 2028. Global wheat output is expected to contract by 3 percent in 2026–27 with reduced harvests in several major producing countries.\n\n[world-bank-cmo-2026-10:45:paragraph-900:4 | CMO-October-2026.pdf | page 45]\nThe aggregate stocks-to-use ratio (a rough measure of supply relative to demand) for grains is expected to be nearly 28 percent in 2026-27, similar to the 30-year average of 27.7 percent and well above the 18.1 percent recorded in 2007-08. Excluding China, the ratio is expected to reach 17.2 percent in 2026-27, still above the 15 percent recorded in 2007-08 (figure B1.3.E). Global food markets could tighten if El Niño coincided with further trade disrup- tions, including additional restrictions on Black Sea grain exports and renewed export controls by major exporters. Unlike grain markets, global edible oil markets are tighter, with aggregate stocks-to-use ratios approaching levels recorded during the 2007–08 price spikes (figure BOX 1 The 2026-27 El Niño: Implications for commodity markets (continued) c.\n\n[world-bank-cmo-2026-10:35:paragraph-900:2 | CMO-October-2026.pdf | page 35]\nIn sum, production declines and export disruptions are expected to reduce global wheat exports by 7 percent in 2026–27, with shipments falling across all nine leading exporters. Maize prices are projected to rise by 10 percent in 2026 and 5 percent in 2027, before declining by 10 percent in 2028. The increases reflect an anticipated 3 percent decline in global production in 2026–27. The forecast assumes some easing in 2027 of the constraints on Black Sea trade created this year by attacks on grain shipments and port infrastructure. Projected output gains of 11 percent in Russia and 8 percent in Ukraine in 2026–27 are expected to partly offset harvest FIGURE 13 Supply conditions for grains and edible oils Strong El Niño conditions have emerged and are expected to intensify in late 2026 and early 2027.",
+    "context_ids": [
+      "world-bank-cmo-2026-10:35:paragraph-900:0",
+      "world-bank-cmo-2026-10:45:paragraph-900:4",
+      "world-bank-cmo-2026-10:35:paragraph-900:2"
+    ],
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "elapsed_ms": 1045.62
+  },
+  {
+    "query_id": "t04",
+    "split": "test",
+    "method": "dense",
+    "query": "What year-on-year copper price increase is projected for 2026 before declines in 2027 and 2028?",
+    "filter": null,
+    "results": [
+      {
+        "id": "world-bank-cmo-2026-10:50:paragraph-900:1",
+        "source_id": "world-bank-cmo-2026-10",
+        "source": "CMO-October-2026.pdf",
+        "page": 50,
+        "text": "Copper mine production growth is expected to remain subdued, reflecting the lingering effects of weather-related disruptions in Indonesia, together with operational constraints and declining ore grades in Chile, the world’s largest producer. Export restrictions in the Democratic Republic of Congo could also constrain copper concentrate trade. Global copper demand declined slightly in the first half of 2026 but is expected to firm in 2027–28, supported by investment in power grids and data centers, as well as the continuing auto- industry pivot toward EV production, which is more copper-intensive. After a projected 33 percent (y/y) increase to a record annual average in 2026, copper prices are forecast to decline by 2 percent in 2027 and 4 percent in 2028 but remain near record highs.",
+        "metadata": {
+          "year": 2026,
+          "section": "metals_and_minerals",
+          "version": "October 2026 edition",
+          "printed_page": 42
+        },
+        "score": 0.7141379557927177,
+        "strategy": "dense",
+        "rank": 1,
+        "evidence_hit": true
+      },
+      {
+        "id": "world-bank-cmo-2026-10:15:paragraph-900:1",
+        "source_id": "world-bank-cmo-2026-10",
+        "source": "CMO-October-2026.pdf",
+        "page": 15,
+        "text": "The metals and minerals index is projected to edge 3 percent (y/y) lower in 2027 as supply conditions improve somewhat for several base metals owing to fading production or export disruptions and new capacity coming on stream. For copper, however, mined supply growth is anticipated to remain subdued, reflecting factors such as declining ore grades in Chile, the world’s largest producer. Assuming global economic growth holds up, buoyant base metal demand driven by, for example, the expansion of renewable energy infrastructure, electric vehicles, and data centers is likely to keep medium-term prices elevated (figure 4.F). Precious metal prices are also expected to register a steep average increase of 40 percent in 2026, amid strong demand for diversifying financial assets against a strained geopolitical backdrop. Gold and silver are both in line to set annual price records.",
+        "metadata": {
+          "year": 2026,
+          "section": "executive_summary",
+          "version": "October 2026 edition",
+          "printed_page": 7
+        },
+        "score": 0.6948132981470532,
+        "strategy": "dense",
+        "rank": 2,
+        "evidence_hit": false
+      },
+      {
+        "id": "world-bank-cmo-2026-10:50:paragraph-900:0",
+        "source_id": "world-bank-cmo-2026-10",
+        "source": "CMO-October-2026.pdf",
+        "page": 50,
+        "text": "METALS AND MINERALS COMMODITY MARKETS OUTLOOK | OCTOBER 2026 42 2027 and 3 percent in 2028 as Gulf production gradually recovers and additional capacity in Africa and Asia comes online. Copper prices rose by 6 percent in 2026Q3 (q/q) and strengthened further in October to new record highs. The rally partly reflects mining disruptions and dislocations between major refined copper markets. Earlier in 2026, uncertainty over possible U.S. tariffs on refined copper imports generated a sizable premium of COMEX copper prices over LME prices. The resulting arbitrage drew refined copper into U.S. warehouses, tightening availability elsewhere and putting upward pressure on LME prices (figure 19.C). Although the COMEX-LME differential narrowed substantially by September, uncertainty persists over whether tariffs will take effect in January 2027, with COMEX inventories around all-time highs.",
+        "metadata": {
+          "year": 2026,
+          "section": "metals_and_minerals",
+          "version": "October 2026 edition",
+          "printed_page": 42
+        },
+        "score": 0.6929592057413225,
+        "strategy": "dense",
+        "rank": 3,
+        "evidence_hit": false
+      }
+    ],
+    "context": "[world-bank-cmo-2026-10:50:paragraph-900:1 | CMO-October-2026.pdf | page 50]\nCopper mine production growth is expected to remain subdued, reflecting the lingering effects of weather-related disruptions in Indonesia, together with operational constraints and declining ore grades in Chile, the world’s largest producer. Export restrictions in the Democratic Republic of Congo could also constrain copper concentrate trade. Global copper demand declined slightly in the first half of 2026 but is expected to firm in 2027–28, supported by investment in power grids and data centers, as well as the continuing auto- industry pivot toward EV production, which is more copper-intensive. After a projected 33 percent (y/y) increase to a record annual average in 2026, copper prices are forecast to decline by 2 percent in 2027 and 4 percent in 2028 but remain near record highs.\n\n[world-bank-cmo-2026-10:15:paragraph-900:1 | CMO-October-2026.pdf | page 15]\nThe metals and minerals index is projected to edge 3 percent (y/y) lower in 2027 as supply conditions improve somewhat for several base metals owing to fading production or export disruptions and new capacity coming on stream. For copper, however, mined supply growth is anticipated to remain subdued, reflecting factors such as declining ore grades in Chile, the world’s largest producer. Assuming global economic growth holds up, buoyant base metal demand driven by, for example, the expansion of renewable energy infrastructure, electric vehicles, and data centers is likely to keep medium-term prices elevated (figure 4.F). Precious metal prices are also expected to register a steep average increase of 40 percent in 2026, amid strong demand for diversifying financial assets against a strained geopolitical backdrop. Gold and silver are both in line to set annual price records.\n\n[world-bank-cmo-2026-10:50:paragraph-900:0 | CMO-October-2026.pdf | page 50]\nMETALS AND MINERALS COMMODITY MARKETS OUTLOOK | OCTOBER 2026 42 2027 and 3 percent in 2028 as Gulf production gradually recovers and additional capacity in Africa and Asia comes online. Copper prices rose by 6 percent in 2026Q3 (q/q) and strengthened further in October to new record highs. The rally partly reflects mining disruptions and dislocations between major refined copper markets. Earlier in 2026, uncertainty over possible U.S. tariffs on refined copper imports generated a sizable premium of COMEX copper prices over LME prices. The resulting arbitrage drew refined copper into U.S. warehouses, tightening availability elsewhere and putting upward pressure on LME prices (figure 19.C). Although the COMEX-LME differential narrowed substantially by September, uncertainty persists over whether tariffs will take effect in January 2027, with COMEX inventories around all-time highs.",
+    "context_ids": [
+      "world-bank-cmo-2026-10:50:paragraph-900:1",
+      "world-bank-cmo-2026-10:15:paragraph-900:1",
+      "world-bank-cmo-2026-10:50:paragraph-900:0"
+    ],
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true,
+    "elapsed_ms": 1002.55
+  },
+  {
+    "query_id": "t05",
+    "split": "test",
+    "method": "dense",
+    "query": "In the Special Focus, which commodity groups are net transmitters and which are net receivers of price volatility?",
+    "filter": null,
+    "results": [
+      {
+        "id": "world-bank-cmo-2026-10:57:paragraph-900:3",
+        "source_id": "world-bank-cmo-2026-10",
+        "source": "CMO-October-2026.pdf",
+        "page": 57,
+        "text": "Sugar is omitted because regulation may affect its price. commodity specific, while about one-third is associated with shocks in other commodity markets. In addition, about half of measured connectedness reflects links among commodities in the same group. • Price volatility transmission is highly uneven across commodity groups. Industrial metals and food are the principal net transmitters, as they transmit much more volatility than they receive. Livestock and soft commodities are at the other end of the spectrum, as they receive considerably more volatility than they transmit. Energy and precious metals occupy an intermediate position as they transmit and receive broadly similar amounts of volatility. • Transmission is concentrated in a small number of individual commodity markets. Copper, maize, oil, and silver stand out as important bridges across commodity groups.",
+        "metadata": {
+          "year": 2026,
+          "section": "special_focus",
+          "version": "October 2026 edition",
+          "printed_page": 49
+        },
+        "score": 0.6969272443957882,
+        "strategy": "dense",
+        "rank": 1,
+        "evidence_hit": false
+      },
+      {
+        "id": "world-bank-cmo-2026-10:59:paragraph-900:1",
+        "source_id": "world-bank-cmo-2026-10",
+        "source": "CMO-October-2026.pdf",
+        "page": 59,
+        "text": "The aggregate measures thus establish the extent of connectedness, but not which groups primarily transmit or absorb volatility or the different roles of commodities within a group. Transmitters and receivers Commodity groups can be similarly connected to the broader system while playing very different roles within it. Directional connectedness separates volatility transmitted to other groups from volatility received from them. The full-sample results show a clear hierarchy: industrial metals and food transmit more volatility than they receive; livestock and soft commodities receive more than they transmit; and energy and precious metals are broadly balanced between the two roles (figure SF .1.D). Net connectedness—the difference between transmitted and received connectedness—provides the clearest summary of this hierarchy.",
+        "metadata": {
+          "year": 2026,
+          "section": "special_focus",
+          "version": "October 2026 edition",
+          "printed_page": 51
+        },
+        "score": 0.6861035892643286,
+        "strategy": "dense",
+        "rank": 2,
+        "evidence_hit": false
+      },
+      {
+        "id": "world-bank-cmo-2026-10:59:paragraph-900:4",
+        "source_id": "world-bank-cmo-2026-10",
+        "source": "CMO-October-2026.pdf",
+        "page": 59,
+        "text": "Energy and precious metals occupy an intermediate position: both have substantial transmitted and received connectedness, making them important conduits even though their full-sample net positions are comparatively small. These broad roles are persistent, although their intensity changes markedly across stress episodes. This hierarchy highlights why the origin and path of a commodity price shock are important. A disturbance entering through a net-transmitting group may be associated with broader subsequent volatility than a similar disturbance affecting a more insulated part of the system. At the same time, group-level measures do not reveal whether transmission is broadly shared among constituent markets or concentrated in a few individual commodities. Pivotal commodities Group-level directional connectedness and commodity-level pivotality answer different questions.",
+        "metadata": {
+          "year": 2026,
+          "section": "special_focus",
+          "version": "October 2026 edition",
+          "printed_page": 51
+        },
+        "score": 0.6430583696055329,
+        "strategy": "dense",
+        "rank": 3,
+        "evidence_hit": false
+      }
+    ],
+    "context": "[world-bank-cmo-2026-10:57:paragraph-900:3 | CMO-October-2026.pdf | page 57]\nSugar is omitted because regulation may affect its price. commodity specific, while about one-third is associated with shocks in other commodity markets. In addition, about half of measured connectedness reflects links among commodities in the same group. • Price volatility transmission is highly uneven across commodity groups. Industrial metals and food are the principal net transmitters, as they transmit much more volatility than they receive. Livestock and soft commodities are at the other end of the spectrum, as they receive considerably more volatility than they transmit. Energy and precious metals occupy an intermediate position as they transmit and receive broadly similar amounts of volatility. • Transmission is concentrated in a small number of individual commodity markets. Copper, maize, oil, and silver stand out as important bridges across commodity groups.\n\n[world-bank-cmo-2026-10:59:paragraph-900:1 | CMO-October-2026.pdf | page 59]\nThe aggregate measures thus establish the extent of connectedness, but not which groups primarily transmit or absorb volatility or the different roles of commodities within a group. Transmitters and receivers Commodity groups can be similarly connected to the broader system while playing very different roles within it. Directional connectedness separates volatility transmitted to other groups from volatility received from them. The full-sample results show a clear hierarchy: industrial metals and food transmit more volatility than they receive; livestock and soft commodities receive more than they transmit; and energy and precious metals are broadly balanced between the two roles (figure SF .1.D). Net connectedness—the difference between transmitted and received connectedness—provides the clearest summary of this hierarchy.\n\n[world-bank-cmo-2026-10:59:paragraph-900:4 | CMO-October-2026.pdf | page 59]\nEnergy and precious metals occupy an intermediate position: both have substantial transmitted and received connectedness, making them important conduits even though their full-sample net positions are comparatively small. These broad roles are persistent, although their intensity changes markedly across stress episodes. This hierarchy highlights why the origin and path of a commodity price shock are important. A disturbance entering through a net-transmitting group may be associated with broader subsequent volatility than a similar disturbance affecting a more insulated part of the system. At the same time, group-level measures do not reveal whether transmission is broadly shared among constituent markets or concentrated in a few individual commodities. Pivotal commodities Group-level directional connectedness and commodity-level pivotality answer different questions.",
+    "context_ids": [
+      "world-bank-cmo-2026-10:57:paragraph-900:3",
+      "world-bank-cmo-2026-10:59:paragraph-900:1",
+      "world-bank-cmo-2026-10:59:paragraph-900:4"
+    ],
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false,
+    "elapsed_ms": 1006.88
+  }
+]

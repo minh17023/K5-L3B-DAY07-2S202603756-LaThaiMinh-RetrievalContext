@@ -1,0 +1,12 @@
+{
+  "split": "dev",
+  "method": "hybrid",
+  "model": "openai/gpt-4o-mini-2024-07-18",
+  "N": 17,
+  "answered": 15,
+  "abstained": 2,
+  "errors": 0,
+  "tool_use": 17,
+  "prompt_tokens": 18823,
+  "completion_tokens": 1559
+}

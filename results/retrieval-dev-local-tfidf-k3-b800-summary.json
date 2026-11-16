@@ -1,0 +1,22 @@
+{
+  "split": "dev",
+  "method": "tfidf",
+  "backend": "local",
+  "top_k": 3,
+  "budget_chars": 800,
+  "N": 15,
+  "hit1": {
+    "n": 8,
+    "N": 15
+  },
+  "hit3": {
+    "n": 13,
+    "N": 15
+  },
+  "context_evidence_rate": {
+    "n": 3,
+    "N": 15
+  },
+  "mean_ms": 3.75,
+  "query_embedding_tokens": 0
+}

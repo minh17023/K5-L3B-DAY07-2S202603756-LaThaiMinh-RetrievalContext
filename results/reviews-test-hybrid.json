@@ -1,0 +1,9 @@
+[
+  {"query_id":"t01","answer_grade":0,"citation_support":[],"note":"Từ chối nhầm. Agent tự thêm năm 2023 vào query; context cuối không có số 100 triệu thùng."},
+  {"query_id":"t02","answer_grade":2,"citation_support":[true],"note":"2,5% và 110 bcm khớp đoạn trang PDF 29."},
+  {"query_id":"t03","answer_grade":2,"citation_support":[true],"note":"Thứ hai lịch sử và cao hơn 3% khớp trang PDF 35."},
+  {"query_id":"t04","answer_grade":2,"citation_support":[true],"note":"33%, rồi giảm 2% và 4% khớp trang PDF 50."},
+  {"query_id":"t05","answer_grade":2,"citation_support":[true],"note":"Bốn nhóm chính và nhận xét thêm về năng lượng/kim loại quý đều được đoạn trang PDF 62 hỗ trợ."},
+  {"query_id":"t_missing_01","abstention_correct":true,"citation_support":[],"note":"Báo cáo không dự báo giá urea chính xác tháng 12/2031."},
+  {"query_id":"t_missing_02","abstention_correct":true,"citation_support":[],"note":"Báo cáo không dự báo giá lithium năm 2032."}
+]

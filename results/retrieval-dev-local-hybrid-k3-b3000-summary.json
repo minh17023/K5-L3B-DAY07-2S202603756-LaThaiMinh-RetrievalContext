@@ -1,0 +1,22 @@
+{
+  "split": "dev",
+  "method": "hybrid",
+  "backend": "local",
+  "top_k": 3,
+  "budget_chars": 3000,
+  "N": 15,
+  "hit1": {
+    "n": 12,
+    "N": 15
+  },
+  "hit3": {
+    "n": 14,
+    "N": 15
+  },
+  "context_evidence_rate": {
+    "n": 14,
+    "N": 15
+  },
+  "mean_ms": 1046.37,
+  "query_embedding_tokens": 266
+}

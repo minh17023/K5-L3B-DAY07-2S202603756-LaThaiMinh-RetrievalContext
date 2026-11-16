@@ -1,0 +1,1733 @@
+[
+  {
+    "status": "answered",
+    "answer": "In September, flows of refined oil products from the Gulf region were less than half of preconflict levels due to damage to refineries. In contrast, crude oil exports from the region were close to preconflict volumes, supported by pipeline flows and alternative shipping methods [world-bank-cmo-2026-10:9:paragraph-900:0].",
+    "citations": [
+      "world-bank-cmo-2026-10:9:paragraph-900:0"
+    ],
+    "rejected_answer": null,
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_report",
+        "query": "refined oil product flows from the Gulf region September preconflict levels",
+        "method": "hybrid",
+        "filter": null,
+        "top_k": 3,
+        "results": [
+          {
+            "id": "world-bank-cmo-2026-10:13:paragraph-900:1",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 13,
+            "text": "Global oil supply is projected to fall by 5.5 mb/d (5.2 percent) in 2026, the largest decline in more than four decades outside the 2020 global recession. Modest increases in oil output in advanced economies, such as Canada and the United States, as well as in Latin America and the Caribbean, are on track to offset only a small share of very large production losses in the Middle East (figure 4.C). Next year, operational adaptations that have facilitated increased crude oil exports from the Gulf region in recent months are assumed to remain effective, allowing shipments to continue gradually building. A recovery in the global production of refined products is likely to lag. Refinery throughput is anticipated to recover to preconflict levels around mid−2027, as repairs to refineries and export facilities progress in the Middle East and Russia, and refining capacity expands elsewhere.",
+            "metadata": {
+              "section": "executive_summary",
+              "year": 2026,
+              "printed_page": 5,
+              "version": "October 2026 edition"
+            },
+            "score": 0.031754032258064516,
+            "strategy": "hybrid",
+            "rank": 1
+          },
+          {
+            "id": "world-bank-cmo-2026-10:9:paragraph-900:0",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 9,
+            "text": "EXECUTIVE SUMMARYCOMMODITY MARKETS OUTLOOK | OCTOBER 2026 1 The state of commodity markets The outlook for commodity markets has become increasingly complex amid potentially reinforcing shocks related to multiple conflict fronts and an unusually powerful El Niño. Crude oil exports from the Gulf region have recently been close to preconflict volumes, aided by pipeline flows and workarounds such as ship-to-ship transfers beyond the Strait of Hormuz. Nonetheless, flows of refined oil products from the region have remained depressed amid damage to refineries, at less than half of preconflict levels in September. Meanwhile attacks on Saudi Arabia’s East-West Pipeline and threats to shipping in the Red Sea highlight the potential vulnerability of alternative export routes for crude oil that helped to attenuate disruptions this year.",
+            "metadata": {
+              "section": "executive_summary",
+              "year": 2026,
+              "printed_page": 1,
+              "version": "October 2026 edition"
+            },
+            "score": 0.031099324975891997,
+            "strategy": "hybrid",
+            "rank": 2
+          },
+          {
+            "id": "world-bank-cmo-2026-10:24:paragraph-900:2",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 24,
+            "text": "In the Gulf, required repairs to damaged facilities are likely to delay a full return of refinery throughput to pre-conflict levels until 2027Q2. Even as crude flows return, the normalization of the oil market is anticipated to be slow and potentially halting in the absence of a comprehensive resolution to the conflict. Regional oil-transport bottlenecks are expected to linger as limited tanker availability, shipowners’ reluctance to transit high-risk routes, and continued reliance FIGURE 8 Oil market: Demand and supply Global oil consumption is projected to fall by 2.6 mb/d in 2026, owing to the effects of high prices and supply shortages. The decline is clustered in EMDEs, with sizeable falls occurring in China, Russia and several Gulf economies.",
+            "metadata": {
+              "section": "energy",
+              "year": 2026,
+              "printed_page": 16,
+              "version": "October 2026 edition"
+            },
+            "score": 0.030886196246139225,
+            "strategy": "hybrid",
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "world-bank-cmo-2026-10:13:paragraph-900:1",
+          "world-bank-cmo-2026-10:9:paragraph-900:0",
+          "world-bank-cmo-2026-10:24:paragraph-900:2"
+        ],
+        "context": "[world-bank-cmo-2026-10:13:paragraph-900:1 | CMO-October-2026.pdf | page 13]\nGlobal oil supply is projected to fall by 5.5 mb/d (5.2 percent) in 2026, the largest decline in more than four decades outside the 2020 global recession. Modest increases in oil output in advanced economies, such as Canada and the United States, as well as in Latin America and the Caribbean, are on track to offset only a small share of very large production losses in the Middle East (figure 4.C). Next year, operational adaptations that have facilitated increased crude oil exports from the Gulf region in recent months are assumed to remain effective, allowing shipments to continue gradually building. A recovery in the global production of refined products is likely to lag. Refinery throughput is anticipated to recover to preconflict levels around mid−2027, as repairs to refineries and export facilities progress in the Middle East and Russia, and refining capacity expands elsewhere.\n\n[world-bank-cmo-2026-10:9:paragraph-900:0 | CMO-October-2026.pdf | page 9]\nEXECUTIVE SUMMARYCOMMODITY MARKETS OUTLOOK | OCTOBER 2026 1 The state of commodity markets The outlook for commodity markets has become increasingly complex amid potentially reinforcing shocks related to multiple conflict fronts and an unusually powerful El Niño. Crude oil exports from the Gulf region have recently been close to preconflict volumes, aided by pipeline flows and workarounds such as ship-to-ship transfers beyond the Strait of Hormuz. Nonetheless, flows of refined oil products from the region have remained depressed amid damage to refineries, at less than half of preconflict levels in September. Meanwhile attacks on Saudi Arabia’s East-West Pipeline and threats to shipping in the Red Sea highlight the potential vulnerability of alternative export routes for crude oil that helped to attenuate disruptions this year.\n\n[world-bank-cmo-2026-10:24:paragraph-900:2 | CMO-October-2026.pdf | page 24]\nIn the Gulf, required repairs to damaged facilities are likely to delay a full return of refinery throughput to pre-conflict levels until 2027Q2. Even as crude flows return, the normalization of the oil market is anticipated to be slow and potentially halting in the absence of a comprehensive resolution to the conflict. Regional oil-transport bottlenecks are expected to linger as limited tanker availability, shipowners’ reluctance to transit high-risk routes, and continued reliance FIGURE 8 Oil market: Demand and supply Global oil consumption is projected to fall by 2.6 mb/d in 2026, owing to the effects of high prices and supply shortages. The decline is clustered in EMDEs, with sizeable falls occurring in China, Russia and several Gulf economies."
+      }
+    ],
+    "context": "[world-bank-cmo-2026-10:13:paragraph-900:1 | CMO-October-2026.pdf | page 13]\nGlobal oil supply is projected to fall by 5.5 mb/d (5.2 percent) in 2026, the largest decline in more than four decades outside the 2020 global recession. Modest increases in oil output in advanced economies, such as Canada and the United States, as well as in Latin America and the Caribbean, are on track to offset only a small share of very large production losses in the Middle East (figure 4.C). Next year, operational adaptations that have facilitated increased crude oil exports from the Gulf region in recent months are assumed to remain effective, allowing shipments to continue gradually building. A recovery in the global production of refined products is likely to lag. Refinery throughput is anticipated to recover to preconflict levels around mid−2027, as repairs to refineries and export facilities progress in the Middle East and Russia, and refining capacity expands elsewhere.\n\n[world-bank-cmo-2026-10:9:paragraph-900:0 | CMO-October-2026.pdf | page 9]\nEXECUTIVE SUMMARYCOMMODITY MARKETS OUTLOOK | OCTOBER 2026 1 The state of commodity markets The outlook for commodity markets has become increasingly complex amid potentially reinforcing shocks related to multiple conflict fronts and an unusually powerful El Niño. Crude oil exports from the Gulf region have recently been close to preconflict volumes, aided by pipeline flows and workarounds such as ship-to-ship transfers beyond the Strait of Hormuz. Nonetheless, flows of refined oil products from the region have remained depressed amid damage to refineries, at less than half of preconflict levels in September. Meanwhile attacks on Saudi Arabia’s East-West Pipeline and threats to shipping in the Red Sea highlight the potential vulnerability of alternative export routes for crude oil that helped to attenuate disruptions this year.\n\n[world-bank-cmo-2026-10:24:paragraph-900:2 | CMO-October-2026.pdf | page 24]\nIn the Gulf, required repairs to damaged facilities are likely to delay a full return of refinery throughput to pre-conflict levels until 2027Q2. Even as crude flows return, the normalization of the oil market is anticipated to be slow and potentially halting in the absence of a comprehensive resolution to the conflict. Regional oil-transport bottlenecks are expected to linger as limited tanker availability, shipowners’ reluctance to transit high-risk routes, and continued reliance FIGURE 8 Oil market: Demand and supply Global oil consumption is projected to fall by 2.6 mb/d in 2026, owing to the effects of high prices and supply shortages. The decline is clustered in EMDEs, with sizeable falls occurring in China, Russia and several Gulf economies.",
+    "context_ids": [
+      "world-bank-cmo-2026-10:13:paragraph-900:1",
+      "world-bank-cmo-2026-10:9:paragraph-900:0",
+      "world-bank-cmo-2026-10:24:paragraph-900:2"
+    ],
+    "model": "openai/gpt-4o-mini-2024-07-18",
+    "usage": {
+      "prompt_tokens": 1015,
+      "completion_tokens": 100
+    },
+    "elapsed_ms": 5231.66,
+    "query_id": "q01",
+    "split": "dev",
+    "question": "In September, how did refined oil product flows from the Gulf region compare with preconflict levels?",
+    "method": "hybrid",
+    "backend": "local",
+    "top_k": 3,
+    "budget_chars": 3000,
+    "max_searches": 2
+  },
+  {
+    "status": "answered",
+    "answer": "The World Bank Group's metals and minerals index increased by 31 percent in 2026 relative to the first nine months of 2025 [world-bank-cmo-2026-10:11:paragraph-900:0].",
+    "citations": [
+      "world-bank-cmo-2026-10:11:paragraph-900:0"
+    ],
+    "rejected_answer": null,
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_report",
+        "query": "World Bank Group metals and minerals index rise 2026 relative to first nine months of 2025",
+        "method": "hybrid",
+        "filter": null,
+        "top_k": 3,
+        "results": [
+          {
+            "id": "world-bank-cmo-2026-10:11:paragraph-900:0",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 11,
+            "text": "EXECUTIVE SUMMARYCOMMODITY MARKETS OUTLOOK | OCTOBER 2026 3 breadbasket region, contributing to a 14 percent increase in global grain prices between June and September. Food prices would likely have risen even more in recent months if not for near-record supplies of staple grains coming out of the global 2025–26 season. The World Bank Group’s metals and minerals index (which excludes precious metals) has increased by 31 percent this year, relative to the first nine months of 2025. Since April, prices of aluminum, copper, and tin have all hit records. Copper mine output has been somewhat lower than anticipated, while aluminum prices were driven to new peaks in May by conflict-related declines in supply from the Middle East. Meanwhile, the prospect of additional U.S. tariffs has increased inventory demand for copper.",
+            "metadata": {
+              "section": "executive_summary",
+              "year": 2026,
+              "printed_page": 3,
+              "version": "October 2026 edition"
+            },
+            "score": 0.032018442622950824,
+            "strategy": "hybrid",
+            "rank": 1
+          },
+          {
+            "id": "world-bank-cmo-2026-10:15:paragraph-900:0",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 15,
+            "text": "EXECUTIVE SUMMARYCOMMODITY MARKETS OUTLOOK | OCTOBER 2026 7 meaningfully higher average prices this year, in part because of farmers shifting purchases away from more expensive fertilizers. Next year, fertilizer prices are forecast to revert to about 2025 levels, premised on declining energy costs and improved access to inputs such as ammonia and sulfur. Metals and minerals The World Bank Group’s metals and minerals price index is projected to reach a new high in 2026, rising by a projected 25 percent (y/y). Prices of base metals, including aluminum, copper, and tin, are on track for large gains reflecting various supply constraints and growing investment in energy transition and other advanced technologies. Meanwhile, iron ore prices weigh on the aggregate index amid tepid traditional construction investment, especially in China.",
+            "metadata": {
+              "section": "executive_summary",
+              "year": 2026,
+              "printed_page": 7,
+              "version": "October 2026 edition"
+            },
+            "score": 0.031024531024531024,
+            "strategy": "hybrid",
+            "rank": 2
+          },
+          {
+            "id": "world-bank-cmo-2026-10:19:paragraph-900:3",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 19,
+            "text": "Over the five years through 2030, the World Bank Group is targeting a fivefold increase in financing of the metals and minerals sector, to $19 billion, to support mineral-rich EMDEs in converting their natural endowments into lasting prosperity. T o foster dynamic private sectors and help create jobs more broadly, the World Bank Group has accelerated and simplified its ability to catalyze private capital flows alongside its financing and knowledge services. Through enhanced private capital mobilization, the institution will seek to deepen investment in the next generation of youth in client countries—in particular, by improving the conditions for job creation.",
+            "metadata": {
+              "section": "executive_summary",
+              "year": 2026,
+              "printed_page": 11,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03028233151183971,
+            "strategy": "hybrid",
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "world-bank-cmo-2026-10:11:paragraph-900:0",
+          "world-bank-cmo-2026-10:15:paragraph-900:0",
+          "world-bank-cmo-2026-10:19:paragraph-900:3"
+        ],
+        "context": "[world-bank-cmo-2026-10:11:paragraph-900:0 | CMO-October-2026.pdf | page 11]\nEXECUTIVE SUMMARYCOMMODITY MARKETS OUTLOOK | OCTOBER 2026 3 breadbasket region, contributing to a 14 percent increase in global grain prices between June and September. Food prices would likely have risen even more in recent months if not for near-record supplies of staple grains coming out of the global 2025–26 season. The World Bank Group’s metals and minerals index (which excludes precious metals) has increased by 31 percent this year, relative to the first nine months of 2025. Since April, prices of aluminum, copper, and tin have all hit records. Copper mine output has been somewhat lower than anticipated, while aluminum prices were driven to new peaks in May by conflict-related declines in supply from the Middle East. Meanwhile, the prospect of additional U.S. tariffs has increased inventory demand for copper.\n\n[world-bank-cmo-2026-10:15:paragraph-900:0 | CMO-October-2026.pdf | page 15]\nEXECUTIVE SUMMARYCOMMODITY MARKETS OUTLOOK | OCTOBER 2026 7 meaningfully higher average prices this year, in part because of farmers shifting purchases away from more expensive fertilizers. Next year, fertilizer prices are forecast to revert to about 2025 levels, premised on declining energy costs and improved access to inputs such as ammonia and sulfur. Metals and minerals The World Bank Group’s metals and minerals price index is projected to reach a new high in 2026, rising by a projected 25 percent (y/y). Prices of base metals, including aluminum, copper, and tin, are on track for large gains reflecting various supply constraints and growing investment in energy transition and other advanced technologies. Meanwhile, iron ore prices weigh on the aggregate index amid tepid traditional construction investment, especially in China.\n\n[world-bank-cmo-2026-10:19:paragraph-900:3 | CMO-October-2026.pdf | page 19]\nOver the five years through 2030, the World Bank Group is targeting a fivefold increase in financing of the metals and minerals sector, to $19 billion, to support mineral-rich EMDEs in converting their natural endowments into lasting prosperity. T o foster dynamic private sectors and help create jobs more broadly, the World Bank Group has accelerated and simplified its ability to catalyze private capital flows alongside its financing and knowledge services. Through enhanced private capital mobilization, the institution will seek to deepen investment in the next generation of youth in client countries—in particular, by improving the conditions for job creation."
+      }
+    ],
+    "context": "[world-bank-cmo-2026-10:11:paragraph-900:0 | CMO-October-2026.pdf | page 11]\nEXECUTIVE SUMMARYCOMMODITY MARKETS OUTLOOK | OCTOBER 2026 3 breadbasket region, contributing to a 14 percent increase in global grain prices between June and September. Food prices would likely have risen even more in recent months if not for near-record supplies of staple grains coming out of the global 2025–26 season. The World Bank Group’s metals and minerals index (which excludes precious metals) has increased by 31 percent this year, relative to the first nine months of 2025. Since April, prices of aluminum, copper, and tin have all hit records. Copper mine output has been somewhat lower than anticipated, while aluminum prices were driven to new peaks in May by conflict-related declines in supply from the Middle East. Meanwhile, the prospect of additional U.S. tariffs has increased inventory demand for copper.\n\n[world-bank-cmo-2026-10:15:paragraph-900:0 | CMO-October-2026.pdf | page 15]\nEXECUTIVE SUMMARYCOMMODITY MARKETS OUTLOOK | OCTOBER 2026 7 meaningfully higher average prices this year, in part because of farmers shifting purchases away from more expensive fertilizers. Next year, fertilizer prices are forecast to revert to about 2025 levels, premised on declining energy costs and improved access to inputs such as ammonia and sulfur. Metals and minerals The World Bank Group’s metals and minerals price index is projected to reach a new high in 2026, rising by a projected 25 percent (y/y). Prices of base metals, including aluminum, copper, and tin, are on track for large gains reflecting various supply constraints and growing investment in energy transition and other advanced technologies. Meanwhile, iron ore prices weigh on the aggregate index amid tepid traditional construction investment, especially in China.\n\n[world-bank-cmo-2026-10:19:paragraph-900:3 | CMO-October-2026.pdf | page 19]\nOver the five years through 2030, the World Bank Group is targeting a fivefold increase in financing of the metals and minerals sector, to $19 billion, to support mineral-rich EMDEs in converting their natural endowments into lasting prosperity. T o foster dynamic private sectors and help create jobs more broadly, the World Bank Group has accelerated and simplified its ability to catalyze private capital flows alongside its financing and knowledge services. Through enhanced private capital mobilization, the institution will seek to deepen investment in the next generation of youth in client countries—in particular, by improving the conditions for job creation.",
+    "context_ids": [
+      "world-bank-cmo-2026-10:11:paragraph-900:0",
+      "world-bank-cmo-2026-10:15:paragraph-900:0",
+      "world-bank-cmo-2026-10:19:paragraph-900:3"
+    ],
+    "model": "openai/gpt-4o-mini-2024-07-18",
+    "usage": {
+      "prompt_tokens": 1005,
+      "completion_tokens": 81
+    },
+    "elapsed_ms": 5032.46,
+    "query_id": "q02",
+    "split": "dev",
+    "question": "By how much had the World Bank Group's metals and minerals index risen in 2026 relative to the first nine months of 2025?",
+    "method": "hybrid",
+    "backend": "local",
+    "top_k": 3,
+    "budget_chars": 3000,
+    "max_searches": 2
+  },
+  {
+    "status": "answered",
+    "answer": "Beverage prices are expected to retreat by 24 percent year-on-year in 2026 due to a recovery in cocoa and coffee production from previous declines caused by disease and weather-related issues. Following this decline, average beverage prices are forecast to stabilize, with a slight increase of 3 percent anticipated in 2027, primarily driven by higher cocoa prices. Key risks to this outlook include potential weather-related disruptions, particularly from El Niño [world-bank-cmo-2026-10:14:paragraph-900:0][world-bank-cmo-2026-10:40:paragraph-900:3].",
+    "citations": [
+      "world-bank-cmo-2026-10:14:paragraph-900:0",
+      "world-bank-cmo-2026-10:40:paragraph-900:3"
+    ],
+    "rejected_answer": null,
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_report",
+        "query": "beverage prices 2026 forecast",
+        "method": "hybrid",
+        "filter": null,
+        "top_k": 3,
+        "results": [
+          {
+            "id": "world-bank-cmo-2026-10:14:paragraph-900:0",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 14,
+            "text": "EXECUTIVE SUMMARY COMMODITY MARKETS OUTLOOK | OCTOBER 2026 6 Beverage prices are expected to retreat by 24 percent (y/y) in 2026, as both cocoa and coffee production recover from past disease- and weather-related declines. Average beverage prices are forecast to broadly stabilize thereafter, as declining coffee prices partly offset a pickup in cocoa prices. In all, the World Bank Group’s agricultural commodity price index—a composite measure for food, beverages, and raw materials—is forecast to inch up this year, then gain 5 percent in 2027. The effects of El Niño are evident in several price forecast revisions relative to April 2026. The palm oil price forecast, for instance, has been revised higher by 15 percent in 2027 amid unusually dry conditions in Indonesia.",
+            "metadata": {
+              "section": "executive_summary",
+              "year": 2026,
+              "printed_page": 6,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03278688524590164,
+            "strategy": "hybrid",
+            "rank": 1
+          },
+          {
+            "id": "world-bank-cmo-2026-10:40:paragraph-900:3",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 40,
+            "text": "Mombasa auction prices were little changed in the quarter but remained 8 percent higher than a year earlier as softer demand FIGURE 16 Beverage markets Beverage prices climbed in 2026Q3, as coffee and cocoa prices increased amid unfavorable weather conditions, while tea prices were broadly stable. The beverage price index is projected to decline by 24 percent this year as a prior squeeze on supplies abates. It is then expected to edge 3 percent higher in 2027, primarily driven by higher cocoa prices, and to stabilize in 2028. Key risks to the outlook include weather-related disruptions to production, owing in particular, to El Niño. A. Coffee prices Sources: Africa Tea Brokers Limited; Bloomberg; International Tea Committee; Tea Board India; Tea Exporters Association Sri Lanka; U.S. Department of Agriculture; World Bank. Note: mt = metric ton. A.C.E. Monthly data.",
+            "metadata": {
+              "section": "agriculture",
+              "year": 2026,
+              "printed_page": 32,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03200204813108039,
+            "strategy": "hybrid",
+            "rank": 2
+          },
+          {
+            "id": "world-bank-cmo-2026-10:39:paragraph-900:3",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 39,
+            "text": "Beverages Recent developments The World Bank Group’s beverage price index firmed in the first half of October, following a 20 percent surge in 2026Q3 (q/q), although it remained 12 percent lower than a year earlier. El Niño-related supply concerns heightened expectations of tighter coffee and cocoa supplies, pushing prices higher. T ea prices, in contrast, remained relatively stable. Coffee prices rebounded in 2026Q3 following two consecutive quarterly declines (figure 16.A). Arabica prices rose by 10 percent in the quarter but remained 4 percent lower than a year earlier.",
+            "metadata": {
+              "section": "agriculture",
+              "year": 2026,
+              "printed_page": 31,
+              "version": "October 2026 edition"
+            },
+            "score": 0.0315136476426799,
+            "strategy": "hybrid",
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "world-bank-cmo-2026-10:14:paragraph-900:0",
+          "world-bank-cmo-2026-10:40:paragraph-900:3",
+          "world-bank-cmo-2026-10:39:paragraph-900:3"
+        ],
+        "context": "[world-bank-cmo-2026-10:14:paragraph-900:0 | CMO-October-2026.pdf | page 14]\nEXECUTIVE SUMMARY COMMODITY MARKETS OUTLOOK | OCTOBER 2026 6 Beverage prices are expected to retreat by 24 percent (y/y) in 2026, as both cocoa and coffee production recover from past disease- and weather-related declines. Average beverage prices are forecast to broadly stabilize thereafter, as declining coffee prices partly offset a pickup in cocoa prices. In all, the World Bank Group’s agricultural commodity price index—a composite measure for food, beverages, and raw materials—is forecast to inch up this year, then gain 5 percent in 2027. The effects of El Niño are evident in several price forecast revisions relative to April 2026. The palm oil price forecast, for instance, has been revised higher by 15 percent in 2027 amid unusually dry conditions in Indonesia.\n\n[world-bank-cmo-2026-10:40:paragraph-900:3 | CMO-October-2026.pdf | page 40]\nMombasa auction prices were little changed in the quarter but remained 8 percent higher than a year earlier as softer demand FIGURE 16 Beverage markets Beverage prices climbed in 2026Q3, as coffee and cocoa prices increased amid unfavorable weather conditions, while tea prices were broadly stable. The beverage price index is projected to decline by 24 percent this year as a prior squeeze on supplies abates. It is then expected to edge 3 percent higher in 2027, primarily driven by higher cocoa prices, and to stabilize in 2028. Key risks to the outlook include weather-related disruptions to production, owing in particular, to El Niño. A. Coffee prices Sources: Africa Tea Brokers Limited; Bloomberg; International Tea Committee; Tea Board India; Tea Exporters Association Sri Lanka; U.S. Department of Agriculture; World Bank. Note: mt = metric ton. A.C.E. Monthly data.\n\n[world-bank-cmo-2026-10:39:paragraph-900:3 | CMO-October-2026.pdf | page 39]\nBeverages Recent developments The World Bank Group’s beverage price index firmed in the first half of October, following a 20 percent surge in 2026Q3 (q/q), although it remained 12 percent lower than a year earlier. El Niño-related supply concerns heightened expectations of tighter coffee and cocoa supplies, pushing prices higher. T ea prices, in contrast, remained relatively stable. Coffee prices rebounded in 2026Q3 following two consecutive quarterly declines (figure 16.A). Arabica prices rose by 10 percent in the quarter but remained 4 percent lower than a year earlier."
+      }
+    ],
+    "context": "[world-bank-cmo-2026-10:14:paragraph-900:0 | CMO-October-2026.pdf | page 14]\nEXECUTIVE SUMMARY COMMODITY MARKETS OUTLOOK | OCTOBER 2026 6 Beverage prices are expected to retreat by 24 percent (y/y) in 2026, as both cocoa and coffee production recover from past disease- and weather-related declines. Average beverage prices are forecast to broadly stabilize thereafter, as declining coffee prices partly offset a pickup in cocoa prices. In all, the World Bank Group’s agricultural commodity price index—a composite measure for food, beverages, and raw materials—is forecast to inch up this year, then gain 5 percent in 2027. The effects of El Niño are evident in several price forecast revisions relative to April 2026. The palm oil price forecast, for instance, has been revised higher by 15 percent in 2027 amid unusually dry conditions in Indonesia.\n\n[world-bank-cmo-2026-10:40:paragraph-900:3 | CMO-October-2026.pdf | page 40]\nMombasa auction prices were little changed in the quarter but remained 8 percent higher than a year earlier as softer demand FIGURE 16 Beverage markets Beverage prices climbed in 2026Q3, as coffee and cocoa prices increased amid unfavorable weather conditions, while tea prices were broadly stable. The beverage price index is projected to decline by 24 percent this year as a prior squeeze on supplies abates. It is then expected to edge 3 percent higher in 2027, primarily driven by higher cocoa prices, and to stabilize in 2028. Key risks to the outlook include weather-related disruptions to production, owing in particular, to El Niño. A. Coffee prices Sources: Africa Tea Brokers Limited; Bloomberg; International Tea Committee; Tea Board India; Tea Exporters Association Sri Lanka; U.S. Department of Agriculture; World Bank. Note: mt = metric ton. A.C.E. Monthly data.\n\n[world-bank-cmo-2026-10:39:paragraph-900:3 | CMO-October-2026.pdf | page 39]\nBeverages Recent developments The World Bank Group’s beverage price index firmed in the first half of October, following a 20 percent surge in 2026Q3 (q/q), although it remained 12 percent lower than a year earlier. El Niño-related supply concerns heightened expectations of tighter coffee and cocoa supplies, pushing prices higher. T ea prices, in contrast, remained relatively stable. Coffee prices rebounded in 2026Q3 following two consecutive quarterly declines (figure 16.A). Arabica prices rose by 10 percent in the quarter but remained 4 percent lower than a year earlier.",
+    "context_ids": [
+      "world-bank-cmo-2026-10:14:paragraph-900:0",
+      "world-bank-cmo-2026-10:40:paragraph-900:3",
+      "world-bank-cmo-2026-10:39:paragraph-900:3"
+    ],
+    "model": "openai/gpt-4o-mini-2024-07-18",
+    "usage": {
+      "prompt_tokens": 980,
+      "completion_tokens": 145
+    },
+    "elapsed_ms": 5658.48,
+    "query_id": "q03",
+    "split": "dev",
+    "question": "What change in beverage prices does the report expect for 2026, and why?",
+    "method": "hybrid",
+    "backend": "local",
+    "top_k": 3,
+    "budget_chars": 3000,
+    "max_searches": 2
+  },
+  {
+    "status": "answered",
+    "answer": "In 2025, approximately 779 million people experienced severe food insecurity worldwide, a decrease from 803 million in 2024 and 837 million in 2021. This represented 9.5 percent of the global population, compared to an average of 8.1 percent in the years 2015–2019 [world-bank-cmo-2026-10:18:paragraph-900:1].",
+    "citations": [
+      "world-bank-cmo-2026-10:18:paragraph-900:1"
+    ],
+    "rejected_answer": null,
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_report",
+        "query": "severe food insecurity worldwide 2025",
+        "method": "hybrid",
+        "filter": null,
+        "top_k": 3,
+        "results": [
+          {
+            "id": "world-bank-cmo-2026-10:18:paragraph-900:1",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 18,
+            "text": "People experiencing severe food insecurity worldwide numbered 779 million in 2025, down from 803 million in 2024 and 837 million in 2021. Even so, efforts to reduce food insecurity have regressed since the 2010s: severe food insecurity affected 9.5 percent of the global population in 2025, compared with an average of 8.1 percent in 2015–19 (figure 6.B). Moreover, the baseline outlook brings an end to the tailwind from falling global food commodity prices between 2023 and 2025, which had put downward pressure on consumer food costs. In this context, EMDE food price inflation picked up to a median of 3.9 percent (y/y) in 2026Q3, from 3.5 percent the previous quarter, and may firm further as sizable increases in grain and oilseed prices feed through.",
+            "metadata": {
+              "section": "executive_summary",
+              "year": 2026,
+              "printed_page": 10,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03252247488101534,
+            "strategy": "hybrid",
+            "rank": 1
+          },
+          {
+            "id": "world-bank-cmo-2026-10:39:paragraph-900:2",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 39,
+            "text": "The number of people experiencing severe food insecurity worldwide fell to about 779 million in 2025 from 803 million in 2024 and 837 million in 2021 (figure 15.B). The 21 percent decline in global food commodity prices between 2022 and 2025 likely contributed to these gains. Even so, severe food insecurity affected 9.5 percent of the global population in 2025, well above the 8.1 percent average in the five years before COVID-19. With food prices forecast to rise by a cumulative 18 percent in 2026–27 amid overlapping weather, logistics, and conflict shocks, this tailwind for the fight against hunger appears set to become a headwind. These challenges are compounded by surging energy prices, which strain household budgets and further erode food affordability.",
+            "metadata": {
+              "section": "agriculture",
+              "year": 2026,
+              "printed_page": 31,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03252247488101534,
+            "strategy": "hybrid",
+            "rank": 2
+          },
+          {
+            "id": "world-bank-cmo-2026-10:39:paragraph-900:4",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 39,
+            "text": "The recent price increase reflects excessive rainfall in Brazil (the world’s largest coffee producer), FIGURE 15 Food price inflation and food insecurity Domestic food inflation in EMDEs increased in 2026Q3, particularly in the Middle East, North Africa, Afghanistan and Pakistan, South Asia, and Sub-Saharan Africa regions, and it could rise further, particularly given the forecast increases in the prices of grains and edible oils. The number of people experiencing severe food insecurity globally declined slightly in 2025. However, food insecurity remains more prevalent than in the late 2010s, and renewed food price increases anticipated in 2026–27 could reverse recent progress. Sources: Food and Agriculture Organization of the United Nations (FAOSTAT database); Haver Analytics; World Bank.",
+            "metadata": {
+              "section": "agriculture",
+              "year": 2026,
+              "printed_page": 31,
+              "version": "October 2026 edition"
+            },
+            "score": 0.031746031746031744,
+            "strategy": "hybrid",
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "world-bank-cmo-2026-10:18:paragraph-900:1",
+          "world-bank-cmo-2026-10:39:paragraph-900:2",
+          "world-bank-cmo-2026-10:39:paragraph-900:4"
+        ],
+        "context": "[world-bank-cmo-2026-10:18:paragraph-900:1 | CMO-October-2026.pdf | page 18]\nPeople experiencing severe food insecurity worldwide numbered 779 million in 2025, down from 803 million in 2024 and 837 million in 2021. Even so, efforts to reduce food insecurity have regressed since the 2010s: severe food insecurity affected 9.5 percent of the global population in 2025, compared with an average of 8.1 percent in 2015–19 (figure 6.B). Moreover, the baseline outlook brings an end to the tailwind from falling global food commodity prices between 2023 and 2025, which had put downward pressure on consumer food costs. In this context, EMDE food price inflation picked up to a median of 3.9 percent (y/y) in 2026Q3, from 3.5 percent the previous quarter, and may firm further as sizable increases in grain and oilseed prices feed through.\n\n[world-bank-cmo-2026-10:39:paragraph-900:2 | CMO-October-2026.pdf | page 39]\nThe number of people experiencing severe food insecurity worldwide fell to about 779 million in 2025 from 803 million in 2024 and 837 million in 2021 (figure 15.B). The 21 percent decline in global food commodity prices between 2022 and 2025 likely contributed to these gains. Even so, severe food insecurity affected 9.5 percent of the global population in 2025, well above the 8.1 percent average in the five years before COVID-19. With food prices forecast to rise by a cumulative 18 percent in 2026–27 amid overlapping weather, logistics, and conflict shocks, this tailwind for the fight against hunger appears set to become a headwind. These challenges are compounded by surging energy prices, which strain household budgets and further erode food affordability.\n\n[world-bank-cmo-2026-10:39:paragraph-900:4 | CMO-October-2026.pdf | page 39]\nThe recent price increase reflects excessive rainfall in Brazil (the world’s largest coffee producer), FIGURE 15 Food price inflation and food insecurity Domestic food inflation in EMDEs increased in 2026Q3, particularly in the Middle East, North Africa, Afghanistan and Pakistan, South Asia, and Sub-Saharan Africa regions, and it could rise further, particularly given the forecast increases in the prices of grains and edible oils. The number of people experiencing severe food insecurity globally declined slightly in 2025. However, food insecurity remains more prevalent than in the late 2010s, and renewed food price increases anticipated in 2026–27 could reverse recent progress. Sources: Food and Agriculture Organization of the United Nations (FAOSTAT database); Haver Analytics; World Bank."
+      }
+    ],
+    "context": "[world-bank-cmo-2026-10:18:paragraph-900:1 | CMO-October-2026.pdf | page 18]\nPeople experiencing severe food insecurity worldwide numbered 779 million in 2025, down from 803 million in 2024 and 837 million in 2021. Even so, efforts to reduce food insecurity have regressed since the 2010s: severe food insecurity affected 9.5 percent of the global population in 2025, compared with an average of 8.1 percent in 2015–19 (figure 6.B). Moreover, the baseline outlook brings an end to the tailwind from falling global food commodity prices between 2023 and 2025, which had put downward pressure on consumer food costs. In this context, EMDE food price inflation picked up to a median of 3.9 percent (y/y) in 2026Q3, from 3.5 percent the previous quarter, and may firm further as sizable increases in grain and oilseed prices feed through.\n\n[world-bank-cmo-2026-10:39:paragraph-900:2 | CMO-October-2026.pdf | page 39]\nThe number of people experiencing severe food insecurity worldwide fell to about 779 million in 2025 from 803 million in 2024 and 837 million in 2021 (figure 15.B). The 21 percent decline in global food commodity prices between 2022 and 2025 likely contributed to these gains. Even so, severe food insecurity affected 9.5 percent of the global population in 2025, well above the 8.1 percent average in the five years before COVID-19. With food prices forecast to rise by a cumulative 18 percent in 2026–27 amid overlapping weather, logistics, and conflict shocks, this tailwind for the fight against hunger appears set to become a headwind. These challenges are compounded by surging energy prices, which strain household budgets and further erode food affordability.\n\n[world-bank-cmo-2026-10:39:paragraph-900:4 | CMO-October-2026.pdf | page 39]\nThe recent price increase reflects excessive rainfall in Brazil (the world’s largest coffee producer), FIGURE 15 Food price inflation and food insecurity Domestic food inflation in EMDEs increased in 2026Q3, particularly in the Middle East, North Africa, Afghanistan and Pakistan, South Asia, and Sub-Saharan Africa regions, and it could rise further, particularly given the forecast increases in the prices of grains and edible oils. The number of people experiencing severe food insecurity globally declined slightly in 2025. However, food insecurity remains more prevalent than in the late 2010s, and renewed food price increases anticipated in 2026–27 could reverse recent progress. Sources: Food and Agriculture Organization of the United Nations (FAOSTAT database); Haver Analytics; World Bank.",
+    "context_ids": [
+      "world-bank-cmo-2026-10:18:paragraph-900:1",
+      "world-bank-cmo-2026-10:39:paragraph-900:2",
+      "world-bank-cmo-2026-10:39:paragraph-900:4"
+    ],
+    "model": "openai/gpt-4o-mini-2024-07-18",
+    "usage": {
+      "prompt_tokens": 1014,
+      "completion_tokens": 107
+    },
+    "elapsed_ms": 5036.33,
+    "query_id": "q04",
+    "split": "dev",
+    "question": "How many people experienced severe food insecurity worldwide in 2025?",
+    "method": "hybrid",
+    "backend": "local",
+    "top_k": 3,
+    "budget_chars": 3000,
+    "max_searches": 2
+  },
+  {
+    "status": "answered",
+    "answer": "Gulf voyage rates reached record highs due to tanker shortages, intensified attacks on vessels, thinning inventories, and concerns about longer-term supply [world-bank-cmo-2026-10:22:paragraph-900:0].",
+    "citations": [
+      "world-bank-cmo-2026-10:22:paragraph-900:0"
+    ],
+    "rejected_answer": null,
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_report",
+        "query": "Gulf voyage rates record highs energy section",
+        "method": "hybrid",
+        "filter": {
+          "section": "energy"
+        },
+        "top_k": 3,
+        "results": [
+          {
+            "id": "world-bank-cmo-2026-10:22:paragraph-900:0",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 22,
+            "text": "ENERGY COMMODITY MARKETS OUTLOOK | OCTOBER 2026 14 Oil Recent developments In mid-October, front-month Brent futures reached about $110 per barrel (bbl) as markets weighed rising crude supply and an accelerated release of emergency oil stockpiles by International Energy Agency (IEA) members against conflict in the Middle East (figure 7.A). Entering October, average Middle East oil exports approached their 2025 level owing to greater use of ship-to-ship transfers and untracked shipments (figure 7.B). The recovery was concentrated on crude oil and condensates, while oil products exports, including diesel, have lagged, partly because refinery damage. Tanker shortages, which drove Gulf voyage rates to record highs, together with intensifying attacks on vessels, thinning inventories and concerns about longer-term supply, kept Brent prices elevated (figure 7.C).",
+            "metadata": {
+              "section": "energy",
+              "year": 2026,
+              "printed_page": 14,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03225806451612903,
+            "strategy": "hybrid",
+            "rank": 1
+          },
+          {
+            "id": "world-bank-cmo-2026-10:23:paragraph-900:3",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 23,
+            "text": "Crude oil prices rose sharply in 2026Q3 as hopes for a near-term end to hostilities faded and renewed attacks heightened concerns about Gulf supplies. The increase coincided with a partial recovery in China’s imports and renewed drawdowns in global inventories. Amid material damage to refineries in the Gulf region, product markets also tightened, particularly for diesel, with the European diesel premium rising to nearly $90/bbl in September. Sources: Bloomberg; General Administration of Customs of the People’s Republic of China; International Energy Agency (IEA); Reuters; World Bank. Note: bbl = barrel; mb = million barrels; mb/d = million barrels per day. A. Two-day average of daily spot (dated Brent) and front-month Brent futures prices. Last observation is October 14, 2026. B. Daily data, averaged semi-monthly.",
+            "metadata": {
+              "section": "energy",
+              "year": 2026,
+              "printed_page": 15,
+              "version": "October 2026 edition"
+            },
+            "score": 0.031544957774465976,
+            "strategy": "hybrid",
+            "rank": 2
+          },
+          {
+            "id": "world-bank-cmo-2026-10:22:paragraph-900:5",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 22,
+            "text": "Atlantic Basin refining margins reached record highs.",
+            "metadata": {
+              "section": "energy",
+              "year": 2026,
+              "printed_page": 14,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03131881575727918,
+            "strategy": "hybrid",
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "world-bank-cmo-2026-10:22:paragraph-900:0",
+          "world-bank-cmo-2026-10:23:paragraph-900:3",
+          "world-bank-cmo-2026-10:22:paragraph-900:5"
+        ],
+        "context": "[world-bank-cmo-2026-10:22:paragraph-900:0 | CMO-October-2026.pdf | page 22]\nENERGY COMMODITY MARKETS OUTLOOK | OCTOBER 2026 14 Oil Recent developments In mid-October, front-month Brent futures reached about $110 per barrel (bbl) as markets weighed rising crude supply and an accelerated release of emergency oil stockpiles by International Energy Agency (IEA) members against conflict in the Middle East (figure 7.A). Entering October, average Middle East oil exports approached their 2025 level owing to greater use of ship-to-ship transfers and untracked shipments (figure 7.B). The recovery was concentrated on crude oil and condensates, while oil products exports, including diesel, have lagged, partly because refinery damage. Tanker shortages, which drove Gulf voyage rates to record highs, together with intensifying attacks on vessels, thinning inventories and concerns about longer-term supply, kept Brent prices elevated (figure 7.C).\n\n[world-bank-cmo-2026-10:23:paragraph-900:3 | CMO-October-2026.pdf | page 23]\nCrude oil prices rose sharply in 2026Q3 as hopes for a near-term end to hostilities faded and renewed attacks heightened concerns about Gulf supplies. The increase coincided with a partial recovery in China’s imports and renewed drawdowns in global inventories. Amid material damage to refineries in the Gulf region, product markets also tightened, particularly for diesel, with the European diesel premium rising to nearly $90/bbl in September. Sources: Bloomberg; General Administration of Customs of the People’s Republic of China; International Energy Agency (IEA); Reuters; World Bank. Note: bbl = barrel; mb = million barrels; mb/d = million barrels per day. A. Two-day average of daily spot (dated Brent) and front-month Brent futures prices. Last observation is October 14, 2026. B. Daily data, averaged semi-monthly.\n\n[world-bank-cmo-2026-10:22:paragraph-900:5 | CMO-October-2026.pdf | page 22]\nAtlantic Basin refining margins reached record highs."
+      }
+    ],
+    "context": "[world-bank-cmo-2026-10:22:paragraph-900:0 | CMO-October-2026.pdf | page 22]\nENERGY COMMODITY MARKETS OUTLOOK | OCTOBER 2026 14 Oil Recent developments In mid-October, front-month Brent futures reached about $110 per barrel (bbl) as markets weighed rising crude supply and an accelerated release of emergency oil stockpiles by International Energy Agency (IEA) members against conflict in the Middle East (figure 7.A). Entering October, average Middle East oil exports approached their 2025 level owing to greater use of ship-to-ship transfers and untracked shipments (figure 7.B). The recovery was concentrated on crude oil and condensates, while oil products exports, including diesel, have lagged, partly because refinery damage. Tanker shortages, which drove Gulf voyage rates to record highs, together with intensifying attacks on vessels, thinning inventories and concerns about longer-term supply, kept Brent prices elevated (figure 7.C).\n\n[world-bank-cmo-2026-10:23:paragraph-900:3 | CMO-October-2026.pdf | page 23]\nCrude oil prices rose sharply in 2026Q3 as hopes for a near-term end to hostilities faded and renewed attacks heightened concerns about Gulf supplies. The increase coincided with a partial recovery in China’s imports and renewed drawdowns in global inventories. Amid material damage to refineries in the Gulf region, product markets also tightened, particularly for diesel, with the European diesel premium rising to nearly $90/bbl in September. Sources: Bloomberg; General Administration of Customs of the People’s Republic of China; International Energy Agency (IEA); Reuters; World Bank. Note: bbl = barrel; mb = million barrels; mb/d = million barrels per day. A. Two-day average of daily spot (dated Brent) and front-month Brent futures prices. Last observation is October 14, 2026. B. Daily data, averaged semi-monthly.\n\n[world-bank-cmo-2026-10:22:paragraph-900:5 | CMO-October-2026.pdf | page 22]\nAtlantic Basin refining margins reached record highs.",
+    "context_ids": [
+      "world-bank-cmo-2026-10:22:paragraph-900:0",
+      "world-bank-cmo-2026-10:23:paragraph-900:3",
+      "world-bank-cmo-2026-10:22:paragraph-900:5"
+    ],
+    "model": "openai/gpt-4o-mini-2024-07-18",
+    "usage": {
+      "prompt_tokens": 868,
+      "completion_tokens": 67
+    },
+    "elapsed_ms": 4283.31,
+    "query_id": "q05",
+    "split": "dev",
+    "question": "In the energy section, what drove Gulf voyage rates to record highs?",
+    "method": "hybrid",
+    "backend": "local",
+    "top_k": 3,
+    "budget_chars": 3000,
+    "max_searches": 2
+  },
+  {
+    "status": "answered",
+    "answer": "The reported 7.8 billion barrels of observed oil inventories are not all immediately usable because much of this oil is in transit or operationally tied up, such as being used to keep pipelines pressurized. This means that a significant portion is not readily available for immediate consumption or distribution [world-bank-cmo-2026-10:24:paragraph-900:0].",
+    "citations": [
+      "world-bank-cmo-2026-10:24:paragraph-900:0"
+    ],
+    "rejected_answer": null,
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_report",
+        "query": "7.8 billion barrels of observed oil inventories not immediately usable",
+        "method": "hybrid",
+        "filter": null,
+        "top_k": 3,
+        "results": [
+          {
+            "id": "world-bank-cmo-2026-10:24:paragraph-900:0",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 24,
+            "text": "ENERGY COMMODITY MARKETS OUTLOOK | OCTOBER 2026 16 Supply losses have persistently exceeded the reduction in global oil demand since the onset of the Middle East conflict, with the deficit widening sharply in 2026Q2 to 2.9 mb/d but narrowing in the following quarter (figure 8.F). Accordingly, oil inventories have become the fulcrum on which oil markets have balanced. Although global observed oil inventories still total about 7.8 billion barrels, much is in transit or tied up operationally—for instance, to keep pipelines pressurized—and therefore is not readily usable. In this context, OECD member governments’ inventories at end-September were the lowest in more than three decades, with the U.S. strategic reserves the lowest since 1982. Global oil markets have thus become increasingly vulnerable to further supply disruptions.",
+            "metadata": {
+              "section": "energy",
+              "year": 2026,
+              "printed_page": 16,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03278688524590164,
+            "strategy": "hybrid",
+            "rank": 1
+          },
+          {
+            "id": "world-bank-cmo-2026-10:22:paragraph-900:4",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 22,
+            "text": "In 2026Q3, a partial recovery in China’s oil imports, following sharp declines in 2026Q2, eroded a critical source of earlier price relief (figure 7.D). Meanwhile, global observed oil inventories fell: after starting 2026 at about 8,250 million barrels (mb)—close to the top of their 2021-25 range—inventories at end-September were close to the bottom, having fallen more rapidly even than in 2021 (figure 7.E). Key oil product markets tightened sharply due to much Gulf refining capacity offline, and export product restrictions in Russia introduced to safeguard domestic supplies after intensifying Ukrainian attacks. The premium of European diesel over Brent crude reached a record monthly average of about $91/bbl in September, before moderating slightly the following month, while average U.S. retail diesel prices approached $6.2 per gallon for the first time in October (figure 7.F).",
+            "metadata": {
+              "section": "energy",
+              "year": 2026,
+              "printed_page": 14,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03149801587301587,
+            "strategy": "hybrid",
+            "rank": 2
+          },
+          {
+            "id": "world-bank-cmo-2026-10:10:paragraph-900:4",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 10,
+            "text": "Monthly data from various editions of the IEA ’s Oil Market Report for global observed inventories. Last observation is September 2026. The gray area depicts the range of inventories for each month over 2021–25. C. Changes in U.S. exports and China’s imports in each month compared with values in February 2026. Values are in gross terms and include both crude oil and oil products. D. The implied oil market balance is the difference between supply and demand. Data based on IEA ’s Oil Market Report (October 2026 edition). Wholesale prices of key oil products, especially diesel and jet fuel, have climbed considerably more than those of crude oil since March (figure 2.A). This mainly reflects the effects of Middle East supply outages, as well as attacks on oil infrastructure in the Russian Federation, following its invasion of Ukraine.",
+            "metadata": {
+              "section": "executive_summary",
+              "year": 2026,
+              "printed_page": 2,
+              "version": "October 2026 edition"
+            },
+            "score": 0.030798389007344232,
+            "strategy": "hybrid",
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "world-bank-cmo-2026-10:24:paragraph-900:0",
+          "world-bank-cmo-2026-10:22:paragraph-900:4",
+          "world-bank-cmo-2026-10:10:paragraph-900:4"
+        ],
+        "context": "[world-bank-cmo-2026-10:24:paragraph-900:0 | CMO-October-2026.pdf | page 24]\nENERGY COMMODITY MARKETS OUTLOOK | OCTOBER 2026 16 Supply losses have persistently exceeded the reduction in global oil demand since the onset of the Middle East conflict, with the deficit widening sharply in 2026Q2 to 2.9 mb/d but narrowing in the following quarter (figure 8.F). Accordingly, oil inventories have become the fulcrum on which oil markets have balanced. Although global observed oil inventories still total about 7.8 billion barrels, much is in transit or tied up operationally—for instance, to keep pipelines pressurized—and therefore is not readily usable. In this context, OECD member governments’ inventories at end-September were the lowest in more than three decades, with the U.S. strategic reserves the lowest since 1982. Global oil markets have thus become increasingly vulnerable to further supply disruptions.\n\n[world-bank-cmo-2026-10:22:paragraph-900:4 | CMO-October-2026.pdf | page 22]\nIn 2026Q3, a partial recovery in China’s oil imports, following sharp declines in 2026Q2, eroded a critical source of earlier price relief (figure 7.D). Meanwhile, global observed oil inventories fell: after starting 2026 at about 8,250 million barrels (mb)—close to the top of their 2021-25 range—inventories at end-September were close to the bottom, having fallen more rapidly even than in 2021 (figure 7.E). Key oil product markets tightened sharply due to much Gulf refining capacity offline, and export product restrictions in Russia introduced to safeguard domestic supplies after intensifying Ukrainian attacks. The premium of European diesel over Brent crude reached a record monthly average of about $91/bbl in September, before moderating slightly the following month, while average U.S. retail diesel prices approached $6.2 per gallon for the first time in October (figure 7.F).\n\n[world-bank-cmo-2026-10:10:paragraph-900:4 | CMO-October-2026.pdf | page 10]\nMonthly data from various editions of the IEA ’s Oil Market Report for global observed inventories. Last observation is September 2026. The gray area depicts the range of inventories for each month over 2021–25. C. Changes in U.S. exports and China’s imports in each month compared with values in February 2026. Values are in gross terms and include both crude oil and oil products. D. The implied oil market balance is the difference between supply and demand. Data based on IEA ’s Oil Market Report (October 2026 edition). Wholesale prices of key oil products, especially diesel and jet fuel, have climbed considerably more than those of crude oil since March (figure 2.A). This mainly reflects the effects of Middle East supply outages, as well as attacks on oil infrastructure in the Russian Federation, following its invasion of Ukraine."
+      }
+    ],
+    "context": "[world-bank-cmo-2026-10:24:paragraph-900:0 | CMO-October-2026.pdf | page 24]\nENERGY COMMODITY MARKETS OUTLOOK | OCTOBER 2026 16 Supply losses have persistently exceeded the reduction in global oil demand since the onset of the Middle East conflict, with the deficit widening sharply in 2026Q2 to 2.9 mb/d but narrowing in the following quarter (figure 8.F). Accordingly, oil inventories have become the fulcrum on which oil markets have balanced. Although global observed oil inventories still total about 7.8 billion barrels, much is in transit or tied up operationally—for instance, to keep pipelines pressurized—and therefore is not readily usable. In this context, OECD member governments’ inventories at end-September were the lowest in more than three decades, with the U.S. strategic reserves the lowest since 1982. Global oil markets have thus become increasingly vulnerable to further supply disruptions.\n\n[world-bank-cmo-2026-10:22:paragraph-900:4 | CMO-October-2026.pdf | page 22]\nIn 2026Q3, a partial recovery in China’s oil imports, following sharp declines in 2026Q2, eroded a critical source of earlier price relief (figure 7.D). Meanwhile, global observed oil inventories fell: after starting 2026 at about 8,250 million barrels (mb)—close to the top of their 2021-25 range—inventories at end-September were close to the bottom, having fallen more rapidly even than in 2021 (figure 7.E). Key oil product markets tightened sharply due to much Gulf refining capacity offline, and export product restrictions in Russia introduced to safeguard domestic supplies after intensifying Ukrainian attacks. The premium of European diesel over Brent crude reached a record monthly average of about $91/bbl in September, before moderating slightly the following month, while average U.S. retail diesel prices approached $6.2 per gallon for the first time in October (figure 7.F).\n\n[world-bank-cmo-2026-10:10:paragraph-900:4 | CMO-October-2026.pdf | page 10]\nMonthly data from various editions of the IEA ’s Oil Market Report for global observed inventories. Last observation is September 2026. The gray area depicts the range of inventories for each month over 2021–25. C. Changes in U.S. exports and China’s imports in each month compared with values in February 2026. Values are in gross terms and include both crude oil and oil products. D. The implied oil market balance is the difference between supply and demand. Data based on IEA ’s Oil Market Report (October 2026 edition). Wholesale prices of key oil products, especially diesel and jet fuel, have climbed considerably more than those of crude oil since March (figure 2.A). This mainly reflects the effects of Middle East supply outages, as well as attacks on oil infrastructure in the Russian Federation, following its invasion of Ukraine.",
+    "context_ids": [
+      "world-bank-cmo-2026-10:24:paragraph-900:0",
+      "world-bank-cmo-2026-10:22:paragraph-900:4",
+      "world-bank-cmo-2026-10:10:paragraph-900:4"
+    ],
+    "model": "openai/gpt-4o-mini-2024-07-18",
+    "usage": {
+      "prompt_tokens": 1061,
+      "completion_tokens": 101
+    },
+    "elapsed_ms": 5546.61,
+    "query_id": "q06",
+    "split": "dev",
+    "question": "Why is the reported 7.8 billion barrels of observed oil inventories not all immediately usable?",
+    "method": "hybrid",
+    "backend": "local",
+    "top_k": 3,
+    "budget_chars": 3000,
+    "max_searches": 2
+  },
+  {
+    "status": "answered",
+    "answer": "Global natural gas production is projected to increase by 4 percent in the U.S., amounting to an increase of 22 billion cubic meters (bcm) year-on-year in the first half of 2026. This increase is attributed to stronger LNG demand and rising associated gas production driven by higher oil prices. However, overall global natural gas demand contracted in the first half of 2026 due to rising prices and LNG supply constraints, particularly in the Middle East, where demand from gas-intensive industries collapsed [world-bank-cmo-2026-10:28:paragraph-900:1].",
+    "citations": [
+      "world-bank-cmo-2026-10:28:paragraph-900:1"
+    ],
+    "rejected_answer": null,
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_report",
+        "query": "global natural gas production projection 2026",
+        "method": "hybrid",
+        "filter": null,
+        "top_k": 3,
+        "results": [
+          {
+            "id": "world-bank-cmo-2026-10:14:paragraph-900:3",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 14,
+            "text": "LNG production is more concentrated in economies heavily affected by the conflict than oil production, and natural gas output in the Middle East is expected to remain below its 2025 level in 2027, in large part because of damage to LNG trains in Qatar. Although natural gas production is projected to expand elsewhere next year, global demand is also anticipated to recover, such that Asian and European markets remain notably tight. Meanwhile, U.S. natural gas prices are forecast to increase by 6 percent in 2027 from much lower levels, partly owing to increasing LNG export demand. Coal prices are on course to climb by 25 percent (y/y) in 2026 on stronger demand and supply constraints. Prices are then projected to ease by 4 percent next year, as demand for coal as a substitute fuel softens amid lower energy prices more broadly and the expansion of renewables.",
+            "metadata": {
+              "section": "executive_summary",
+              "year": 2026,
+              "printed_page": 6,
+              "version": "October 2026 edition"
+            },
+            "score": 0.031754032258064516,
+            "strategy": "hybrid",
+            "rank": 1
+          },
+          {
+            "id": "world-bank-cmo-2026-10:28:paragraph-900:0",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 28,
+            "text": "ENERGY COMMODITY MARKETS OUTLOOK | OCTOBER 2026 20 owing to strong domestic production and ample inventories. Global natural gas demand contracted in 2026H1 amid the rise in prices and pronounced LNG supply constraints, in contrast with earlier expectations. The decline was especially sharp in the Middle East, where demand from gas-intensive industries collapsed. Asian consumption fell by 1 percent (5 bcm) (y/y), led by a 2.4 percent (5.1 bcm) drop in China, amid mild weather, gas-to- coal switching in the power sector, and slower industrial production growth. In North America, U.S. consumption declined by about 1.5 percent (7 bcm) despite stable prices, as a mild winter in several regions more than offset stronger gas-fired power demand, owing in part to rising data-center power needs.",
+            "metadata": {
+              "section": "energy",
+              "year": 2026,
+              "printed_page": 20,
+              "version": "October 2026 edition"
+            },
+            "score": 0.030798389007344232,
+            "strategy": "hybrid",
+            "rank": 2
+          },
+          {
+            "id": "world-bank-cmo-2026-10:28:paragraph-900:1",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 28,
+            "text": "European consumption edged down by 0.5 percent (about 1 bcm), reflecting substitution of gas by renewables and coal in power generation. Natural gas supply developments diverged sharply across regions in 2026H1. Disruptions to Gulf exports reduced LNG loadings from Qatar and the United Arab Emirates by 35 bcm (y/y) during March–June. However, higher production outside the Gulf—supported by both new capacity and higher output from existing facilities—offset about three-quarters of this decline. In 2026H1, U.S. production increased by 4 percent, or 22 bcm (y/y), reflecting stronger LNG demand and rising associated gas production (that is, natural gas extracted alongside the production of crude oil) driven by higher oil prices.",
+            "metadata": {
+              "section": "energy",
+              "year": 2026,
+              "printed_page": 20,
+              "version": "October 2026 edition"
+            },
+            "score": 0.030798389007344232,
+            "strategy": "hybrid",
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "world-bank-cmo-2026-10:14:paragraph-900:3",
+          "world-bank-cmo-2026-10:28:paragraph-900:0",
+          "world-bank-cmo-2026-10:28:paragraph-900:1"
+        ],
+        "context": "[world-bank-cmo-2026-10:14:paragraph-900:3 | CMO-October-2026.pdf | page 14]\nLNG production is more concentrated in economies heavily affected by the conflict than oil production, and natural gas output in the Middle East is expected to remain below its 2025 level in 2027, in large part because of damage to LNG trains in Qatar. Although natural gas production is projected to expand elsewhere next year, global demand is also anticipated to recover, such that Asian and European markets remain notably tight. Meanwhile, U.S. natural gas prices are forecast to increase by 6 percent in 2027 from much lower levels, partly owing to increasing LNG export demand. Coal prices are on course to climb by 25 percent (y/y) in 2026 on stronger demand and supply constraints. Prices are then projected to ease by 4 percent next year, as demand for coal as a substitute fuel softens amid lower energy prices more broadly and the expansion of renewables.\n\n[world-bank-cmo-2026-10:28:paragraph-900:0 | CMO-October-2026.pdf | page 28]\nENERGY COMMODITY MARKETS OUTLOOK | OCTOBER 2026 20 owing to strong domestic production and ample inventories. Global natural gas demand contracted in 2026H1 amid the rise in prices and pronounced LNG supply constraints, in contrast with earlier expectations. The decline was especially sharp in the Middle East, where demand from gas-intensive industries collapsed. Asian consumption fell by 1 percent (5 bcm) (y/y), led by a 2.4 percent (5.1 bcm) drop in China, amid mild weather, gas-to- coal switching in the power sector, and slower industrial production growth. In North America, U.S. consumption declined by about 1.5 percent (7 bcm) despite stable prices, as a mild winter in several regions more than offset stronger gas-fired power demand, owing in part to rising data-center power needs.\n\n[world-bank-cmo-2026-10:28:paragraph-900:1 | CMO-October-2026.pdf | page 28]\nEuropean consumption edged down by 0.5 percent (about 1 bcm), reflecting substitution of gas by renewables and coal in power generation. Natural gas supply developments diverged sharply across regions in 2026H1. Disruptions to Gulf exports reduced LNG loadings from Qatar and the United Arab Emirates by 35 bcm (y/y) during March–June. However, higher production outside the Gulf—supported by both new capacity and higher output from existing facilities—offset about three-quarters of this decline. In 2026H1, U.S. production increased by 4 percent, or 22 bcm (y/y), reflecting stronger LNG demand and rising associated gas production (that is, natural gas extracted alongside the production of crude oil) driven by higher oil prices."
+      }
+    ],
+    "context": "[world-bank-cmo-2026-10:14:paragraph-900:3 | CMO-October-2026.pdf | page 14]\nLNG production is more concentrated in economies heavily affected by the conflict than oil production, and natural gas output in the Middle East is expected to remain below its 2025 level in 2027, in large part because of damage to LNG trains in Qatar. Although natural gas production is projected to expand elsewhere next year, global demand is also anticipated to recover, such that Asian and European markets remain notably tight. Meanwhile, U.S. natural gas prices are forecast to increase by 6 percent in 2027 from much lower levels, partly owing to increasing LNG export demand. Coal prices are on course to climb by 25 percent (y/y) in 2026 on stronger demand and supply constraints. Prices are then projected to ease by 4 percent next year, as demand for coal as a substitute fuel softens amid lower energy prices more broadly and the expansion of renewables.\n\n[world-bank-cmo-2026-10:28:paragraph-900:0 | CMO-October-2026.pdf | page 28]\nENERGY COMMODITY MARKETS OUTLOOK | OCTOBER 2026 20 owing to strong domestic production and ample inventories. Global natural gas demand contracted in 2026H1 amid the rise in prices and pronounced LNG supply constraints, in contrast with earlier expectations. The decline was especially sharp in the Middle East, where demand from gas-intensive industries collapsed. Asian consumption fell by 1 percent (5 bcm) (y/y), led by a 2.4 percent (5.1 bcm) drop in China, amid mild weather, gas-to- coal switching in the power sector, and slower industrial production growth. In North America, U.S. consumption declined by about 1.5 percent (7 bcm) despite stable prices, as a mild winter in several regions more than offset stronger gas-fired power demand, owing in part to rising data-center power needs.\n\n[world-bank-cmo-2026-10:28:paragraph-900:1 | CMO-October-2026.pdf | page 28]\nEuropean consumption edged down by 0.5 percent (about 1 bcm), reflecting substitution of gas by renewables and coal in power generation. Natural gas supply developments diverged sharply across regions in 2026H1. Disruptions to Gulf exports reduced LNG loadings from Qatar and the United Arab Emirates by 35 bcm (y/y) during March–June. However, higher production outside the Gulf—supported by both new capacity and higher output from existing facilities—offset about three-quarters of this decline. In 2026H1, U.S. production increased by 4 percent, or 22 bcm (y/y), reflecting stronger LNG demand and rising associated gas production (that is, natural gas extracted alongside the production of crude oil) driven by higher oil prices.",
+    "context_ids": [
+      "world-bank-cmo-2026-10:14:paragraph-900:3",
+      "world-bank-cmo-2026-10:28:paragraph-900:0",
+      "world-bank-cmo-2026-10:28:paragraph-900:1"
+    ],
+    "model": "openai/gpt-4o-mini-2024-07-18",
+    "usage": {
+      "prompt_tokens": 1016,
+      "completion_tokens": 142
+    },
+    "elapsed_ms": 5344.73,
+    "query_id": "q07",
+    "split": "dev",
+    "question": "What change in global natural gas production is projected for 2026?",
+    "method": "hybrid",
+    "backend": "local",
+    "top_k": 3,
+    "budget_chars": 3000,
+    "max_searches": 2
+  },
+  {
+    "status": "answered",
+    "answer": "Global coal demand is projected to rise by 1.2 percent, or 103 million metric tons (mmt), in 2026. This increase is supported by gas-to-coal switching in the power sector, particularly in Asia, with China's consumption expected to increase by 1 percent (46 mmt) and India's demand projected to expand by 4.2 percent (54 mmt) [world-bank-cmo-2026-10:31:paragraph-900:0].",
+    "citations": [
+      "world-bank-cmo-2026-10:31:paragraph-900:0"
+    ],
+    "rejected_answer": null,
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_report",
+        "query": "global coal demand projected to rise in 2026",
+        "method": "hybrid",
+        "filter": null,
+        "top_k": 3,
+        "results": [
+          {
+            "id": "world-bank-cmo-2026-10:32:paragraph-900:0",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 32,
+            "text": "ENERGY COMMODITY MARKETS OUTLOOK | OCTOBER 2026 24 industrial sectors is expected to outweigh growth in coal-to-chemicals production. ASEAN economies and India are likely to remain the principal sources of demand growth, supported by rising power consumption and industrial activity. Coal use in the European Union and the United States is expected to continue its decline. Global coal production is projected to rise modestly by about 26 mmt (0.3 percent) in 2027 driven by expansion in China, as curbs arising from mine-safety restrictions introduced in 2026 ease—and in India. Indonesia’s production is expected to decline further next year. Coal output is also expected to fall in Australia, Russia, the United States, and especially the European Union, as coal phase-outs advance. Global thermal coal trade is projected to fall back to about 2025 levels, mainly reflecting weaker Chinese demand.",
+            "metadata": {
+              "section": "energy",
+              "year": 2026,
+              "printed_page": 24,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03252247488101534,
+            "strategy": "hybrid",
+            "rank": 1
+          },
+          {
+            "id": "world-bank-cmo-2026-10:31:paragraph-900:0",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 31,
+            "text": "ENERGYCOMMODITY MARKETS OUTLOOK | OCTOBER 2026 23 Global coal demand is projected to rise by 1.2 percent, or 103 million metric tons (mmt), in 2026, supported by gas-to-coal switching in the power sector, particularly in Asia (figure 11.B). China’s consumption is expected to increase by 1 percent (46 mmt) to about 5,000 mmt—a notable pick-up after its coal demand flatlined in 2025. This increase has been driven by strong electricity demand, weak wind generation, rising LNG prices, and expanding coal-to-chemicals production. India’s demand is on track to expand by 4.2 percent (54 mmt) to 1,350 mmt, reflecting solid growth in industrial and services activity, as well as strong power demand and weak hydropower output owing to heatwaves.",
+            "metadata": {
+              "section": "energy",
+              "year": 2026,
+              "printed_page": 23,
+              "version": "October 2026 edition"
+            },
+            "score": 0.032018442622950824,
+            "strategy": "hybrid",
+            "rank": 2
+          },
+          {
+            "id": "world-bank-cmo-2026-10:31:paragraph-900:6",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 31,
+            "text": "Global coal consumption is projected to edge down by 0.4 percent to about 8,900 mmt in 2027, with the decline mainly driven by Europe. In China, lower coal use in the power and C. Changes in Australia and Indonesia coal exports",
+            "metadata": {
+              "section": "energy",
+              "year": 2026,
+              "printed_page": 23,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03200204813108039,
+            "strategy": "hybrid",
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "world-bank-cmo-2026-10:32:paragraph-900:0",
+          "world-bank-cmo-2026-10:31:paragraph-900:0",
+          "world-bank-cmo-2026-10:31:paragraph-900:6"
+        ],
+        "context": "[world-bank-cmo-2026-10:32:paragraph-900:0 | CMO-October-2026.pdf | page 32]\nENERGY COMMODITY MARKETS OUTLOOK | OCTOBER 2026 24 industrial sectors is expected to outweigh growth in coal-to-chemicals production. ASEAN economies and India are likely to remain the principal sources of demand growth, supported by rising power consumption and industrial activity. Coal use in the European Union and the United States is expected to continue its decline. Global coal production is projected to rise modestly by about 26 mmt (0.3 percent) in 2027 driven by expansion in China, as curbs arising from mine-safety restrictions introduced in 2026 ease—and in India. Indonesia’s production is expected to decline further next year. Coal output is also expected to fall in Australia, Russia, the United States, and especially the European Union, as coal phase-outs advance. Global thermal coal trade is projected to fall back to about 2025 levels, mainly reflecting weaker Chinese demand.\n\n[world-bank-cmo-2026-10:31:paragraph-900:0 | CMO-October-2026.pdf | page 31]\nENERGYCOMMODITY MARKETS OUTLOOK | OCTOBER 2026 23 Global coal demand is projected to rise by 1.2 percent, or 103 million metric tons (mmt), in 2026, supported by gas-to-coal switching in the power sector, particularly in Asia (figure 11.B). China’s consumption is expected to increase by 1 percent (46 mmt) to about 5,000 mmt—a notable pick-up after its coal demand flatlined in 2025. This increase has been driven by strong electricity demand, weak wind generation, rising LNG prices, and expanding coal-to-chemicals production. India’s demand is on track to expand by 4.2 percent (54 mmt) to 1,350 mmt, reflecting solid growth in industrial and services activity, as well as strong power demand and weak hydropower output owing to heatwaves.\n\n[world-bank-cmo-2026-10:31:paragraph-900:6 | CMO-October-2026.pdf | page 31]\nGlobal coal consumption is projected to edge down by 0.4 percent to about 8,900 mmt in 2027, with the decline mainly driven by Europe. In China, lower coal use in the power and C. Changes in Australia and Indonesia coal exports"
+      }
+    ],
+    "context": "[world-bank-cmo-2026-10:32:paragraph-900:0 | CMO-October-2026.pdf | page 32]\nENERGY COMMODITY MARKETS OUTLOOK | OCTOBER 2026 24 industrial sectors is expected to outweigh growth in coal-to-chemicals production. ASEAN economies and India are likely to remain the principal sources of demand growth, supported by rising power consumption and industrial activity. Coal use in the European Union and the United States is expected to continue its decline. Global coal production is projected to rise modestly by about 26 mmt (0.3 percent) in 2027 driven by expansion in China, as curbs arising from mine-safety restrictions introduced in 2026 ease—and in India. Indonesia’s production is expected to decline further next year. Coal output is also expected to fall in Australia, Russia, the United States, and especially the European Union, as coal phase-outs advance. Global thermal coal trade is projected to fall back to about 2025 levels, mainly reflecting weaker Chinese demand.\n\n[world-bank-cmo-2026-10:31:paragraph-900:0 | CMO-October-2026.pdf | page 31]\nENERGYCOMMODITY MARKETS OUTLOOK | OCTOBER 2026 23 Global coal demand is projected to rise by 1.2 percent, or 103 million metric tons (mmt), in 2026, supported by gas-to-coal switching in the power sector, particularly in Asia (figure 11.B). China’s consumption is expected to increase by 1 percent (46 mmt) to about 5,000 mmt—a notable pick-up after its coal demand flatlined in 2025. This increase has been driven by strong electricity demand, weak wind generation, rising LNG prices, and expanding coal-to-chemicals production. India’s demand is on track to expand by 4.2 percent (54 mmt) to 1,350 mmt, reflecting solid growth in industrial and services activity, as well as strong power demand and weak hydropower output owing to heatwaves.\n\n[world-bank-cmo-2026-10:31:paragraph-900:6 | CMO-October-2026.pdf | page 31]\nGlobal coal consumption is projected to edge down by 0.4 percent to about 8,900 mmt in 2027, with the decline mainly driven by Europe. In China, lower coal use in the power and C. Changes in Australia and Indonesia coal exports",
+    "context_ids": [
+      "world-bank-cmo-2026-10:32:paragraph-900:0",
+      "world-bank-cmo-2026-10:31:paragraph-900:0",
+      "world-bank-cmo-2026-10:31:paragraph-900:6"
+    ],
+    "model": "openai/gpt-4o-mini-2024-07-18",
+    "usage": {
+      "prompt_tokens": 933,
+      "completion_tokens": 123
+    },
+    "elapsed_ms": 5829.55,
+    "query_id": "q08",
+    "split": "dev",
+    "question": "How much is global coal demand projected to rise in 2026?",
+    "method": "hybrid",
+    "backend": "local",
+    "top_k": 3,
+    "budget_chars": 3000,
+    "max_searches": 2
+  },
+  {
+    "status": "answered",
+    "answer": "Wheat prices after their 2026Q3 jump were 40 percent above year-ago levels [world-bank-cmo-2026-10:33:paragraph-900:1].",
+    "citations": [
+      "world-bank-cmo-2026-10:33:paragraph-900:1"
+    ],
+    "rejected_answer": null,
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_report",
+        "query": "wheat prices 2026Q3 jump year-earlier level",
+        "method": "hybrid",
+        "filter": null,
+        "top_k": 3,
+        "results": [
+          {
+            "id": "world-bank-cmo-2026-10:33:paragraph-900:1",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 33,
+            "text": "Wheat prices jumped by 13 percent, to a three-and-a-half-year high, 40 percent above year-ago levels (figure 12.C). The increase reflected dry weather in major exporting countries and escalating attacks on vessels and ports transporting wheat through the Black Sea. Ukraine’s wheat exports in August 2026 were nearly 70 percent lower than a year earlier. Low water levels in the Danube River constrained another important alternative shipping route for Ukrainian grain. Maize prices rose by 8 percent (q/q) and 18 percent (y/y) to a three-year high, supported by weather concerns in the United States and disruptions to grain flows in the Black Sea. Rice prices rose by 6 percent (q/q) in 2026Q3 and stood 24 percent above their level a year earlier amid El Niño-related weather concerns in South and Southeast Asia.",
+            "metadata": {
+              "section": "agriculture",
+              "year": 2026,
+              "printed_page": 25,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03252247488101534,
+            "strategy": "hybrid",
+            "rank": 1
+          },
+          {
+            "id": "world-bank-cmo-2026-10:35:paragraph-900:0",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 35,
+            "text": "AGRICULTURECOMMODITY MARKETS OUTLOOK | OCTOBER 2026 27 13.C and 13.D). Even so, total grain supplies (production and beginning stocks combined) in 2026-27 are projected to be the second largest on record and about 3 percent higher than two years earlier, which should limit price increases compared with past episodes of grain market stress. Among grains, price pressures are most pronounced for wheat, amid several headwinds to production and trade. Wheat prices are projected to jump by 28 percent in 2026 and 14 percent in 2027, before easing by 11 percent in 2028. Global wheat output is expected to contract by 3 percent in 2026–27 with reduced harvests in several major producing countries.",
+            "metadata": {
+              "section": "agriculture",
+              "year": 2026,
+              "printed_page": 27,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03200204813108039,
+            "strategy": "hybrid",
+            "rank": 2
+          },
+          {
+            "id": "world-bank-cmo-2026-10:33:paragraph-900:0",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 33,
+            "text": "AGRICULTURECOMMODITY MARKETS OUTLOOK | OCTOBER 2026 25 Food Recent developments The World Bank Group’s food commodity price index rose by 1 percent in 2026Q3 (q/q), following steady increases in the first half of the year, and remained elevated in October, at 12 percent above its level a year earlier (figure 12.A). Upward pressure on food prices stemmed from escalating attacks on shipping infrastructure in the Black Sea, persistent supply disruptions in the Middle East, and drier weather in Australia, South Asia, and Southeast Asia—early effects of what is likely to be a very strong El Niño (box 1). Robust biofuel demand in North America, reflecting elevated gasoline and diesel prices and an expanded biofuel mandate in the United States, added to upward price pressures. Grain prices rose by 9 percent in 2026Q3 (q/q), reaching a level 25 percent higher than a year earlier (figure 12.B).",
+            "metadata": {
+              "section": "agriculture",
+              "year": 2026,
+              "printed_page": 25,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03125,
+            "strategy": "hybrid",
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "world-bank-cmo-2026-10:33:paragraph-900:1",
+          "world-bank-cmo-2026-10:35:paragraph-900:0",
+          "world-bank-cmo-2026-10:33:paragraph-900:0"
+        ],
+        "context": "[world-bank-cmo-2026-10:33:paragraph-900:1 | CMO-October-2026.pdf | page 33]\nWheat prices jumped by 13 percent, to a three-and-a-half-year high, 40 percent above year-ago levels (figure 12.C). The increase reflected dry weather in major exporting countries and escalating attacks on vessels and ports transporting wheat through the Black Sea. Ukraine’s wheat exports in August 2026 were nearly 70 percent lower than a year earlier. Low water levels in the Danube River constrained another important alternative shipping route for Ukrainian grain. Maize prices rose by 8 percent (q/q) and 18 percent (y/y) to a three-year high, supported by weather concerns in the United States and disruptions to grain flows in the Black Sea. Rice prices rose by 6 percent (q/q) in 2026Q3 and stood 24 percent above their level a year earlier amid El Niño-related weather concerns in South and Southeast Asia.\n\n[world-bank-cmo-2026-10:35:paragraph-900:0 | CMO-October-2026.pdf | page 35]\nAGRICULTURECOMMODITY MARKETS OUTLOOK | OCTOBER 2026 27 13.C and 13.D). Even so, total grain supplies (production and beginning stocks combined) in 2026-27 are projected to be the second largest on record and about 3 percent higher than two years earlier, which should limit price increases compared with past episodes of grain market stress. Among grains, price pressures are most pronounced for wheat, amid several headwinds to production and trade. Wheat prices are projected to jump by 28 percent in 2026 and 14 percent in 2027, before easing by 11 percent in 2028. Global wheat output is expected to contract by 3 percent in 2026–27 with reduced harvests in several major producing countries.\n\n[world-bank-cmo-2026-10:33:paragraph-900:0 | CMO-October-2026.pdf | page 33]\nAGRICULTURECOMMODITY MARKETS OUTLOOK | OCTOBER 2026 25 Food Recent developments The World Bank Group’s food commodity price index rose by 1 percent in 2026Q3 (q/q), following steady increases in the first half of the year, and remained elevated in October, at 12 percent above its level a year earlier (figure 12.A). Upward pressure on food prices stemmed from escalating attacks on shipping infrastructure in the Black Sea, persistent supply disruptions in the Middle East, and drier weather in Australia, South Asia, and Southeast Asia—early effects of what is likely to be a very strong El Niño (box 1). Robust biofuel demand in North America, reflecting elevated gasoline and diesel prices and an expanded biofuel mandate in the United States, added to upward price pressures. Grain prices rose by 9 percent in 2026Q3 (q/q), reaching a level 25 percent higher than a year earlier (figure 12.B)."
+      }
+    ],
+    "context": "[world-bank-cmo-2026-10:33:paragraph-900:1 | CMO-October-2026.pdf | page 33]\nWheat prices jumped by 13 percent, to a three-and-a-half-year high, 40 percent above year-ago levels (figure 12.C). The increase reflected dry weather in major exporting countries and escalating attacks on vessels and ports transporting wheat through the Black Sea. Ukraine’s wheat exports in August 2026 were nearly 70 percent lower than a year earlier. Low water levels in the Danube River constrained another important alternative shipping route for Ukrainian grain. Maize prices rose by 8 percent (q/q) and 18 percent (y/y) to a three-year high, supported by weather concerns in the United States and disruptions to grain flows in the Black Sea. Rice prices rose by 6 percent (q/q) in 2026Q3 and stood 24 percent above their level a year earlier amid El Niño-related weather concerns in South and Southeast Asia.\n\n[world-bank-cmo-2026-10:35:paragraph-900:0 | CMO-October-2026.pdf | page 35]\nAGRICULTURECOMMODITY MARKETS OUTLOOK | OCTOBER 2026 27 13.C and 13.D). Even so, total grain supplies (production and beginning stocks combined) in 2026-27 are projected to be the second largest on record and about 3 percent higher than two years earlier, which should limit price increases compared with past episodes of grain market stress. Among grains, price pressures are most pronounced for wheat, amid several headwinds to production and trade. Wheat prices are projected to jump by 28 percent in 2026 and 14 percent in 2027, before easing by 11 percent in 2028. Global wheat output is expected to contract by 3 percent in 2026–27 with reduced harvests in several major producing countries.\n\n[world-bank-cmo-2026-10:33:paragraph-900:0 | CMO-October-2026.pdf | page 33]\nAGRICULTURECOMMODITY MARKETS OUTLOOK | OCTOBER 2026 25 Food Recent developments The World Bank Group’s food commodity price index rose by 1 percent in 2026Q3 (q/q), following steady increases in the first half of the year, and remained elevated in October, at 12 percent above its level a year earlier (figure 12.A). Upward pressure on food prices stemmed from escalating attacks on shipping infrastructure in the Black Sea, persistent supply disruptions in the Middle East, and drier weather in Australia, South Asia, and Southeast Asia—early effects of what is likely to be a very strong El Niño (box 1). Robust biofuel demand in North America, reflecting elevated gasoline and diesel prices and an expanded biofuel mandate in the United States, added to upward price pressures. Grain prices rose by 9 percent in 2026Q3 (q/q), reaching a level 25 percent higher than a year earlier (figure 12.B).",
+    "context_ids": [
+      "world-bank-cmo-2026-10:33:paragraph-900:1",
+      "world-bank-cmo-2026-10:35:paragraph-900:0",
+      "world-bank-cmo-2026-10:33:paragraph-900:0"
+    ],
+    "model": "openai/gpt-4o-mini-2024-07-18",
+    "usage": {
+      "prompt_tokens": 1065,
+      "completion_tokens": 66
+    },
+    "elapsed_ms": 4293.96,
+    "query_id": "q09",
+    "split": "dev",
+    "question": "How far above their year-earlier level were wheat prices after their 2026Q3 jump?",
+    "method": "hybrid",
+    "backend": "local",
+    "top_k": 3,
+    "budget_chars": 3000,
+    "max_searches": 2
+  },
+  {
+    "status": "answered",
+    "answer": "Wheat prices are projected to increase by 28 percent in 2026 and by 14 percent in 2027, before easing by 11 percent in 2028. This outlook is influenced by expected declines in global wheat output and various production and trade challenges [world-bank-cmo-2026-10:35:paragraph-900:0].",
+    "citations": [
+      "world-bank-cmo-2026-10:35:paragraph-900:0"
+    ],
+    "rejected_answer": null,
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_report",
+        "query": "wheat price projections 2026 2027 2028",
+        "method": "hybrid",
+        "filter": null,
+        "top_k": 3,
+        "results": [
+          {
+            "id": "world-bank-cmo-2026-10:35:paragraph-900:0",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 35,
+            "text": "AGRICULTURECOMMODITY MARKETS OUTLOOK | OCTOBER 2026 27 13.C and 13.D). Even so, total grain supplies (production and beginning stocks combined) in 2026-27 are projected to be the second largest on record and about 3 percent higher than two years earlier, which should limit price increases compared with past episodes of grain market stress. Among grains, price pressures are most pronounced for wheat, amid several headwinds to production and trade. Wheat prices are projected to jump by 28 percent in 2026 and 14 percent in 2027, before easing by 11 percent in 2028. Global wheat output is expected to contract by 3 percent in 2026–27 with reduced harvests in several major producing countries.",
+            "metadata": {
+              "section": "agriculture",
+              "year": 2026,
+              "printed_page": 27,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03278688524590164,
+            "strategy": "hybrid",
+            "rank": 1
+          },
+          {
+            "id": "world-bank-cmo-2026-10:33:paragraph-900:4",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 33,
+            "text": "Conflict- driven trade disruptions and hot, dry weather conditions in the European Union and elsewhere are expected to raise wheat prices sharply in 2026 and 2027. Beverage prices, meanwhile, are expected to decline by 24 percent in 2026, reflecting increased production of coffee and cocoa following supply challenges in the previous growing season, before edging up by 3 percent in 2027. The outlook assumes that Black Sea shipping disruptions will ease in 2027 and that agricultural input costs will decline. If conflict intensifies and weather-related losses exceed expectations, food and grain prices could be 12 percent and 20 percent above the 2027 baseline, respec- tively. Additional food export restrictions or policy shifts favoring biofuels could also push food commodity prices above projections.",
+            "metadata": {
+              "section": "agriculture",
+              "year": 2026,
+              "printed_page": 25,
+              "version": "October 2026 edition"
+            },
+            "score": 0.031746031746031744,
+            "strategy": "hybrid",
+            "rank": 2
+          },
+          {
+            "id": "world-bank-cmo-2026-10:35:paragraph-900:2",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 35,
+            "text": "In sum, production declines and export disruptions are expected to reduce global wheat exports by 7 percent in 2026–27, with shipments falling across all nine leading exporters. Maize prices are projected to rise by 10 percent in 2026 and 5 percent in 2027, before declining by 10 percent in 2028. The increases reflect an anticipated 3 percent decline in global production in 2026–27. The forecast assumes some easing in 2027 of the constraints on Black Sea trade created this year by attacks on grain shipments and port infrastructure. Projected output gains of 11 percent in Russia and 8 percent in Ukraine in 2026–27 are expected to partly offset harvest FIGURE 13 Supply conditions for grains and edible oils Strong El Niño conditions have emerged and are expected to intensify in late 2026 and early 2027.",
+            "metadata": {
+              "section": "agriculture",
+              "year": 2026,
+              "printed_page": 27,
+              "version": "October 2026 edition"
+            },
+            "score": 0.0315136476426799,
+            "strategy": "hybrid",
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "world-bank-cmo-2026-10:35:paragraph-900:0",
+          "world-bank-cmo-2026-10:33:paragraph-900:4",
+          "world-bank-cmo-2026-10:35:paragraph-900:2"
+        ],
+        "context": "[world-bank-cmo-2026-10:35:paragraph-900:0 | CMO-October-2026.pdf | page 35]\nAGRICULTURECOMMODITY MARKETS OUTLOOK | OCTOBER 2026 27 13.C and 13.D). Even so, total grain supplies (production and beginning stocks combined) in 2026-27 are projected to be the second largest on record and about 3 percent higher than two years earlier, which should limit price increases compared with past episodes of grain market stress. Among grains, price pressures are most pronounced for wheat, amid several headwinds to production and trade. Wheat prices are projected to jump by 28 percent in 2026 and 14 percent in 2027, before easing by 11 percent in 2028. Global wheat output is expected to contract by 3 percent in 2026–27 with reduced harvests in several major producing countries.\n\n[world-bank-cmo-2026-10:33:paragraph-900:4 | CMO-October-2026.pdf | page 33]\nConflict- driven trade disruptions and hot, dry weather conditions in the European Union and elsewhere are expected to raise wheat prices sharply in 2026 and 2027. Beverage prices, meanwhile, are expected to decline by 24 percent in 2026, reflecting increased production of coffee and cocoa following supply challenges in the previous growing season, before edging up by 3 percent in 2027. The outlook assumes that Black Sea shipping disruptions will ease in 2027 and that agricultural input costs will decline. If conflict intensifies and weather-related losses exceed expectations, food and grain prices could be 12 percent and 20 percent above the 2027 baseline, respec- tively. Additional food export restrictions or policy shifts favoring biofuels could also push food commodity prices above projections.\n\n[world-bank-cmo-2026-10:35:paragraph-900:2 | CMO-October-2026.pdf | page 35]\nIn sum, production declines and export disruptions are expected to reduce global wheat exports by 7 percent in 2026–27, with shipments falling across all nine leading exporters. Maize prices are projected to rise by 10 percent in 2026 and 5 percent in 2027, before declining by 10 percent in 2028. The increases reflect an anticipated 3 percent decline in global production in 2026–27. The forecast assumes some easing in 2027 of the constraints on Black Sea trade created this year by attacks on grain shipments and port infrastructure. Projected output gains of 11 percent in Russia and 8 percent in Ukraine in 2026–27 are expected to partly offset harvest FIGURE 13 Supply conditions for grains and edible oils Strong El Niño conditions have emerged and are expected to intensify in late 2026 and early 2027."
+      }
+    ],
+    "context": "[world-bank-cmo-2026-10:35:paragraph-900:0 | CMO-October-2026.pdf | page 35]\nAGRICULTURECOMMODITY MARKETS OUTLOOK | OCTOBER 2026 27 13.C and 13.D). Even so, total grain supplies (production and beginning stocks combined) in 2026-27 are projected to be the second largest on record and about 3 percent higher than two years earlier, which should limit price increases compared with past episodes of grain market stress. Among grains, price pressures are most pronounced for wheat, amid several headwinds to production and trade. Wheat prices are projected to jump by 28 percent in 2026 and 14 percent in 2027, before easing by 11 percent in 2028. Global wheat output is expected to contract by 3 percent in 2026–27 with reduced harvests in several major producing countries.\n\n[world-bank-cmo-2026-10:33:paragraph-900:4 | CMO-October-2026.pdf | page 33]\nConflict- driven trade disruptions and hot, dry weather conditions in the European Union and elsewhere are expected to raise wheat prices sharply in 2026 and 2027. Beverage prices, meanwhile, are expected to decline by 24 percent in 2026, reflecting increased production of coffee and cocoa following supply challenges in the previous growing season, before edging up by 3 percent in 2027. The outlook assumes that Black Sea shipping disruptions will ease in 2027 and that agricultural input costs will decline. If conflict intensifies and weather-related losses exceed expectations, food and grain prices could be 12 percent and 20 percent above the 2027 baseline, respec- tively. Additional food export restrictions or policy shifts favoring biofuels could also push food commodity prices above projections.\n\n[world-bank-cmo-2026-10:35:paragraph-900:2 | CMO-October-2026.pdf | page 35]\nIn sum, production declines and export disruptions are expected to reduce global wheat exports by 7 percent in 2026–27, with shipments falling across all nine leading exporters. Maize prices are projected to rise by 10 percent in 2026 and 5 percent in 2027, before declining by 10 percent in 2028. The increases reflect an anticipated 3 percent decline in global production in 2026–27. The forecast assumes some easing in 2027 of the constraints on Black Sea trade created this year by attacks on grain shipments and port infrastructure. Projected output gains of 11 percent in Russia and 8 percent in Ukraine in 2026–27 are expected to partly offset harvest FIGURE 13 Supply conditions for grains and edible oils Strong El Niño conditions have emerged and are expected to intensify in late 2026 and early 2027.",
+    "context_ids": [
+      "world-bank-cmo-2026-10:35:paragraph-900:0",
+      "world-bank-cmo-2026-10:33:paragraph-900:4",
+      "world-bank-cmo-2026-10:35:paragraph-900:2"
+    ],
+    "model": "openai/gpt-4o-mini-2024-07-18",
+    "usage": {
+      "prompt_tokens": 1020,
+      "completion_tokens": 99
+    },
+    "elapsed_ms": 5467.03,
+    "query_id": "q10",
+    "split": "dev",
+    "question": "What wheat price changes are projected for 2026, 2027 and 2028?",
+    "method": "hybrid",
+    "backend": "local",
+    "top_k": 3,
+    "budget_chars": 3000,
+    "max_searches": 2
+  },
+  {
+    "status": "answered",
+    "answer": "Under the agriculture baseline, Black Sea shipment disruptions are expected to persist through the fourth quarter of 2026 but are projected to ease materially in 2027. This easing could be enabled by the potential availability of alternative export routes and arrangements to protect grain shipments, similar to the 2022–23 Black Sea Grain Initiative [world-bank-cmo-2026-10:37:paragraph-900:0].",
+    "citations": [
+      "world-bank-cmo-2026-10:37:paragraph-900:0"
+    ],
+    "rejected_answer": null,
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_report",
+        "query": "Black Sea shipment disruptions agriculture baseline",
+        "method": "hybrid",
+        "filter": null,
+        "top_k": 3,
+        "results": [
+          {
+            "id": "world-bank-cmo-2026-10:38:paragraph-900:5",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 38,
+            "text": "The baseline assumes Black Sea disruptions persist through 2026Q4, El Niño has an average effect for episodes of its strength, Hormuz flows return to near pre-conflict levels in 2027 . The adverse scenario assumes the Middle East and Black Sea disruptions persist through 2027H1 and El Niño’s effects are at the upper end of historical estimates. E. Dashed lines indicate forecasts for 2026–27 . F . Bars show the World Bank Group’s Food sub-group indexes forecasts for 2027 based on the October baseline projections. Orange markers show the indexes forecasts for 2027 based on April 2026 edition of the Commodity Markets Outlook. Red diamonds show estimated projections under the “ Adverse scenario” . B. Estimated effect of price controls and trade restrictions on grain prices, 2010-11 C. Agricultural input costs D. Biofuel production E. Food price baseline forecasts, revisions, and scenarios F.",
+            "metadata": {
+              "section": "agriculture",
+              "year": 2026,
+              "printed_page": 30,
+              "version": "October 2026 edition"
+            },
+            "score": 0.032266458495966696,
+            "strategy": "hybrid",
+            "rank": 1
+          },
+          {
+            "id": "world-bank-cmo-2026-10:37:paragraph-900:0",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 37,
+            "text": "AGRICULTURECOMMODITY MARKETS OUTLOOK | OCTOBER 2026 29 fieldwork in areas such as Brazil, East Africa, and the southern United States, adding further upward pressure on food prices. The effect on prices will depend on the location and scale of specific events arising from the interaction of El Niño with local weather conditions. It will also depend on prevailing commodity-specific inventory levels relative to consumption and the ability of consumers to substitute across commodities. Upside risk: Prolonged disruptions to Black Sea shipments The baseline price forecasts assume that disruptions to Black Sea shipments will persist through 2026Q4 but ease materially in 2027, given the potential for alternative export routes to become available and for arrangements to protect much-needed grain shipments, akin to the 2022–23 Black Sea Grain Initiative.",
+            "metadata": {
+              "section": "agriculture",
+              "year": 2026,
+              "printed_page": 29,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03225806451612903,
+            "strategy": "hybrid",
+            "rank": 2
+          },
+          {
+            "id": "world-bank-cmo-2026-10:38:paragraph-900:1",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 38,
+            "text": "In addition, hostilities in the Black Sea would substantially curb maize and wheat exports from Russia and Ukraine in the first half of 2027, on a scale comparable to grain export disruptions in 2022 (prior to the Black Sea Grain Initiative) and 2010-11. Finally, in the remainder of 2026 and 2027, El Niño raises prices of tropical commodities by more than past episodes would suggest. The combined effect of these overlapping shocks would raise food commodity prices in 2027 by an additional 12 percent, relative to the baseline (figure 14.E). The effect would be largest on grain prices, which would be 20 percent above the baseline forecast in 2027, while oils and meals would be 9 percent greater and other foods 7 percent higher (figure 14.F).",
+            "metadata": {
+              "section": "agriculture",
+              "year": 2026,
+              "printed_page": 30,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03149801587301587,
+            "strategy": "hybrid",
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "world-bank-cmo-2026-10:38:paragraph-900:5",
+          "world-bank-cmo-2026-10:37:paragraph-900:0",
+          "world-bank-cmo-2026-10:38:paragraph-900:1"
+        ],
+        "context": "[world-bank-cmo-2026-10:38:paragraph-900:5 | CMO-October-2026.pdf | page 38]\nThe baseline assumes Black Sea disruptions persist through 2026Q4, El Niño has an average effect for episodes of its strength, Hormuz flows return to near pre-conflict levels in 2027 . The adverse scenario assumes the Middle East and Black Sea disruptions persist through 2027H1 and El Niño’s effects are at the upper end of historical estimates. E. Dashed lines indicate forecasts for 2026–27 . F . Bars show the World Bank Group’s Food sub-group indexes forecasts for 2027 based on the October baseline projections. Orange markers show the indexes forecasts for 2027 based on April 2026 edition of the Commodity Markets Outlook. Red diamonds show estimated projections under the “ Adverse scenario” . B. Estimated effect of price controls and trade restrictions on grain prices, 2010-11 C. Agricultural input costs D. Biofuel production E. Food price baseline forecasts, revisions, and scenarios F.\n\n[world-bank-cmo-2026-10:37:paragraph-900:0 | CMO-October-2026.pdf | page 37]\nAGRICULTURECOMMODITY MARKETS OUTLOOK | OCTOBER 2026 29 fieldwork in areas such as Brazil, East Africa, and the southern United States, adding further upward pressure on food prices. The effect on prices will depend on the location and scale of specific events arising from the interaction of El Niño with local weather conditions. It will also depend on prevailing commodity-specific inventory levels relative to consumption and the ability of consumers to substitute across commodities. Upside risk: Prolonged disruptions to Black Sea shipments The baseline price forecasts assume that disruptions to Black Sea shipments will persist through 2026Q4 but ease materially in 2027, given the potential for alternative export routes to become available and for arrangements to protect much-needed grain shipments, akin to the 2022–23 Black Sea Grain Initiative.\n\n[world-bank-cmo-2026-10:38:paragraph-900:1 | CMO-October-2026.pdf | page 38]\nIn addition, hostilities in the Black Sea would substantially curb maize and wheat exports from Russia and Ukraine in the first half of 2027, on a scale comparable to grain export disruptions in 2022 (prior to the Black Sea Grain Initiative) and 2010-11. Finally, in the remainder of 2026 and 2027, El Niño raises prices of tropical commodities by more than past episodes would suggest. The combined effect of these overlapping shocks would raise food commodity prices in 2027 by an additional 12 percent, relative to the baseline (figure 14.E). The effect would be largest on grain prices, which would be 20 percent above the baseline forecast in 2027, while oils and meals would be 9 percent greater and other foods 7 percent higher (figure 14.F)."
+      }
+    ],
+    "context": "[world-bank-cmo-2026-10:38:paragraph-900:5 | CMO-October-2026.pdf | page 38]\nThe baseline assumes Black Sea disruptions persist through 2026Q4, El Niño has an average effect for episodes of its strength, Hormuz flows return to near pre-conflict levels in 2027 . The adverse scenario assumes the Middle East and Black Sea disruptions persist through 2027H1 and El Niño’s effects are at the upper end of historical estimates. E. Dashed lines indicate forecasts for 2026–27 . F . Bars show the World Bank Group’s Food sub-group indexes forecasts for 2027 based on the October baseline projections. Orange markers show the indexes forecasts for 2027 based on April 2026 edition of the Commodity Markets Outlook. Red diamonds show estimated projections under the “ Adverse scenario” . B. Estimated effect of price controls and trade restrictions on grain prices, 2010-11 C. Agricultural input costs D. Biofuel production E. Food price baseline forecasts, revisions, and scenarios F.\n\n[world-bank-cmo-2026-10:37:paragraph-900:0 | CMO-October-2026.pdf | page 37]\nAGRICULTURECOMMODITY MARKETS OUTLOOK | OCTOBER 2026 29 fieldwork in areas such as Brazil, East Africa, and the southern United States, adding further upward pressure on food prices. The effect on prices will depend on the location and scale of specific events arising from the interaction of El Niño with local weather conditions. It will also depend on prevailing commodity-specific inventory levels relative to consumption and the ability of consumers to substitute across commodities. Upside risk: Prolonged disruptions to Black Sea shipments The baseline price forecasts assume that disruptions to Black Sea shipments will persist through 2026Q4 but ease materially in 2027, given the potential for alternative export routes to become available and for arrangements to protect much-needed grain shipments, akin to the 2022–23 Black Sea Grain Initiative.\n\n[world-bank-cmo-2026-10:38:paragraph-900:1 | CMO-October-2026.pdf | page 38]\nIn addition, hostilities in the Black Sea would substantially curb maize and wheat exports from Russia and Ukraine in the first half of 2027, on a scale comparable to grain export disruptions in 2022 (prior to the Black Sea Grain Initiative) and 2010-11. Finally, in the remainder of 2026 and 2027, El Niño raises prices of tropical commodities by more than past episodes would suggest. The combined effect of these overlapping shocks would raise food commodity prices in 2027 by an additional 12 percent, relative to the baseline (figure 14.E). The effect would be largest on grain prices, which would be 20 percent above the baseline forecast in 2027, while oils and meals would be 9 percent greater and other foods 7 percent higher (figure 14.F).",
+    "context_ids": [
+      "world-bank-cmo-2026-10:38:paragraph-900:5",
+      "world-bank-cmo-2026-10:37:paragraph-900:0",
+      "world-bank-cmo-2026-10:38:paragraph-900:1"
+    ],
+    "model": "openai/gpt-4o-mini-2024-07-18",
+    "usage": {
+      "prompt_tokens": 1039,
+      "completion_tokens": 103
+    },
+    "elapsed_ms": 5061.04,
+    "query_id": "q11",
+    "split": "dev",
+    "question": "Under the agriculture baseline, when are Black Sea shipment disruptions expected to ease, and what could enable that?",
+    "method": "hybrid",
+    "backend": "local",
+    "top_k": 3,
+    "budget_chars": 3000,
+    "max_searches": 2
+  },
+  {
+    "status": "answered",
+    "answer": "Since 1950, there have been four very strong El Niño episodes: in 1982–83, 1991–92, 1997–98, and 2015–16. The current episode is expected to become the fifth [world-bank-cmo-2026-10:43:paragraph-900:1].",
+    "citations": [
+      "world-bank-cmo-2026-10:43:paragraph-900:1"
+    ],
+    "rejected_answer": null,
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_report",
+        "query": "very strong El Niño episodes since 1950",
+        "method": "hybrid",
+        "filter": null,
+        "top_k": 3,
+        "results": [
+          {
+            "id": "world-bank-cmo-2026-10:43:paragraph-900:1",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 43,
+            "text": "Episodes of El Niño vary considerably in intensity (figure B1.2.A).a Since 1950, there have been 27 El Niño episodes, four of which were very strong (in 1982–83, 1991–92, 1997–98, and 2015–16), with the current episode expected to become the fifth. Over the same period, there were 3 strong, 9 moderate, and 11 weak episodes. El Niño episodes typically emerge around May or June, strengthen through the third quarter of the year, peak near year-end, and dissipate during the first half of the following year. As a result, much of the associated rainfall anomaly occurs during the second half of the year, overlapping with the growing season for several major internationally traded commodities.",
+            "metadata": {
+              "section": "agriculture",
+              "year": 2026,
+              "printed_page": 35,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03278688524590164,
+            "strategy": "hybrid",
+            "rank": 1
+          },
+          {
+            "id": "world-bank-cmo-2026-10:63:paragraph-900:3",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 63,
+            "text": "Episodes vary widely in intensity, and only a minority—eight out of 26 episodes since 1950—have been classified as strong or very strong.6 Commodity prices are higher during ENSO episodes than during neutral periods (box 1). However, price sensitivity differs from volatility transmission: a large movement in a commodity’s own price does not necessarily make it a stronger source of volatility for other markets. The results indicate that the strong phase of the 2015-16 El Niño was associated with much larger increases in transmitted connectedness than the weak phase (figure SF .4.B). Soybeans recorded the largest increase in connectedness during the strong phase, followed by maize. During the weak phase, maize transmission was broadly unchanged, while the increase for soybeans was similar to that for non-food commodities.",
+            "metadata": {
+              "section": "special_focus",
+              "year": 2026,
+              "printed_page": 55,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03128054740957967,
+            "strategy": "hybrid",
+            "rank": 2
+          },
+          {
+            "id": "world-bank-cmo-2026-10:34:paragraph-900:2",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 34,
+            "text": "The agency also estimates an 83 percent chance that it will become the strongest El Niño since 1950 (when comparable records begin) during October–De- cember 2026 (figure 13.A).2 El Niño typically brings drier conditions to parts of Australia, Central America, the Sahel, South and Southeast Asia, and Southern Africa, and wetter conditions to parts of Central Asia, China, and the southern United States. Its effects on East Africa vary by location and season. Historically, the prices of food and beverage commodities have increased materially during El Niño episodes, as extreme weather conditions hinder production (figure 13.B). In the current episode, notable effects are expected in cocoa, palm oil, rice, and sugar markets, although annual average prices are forecast to increase significantly only for palm oil and rice.",
+            "metadata": {
+              "section": "agriculture",
+              "year": 2026,
+              "printed_page": 26,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03125763125763126,
+            "strategy": "hybrid",
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "world-bank-cmo-2026-10:43:paragraph-900:1",
+          "world-bank-cmo-2026-10:63:paragraph-900:3",
+          "world-bank-cmo-2026-10:34:paragraph-900:2"
+        ],
+        "context": "[world-bank-cmo-2026-10:43:paragraph-900:1 | CMO-October-2026.pdf | page 43]\nEpisodes of El Niño vary considerably in intensity (figure B1.2.A).a Since 1950, there have been 27 El Niño episodes, four of which were very strong (in 1982–83, 1991–92, 1997–98, and 2015–16), with the current episode expected to become the fifth. Over the same period, there were 3 strong, 9 moderate, and 11 weak episodes. El Niño episodes typically emerge around May or June, strengthen through the third quarter of the year, peak near year-end, and dissipate during the first half of the following year. As a result, much of the associated rainfall anomaly occurs during the second half of the year, overlapping with the growing season for several major internationally traded commodities.\n\n[world-bank-cmo-2026-10:63:paragraph-900:3 | CMO-October-2026.pdf | page 63]\nEpisodes vary widely in intensity, and only a minority—eight out of 26 episodes since 1950—have been classified as strong or very strong.6 Commodity prices are higher during ENSO episodes than during neutral periods (box 1). However, price sensitivity differs from volatility transmission: a large movement in a commodity’s own price does not necessarily make it a stronger source of volatility for other markets. The results indicate that the strong phase of the 2015-16 El Niño was associated with much larger increases in transmitted connectedness than the weak phase (figure SF .4.B). Soybeans recorded the largest increase in connectedness during the strong phase, followed by maize. During the weak phase, maize transmission was broadly unchanged, while the increase for soybeans was similar to that for non-food commodities.\n\n[world-bank-cmo-2026-10:34:paragraph-900:2 | CMO-October-2026.pdf | page 34]\nThe agency also estimates an 83 percent chance that it will become the strongest El Niño since 1950 (when comparable records begin) during October–De- cember 2026 (figure 13.A).2 El Niño typically brings drier conditions to parts of Australia, Central America, the Sahel, South and Southeast Asia, and Southern Africa, and wetter conditions to parts of Central Asia, China, and the southern United States. Its effects on East Africa vary by location and season. Historically, the prices of food and beverage commodities have increased materially during El Niño episodes, as extreme weather conditions hinder production (figure 13.B). In the current episode, notable effects are expected in cocoa, palm oil, rice, and sugar markets, although annual average prices are forecast to increase significantly only for palm oil and rice."
+      }
+    ],
+    "context": "[world-bank-cmo-2026-10:43:paragraph-900:1 | CMO-October-2026.pdf | page 43]\nEpisodes of El Niño vary considerably in intensity (figure B1.2.A).a Since 1950, there have been 27 El Niño episodes, four of which were very strong (in 1982–83, 1991–92, 1997–98, and 2015–16), with the current episode expected to become the fifth. Over the same period, there were 3 strong, 9 moderate, and 11 weak episodes. El Niño episodes typically emerge around May or June, strengthen through the third quarter of the year, peak near year-end, and dissipate during the first half of the following year. As a result, much of the associated rainfall anomaly occurs during the second half of the year, overlapping with the growing season for several major internationally traded commodities.\n\n[world-bank-cmo-2026-10:63:paragraph-900:3 | CMO-October-2026.pdf | page 63]\nEpisodes vary widely in intensity, and only a minority—eight out of 26 episodes since 1950—have been classified as strong or very strong.6 Commodity prices are higher during ENSO episodes than during neutral periods (box 1). However, price sensitivity differs from volatility transmission: a large movement in a commodity’s own price does not necessarily make it a stronger source of volatility for other markets. The results indicate that the strong phase of the 2015-16 El Niño was associated with much larger increases in transmitted connectedness than the weak phase (figure SF .4.B). Soybeans recorded the largest increase in connectedness during the strong phase, followed by maize. During the weak phase, maize transmission was broadly unchanged, while the increase for soybeans was similar to that for non-food commodities.\n\n[world-bank-cmo-2026-10:34:paragraph-900:2 | CMO-October-2026.pdf | page 34]\nThe agency also estimates an 83 percent chance that it will become the strongest El Niño since 1950 (when comparable records begin) during October–De- cember 2026 (figure 13.A).2 El Niño typically brings drier conditions to parts of Australia, Central America, the Sahel, South and Southeast Asia, and Southern Africa, and wetter conditions to parts of Central Asia, China, and the southern United States. Its effects on East Africa vary by location and season. Historically, the prices of food and beverage commodities have increased materially during El Niño episodes, as extreme weather conditions hinder production (figure 13.B). In the current episode, notable effects are expected in cocoa, palm oil, rice, and sugar markets, although annual average prices are forecast to increase significantly only for palm oil and rice.",
+    "context_ids": [
+      "world-bank-cmo-2026-10:43:paragraph-900:1",
+      "world-bank-cmo-2026-10:63:paragraph-900:3",
+      "world-bank-cmo-2026-10:34:paragraph-900:2"
+    ],
+    "model": "openai/gpt-4o-mini-2024-07-18",
+    "usage": {
+      "prompt_tokens": 1004,
+      "completion_tokens": 92
+    },
+    "elapsed_ms": 6161.85,
+    "query_id": "q12",
+    "split": "dev",
+    "question": "How many very strong El Niño episodes had occurred since 1950 before the current episode?",
+    "method": "hybrid",
+    "backend": "local",
+    "top_k": 3,
+    "budget_chars": 3000,
+    "max_searches": 2
+  },
+  {
+    "status": "answered",
+    "answer": "The average urea price in 2026Q3 was $399 per metric ton (mt) [world-bank-cmo-2026-10:47:paragraph-900:0].",
+    "citations": [
+      "world-bank-cmo-2026-10:47:paragraph-900:0"
+    ],
+    "rejected_answer": null,
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_report",
+        "query": "average urea price 2026Q3",
+        "method": "hybrid",
+        "filter": {
+          "section": "fertilizers"
+        },
+        "top_k": 3,
+        "results": [
+          {
+            "id": "world-bank-cmo-2026-10:47:paragraph-900:0",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 47,
+            "text": "FERTILIZERSCOMMODITY MARKETS OUTLOOK | OCTOBER 2026 39 Recent developments Nitrogen (urea) prices averaged $399/mt in 2026Q3, down 42 percent (q/q) and 18 percent (y/y), after peaking at $857/mt in April (figure 18.A). Prices eased further in the first half of October. The initial retreat during 2026Q2 reflected China’s easing of export restrictions in May, the temporary reduction in hostilities following the June memorandum of understand- ing between the United States and the Islamic Republic of Iran, and reductions in purchases, partly owing to the end of spring planting in the Northern Hemisphere. Increased exports from China and other major suppliers, including Egypt, Nigeria, and Oman, helped sustain a return to more normal price levels. China’s urea exports are expected to reach 7.0 million metric tons (mmt) in 2026, up from 4.9 mmt in 2025.",
+            "metadata": {
+              "section": "fertilizers",
+              "year": 2026,
+              "printed_page": 39,
+              "version": "October 2026 edition"
+            },
+            "score": 0.032266458495966696,
+            "strategy": "hybrid",
+            "rank": 1
+          },
+          {
+            "id": "world-bank-cmo-2026-10:47:paragraph-900:4",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 47,
+            "text": "Urea prices are forecast to fall by 16 percent in 2027 and 14 percent in 2028, assuming Middle Eastern exports recover, natural gas prices ease, Fertilizers The World Bank Group’s fertilizer price index fell by 22 percent in 2026Q3 (q/q) and continued to decline in October, fully reversing the 2026Q2 surge that followed the closure of the Strait of Hormuz. Urea prices drove both swings, while other fertilizer prices rose less sharply but remained elevated in 2026Q3. Despite the recent retreat, the index is projected to rise by about 14 percent in 2026 (y/y), reflecting shipping disruptions in the Middle East, associated increases in input costs, and trade restrictions. Prices are forecast to fall by 12 percent in 2027 and a further 8 percent in 2028 as input costs ease and supplies recover, aided by increased exports from producers outside the Gulf region.",
+            "metadata": {
+              "section": "fertilizers",
+              "year": 2026,
+              "printed_page": 39,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03225806451612903,
+            "strategy": "hybrid",
+            "rank": 2
+          },
+          {
+            "id": "world-bank-cmo-2026-10:48:paragraph-900:3",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 48,
+            "text": "Upside risks to the outlook for urea prices include an escalation in the Middle East conflict that raises input costs, particularly for natural gas, above baseline expectations. More specifically, continued conflict could lead to an extension of Qatar’s force majeure, imposed in March, on contracts to sell LNG and related products, including urea. Export restrictions by major producers are another potential source of renewed price surges. Conversely, a swift reduction of geopolitical tensions in the Gulf region could lead to a surge of exports, materially lowering prices, although infrastructure damage is likely to delay the full recovery of urea production. After a projected 7 percent increase in 2026, DAP prices are forecast to drop by about 18 percent in 2027 and 17 percent in 2028.",
+            "metadata": {
+              "section": "fertilizers",
+              "year": 2026,
+              "printed_page": 40,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03149801587301587,
+            "strategy": "hybrid",
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "world-bank-cmo-2026-10:47:paragraph-900:0",
+          "world-bank-cmo-2026-10:47:paragraph-900:4",
+          "world-bank-cmo-2026-10:48:paragraph-900:3"
+        ],
+        "context": "[world-bank-cmo-2026-10:47:paragraph-900:0 | CMO-October-2026.pdf | page 47]\nFERTILIZERSCOMMODITY MARKETS OUTLOOK | OCTOBER 2026 39 Recent developments Nitrogen (urea) prices averaged $399/mt in 2026Q3, down 42 percent (q/q) and 18 percent (y/y), after peaking at $857/mt in April (figure 18.A). Prices eased further in the first half of October. The initial retreat during 2026Q2 reflected China’s easing of export restrictions in May, the temporary reduction in hostilities following the June memorandum of understand- ing between the United States and the Islamic Republic of Iran, and reductions in purchases, partly owing to the end of spring planting in the Northern Hemisphere. Increased exports from China and other major suppliers, including Egypt, Nigeria, and Oman, helped sustain a return to more normal price levels. China’s urea exports are expected to reach 7.0 million metric tons (mmt) in 2026, up from 4.9 mmt in 2025.\n\n[world-bank-cmo-2026-10:47:paragraph-900:4 | CMO-October-2026.pdf | page 47]\nUrea prices are forecast to fall by 16 percent in 2027 and 14 percent in 2028, assuming Middle Eastern exports recover, natural gas prices ease, Fertilizers The World Bank Group’s fertilizer price index fell by 22 percent in 2026Q3 (q/q) and continued to decline in October, fully reversing the 2026Q2 surge that followed the closure of the Strait of Hormuz. Urea prices drove both swings, while other fertilizer prices rose less sharply but remained elevated in 2026Q3. Despite the recent retreat, the index is projected to rise by about 14 percent in 2026 (y/y), reflecting shipping disruptions in the Middle East, associated increases in input costs, and trade restrictions. Prices are forecast to fall by 12 percent in 2027 and a further 8 percent in 2028 as input costs ease and supplies recover, aided by increased exports from producers outside the Gulf region.\n\n[world-bank-cmo-2026-10:48:paragraph-900:3 | CMO-October-2026.pdf | page 48]\nUpside risks to the outlook for urea prices include an escalation in the Middle East conflict that raises input costs, particularly for natural gas, above baseline expectations. More specifically, continued conflict could lead to an extension of Qatar’s force majeure, imposed in March, on contracts to sell LNG and related products, including urea. Export restrictions by major producers are another potential source of renewed price surges. Conversely, a swift reduction of geopolitical tensions in the Gulf region could lead to a surge of exports, materially lowering prices, although infrastructure damage is likely to delay the full recovery of urea production. After a projected 7 percent increase in 2026, DAP prices are forecast to drop by about 18 percent in 2027 and 17 percent in 2028."
+      }
+    ],
+    "context": "[world-bank-cmo-2026-10:47:paragraph-900:0 | CMO-October-2026.pdf | page 47]\nFERTILIZERSCOMMODITY MARKETS OUTLOOK | OCTOBER 2026 39 Recent developments Nitrogen (urea) prices averaged $399/mt in 2026Q3, down 42 percent (q/q) and 18 percent (y/y), after peaking at $857/mt in April (figure 18.A). Prices eased further in the first half of October. The initial retreat during 2026Q2 reflected China’s easing of export restrictions in May, the temporary reduction in hostilities following the June memorandum of understand- ing between the United States and the Islamic Republic of Iran, and reductions in purchases, partly owing to the end of spring planting in the Northern Hemisphere. Increased exports from China and other major suppliers, including Egypt, Nigeria, and Oman, helped sustain a return to more normal price levels. China’s urea exports are expected to reach 7.0 million metric tons (mmt) in 2026, up from 4.9 mmt in 2025.\n\n[world-bank-cmo-2026-10:47:paragraph-900:4 | CMO-October-2026.pdf | page 47]\nUrea prices are forecast to fall by 16 percent in 2027 and 14 percent in 2028, assuming Middle Eastern exports recover, natural gas prices ease, Fertilizers The World Bank Group’s fertilizer price index fell by 22 percent in 2026Q3 (q/q) and continued to decline in October, fully reversing the 2026Q2 surge that followed the closure of the Strait of Hormuz. Urea prices drove both swings, while other fertilizer prices rose less sharply but remained elevated in 2026Q3. Despite the recent retreat, the index is projected to rise by about 14 percent in 2026 (y/y), reflecting shipping disruptions in the Middle East, associated increases in input costs, and trade restrictions. Prices are forecast to fall by 12 percent in 2027 and a further 8 percent in 2028 as input costs ease and supplies recover, aided by increased exports from producers outside the Gulf region.\n\n[world-bank-cmo-2026-10:48:paragraph-900:3 | CMO-October-2026.pdf | page 48]\nUpside risks to the outlook for urea prices include an escalation in the Middle East conflict that raises input costs, particularly for natural gas, above baseline expectations. More specifically, continued conflict could lead to an extension of Qatar’s force majeure, imposed in March, on contracts to sell LNG and related products, including urea. Export restrictions by major producers are another potential source of renewed price surges. Conversely, a swift reduction of geopolitical tensions in the Gulf region could lead to a surge of exports, materially lowering prices, although infrastructure damage is likely to delay the full recovery of urea production. After a projected 7 percent increase in 2026, DAP prices are forecast to drop by about 18 percent in 2027 and 17 percent in 2028.",
+    "context_ids": [
+      "world-bank-cmo-2026-10:47:paragraph-900:0",
+      "world-bank-cmo-2026-10:47:paragraph-900:4",
+      "world-bank-cmo-2026-10:48:paragraph-900:3"
+    ],
+    "model": "openai/gpt-4o-mini-2024-07-18",
+    "usage": {
+      "prompt_tokens": 1079,
+      "completion_tokens": 62
+    },
+    "elapsed_ms": 4242.71,
+    "query_id": "q13",
+    "split": "dev",
+    "question": "In the fertilizers section, what was the average urea price in 2026Q3?",
+    "method": "hybrid",
+    "backend": "local",
+    "top_k": 3,
+    "budget_chars": 3000,
+    "max_searches": 2
+  },
+  {
+    "status": "answered",
+    "answer": "Investment in power grids, electric vehicle (EV) production, renewable energy, electronics, and data centers has supported demand for aluminum, copper, and tin [world-bank-cmo-2026-10:49:paragraph-900:0].",
+    "citations": [
+      "world-bank-cmo-2026-10:49:paragraph-900:0"
+    ],
+    "rejected_answer": null,
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_report",
+        "query": "investment areas supported demand for aluminum, copper and tin",
+        "method": "hybrid",
+        "filter": null,
+        "top_k": 3,
+        "results": [
+          {
+            "id": "world-bank-cmo-2026-10:49:paragraph-900:0",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 49,
+            "text": "METALS AND MINERALSCOMMODITY MARKETS OUTLOOK | OCTOBER 2026 41 Base metals and iron ore Recent developments and outlook Average base metal prices edged lower in 2026Q3 and declined further in October, although aluminum, copper, tin, and zinc reached all-time highs. In contrast, iron ore prices declined in the quarter, recently averaging about 40 percent below their 2011 peak level (figure 19.A). Tightness in several base metal markets has partly reflected supply constraints, including disruptions at major mines and smelters, and official production limits in China. Rapidly growing investment in power grids, electric vehicle (EV) production, renewable energy, electronics, and data centers continued to support demand for aluminum, copper, and tin. Meanwhile, the ongoing slump in construction and steel activity—particularly in China—weighed on iron ore prices.",
+            "metadata": {
+              "section": "metals_and_minerals",
+              "year": 2026,
+              "printed_page": 41,
+              "version": "October 2026 edition"
+            },
+            "score": 0.032266458495966696,
+            "strategy": "hybrid",
+            "rank": 1
+          },
+          {
+            "id": "world-bank-cmo-2026-10:50:paragraph-900:3",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 50,
+            "text": "Global consumption remained broadly resilient in 2026H1, with stronger demand in China offsetting weakness elsewhere, and is expected to expand steadily, supported by investment in data centers, electrification, transport and packaging. Aluminum prices are estimated to average an all-time high of $3,250 per metric ton in 2026, about 24 percent (y/y) higher than in 2025, before easing by 5 percent in FIGURE 19 Metals and minerals markets Base metal prices remained close to all-time highs in 2026Q3, although iron ore prices weakened further amid subdued steel demand. Copper prices rose anew amid mine disruptions and increased stockpiling related to uncertainty about U.S. import tariffs. Aluminum prices have moderated after supply concerns linked to Middle East trade disruptions pushed them to record highs earlier this year, but they remain historically elevated.",
+            "metadata": {
+              "section": "metals_and_minerals",
+              "year": 2026,
+              "printed_page": 42,
+              "version": "October 2026 edition"
+            },
+            "score": 0.0315136476426799,
+            "strategy": "hybrid",
+            "rank": 2
+          },
+          {
+            "id": "world-bank-cmo-2026-10:51:paragraph-900:3",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 51,
+            "text": "Demand growth is expected to strengthen somewhat in 2027–28, supported by electronics and semiconductor applications. Solder accounts for about half of global tin use, while use in solar and other electrification technologies is growing. Following an expected 50 percent (y/y) increase in 2026 to a record annual average, tin prices are forecast to decline by 12 percent in both 2027 and 2028 as improving supply conditions ease market tightness. Zinc prices increased by 11 percent in 2026Q3 (q/q) and were little changed in October, as temporary disruptions to Chinese smelter output added to tight availability elsewhere. Mine output is expected to increase over 2027–28 as recently expanded operations in the Democratic Republic of Congo and South Africa ramp up and new capacity elsewhere in Africa comes online.",
+            "metadata": {
+              "section": "metals_and_minerals",
+              "year": 2026,
+              "printed_page": 43,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03131881575727918,
+            "strategy": "hybrid",
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "world-bank-cmo-2026-10:49:paragraph-900:0",
+          "world-bank-cmo-2026-10:50:paragraph-900:3",
+          "world-bank-cmo-2026-10:51:paragraph-900:3"
+        ],
+        "context": "[world-bank-cmo-2026-10:49:paragraph-900:0 | CMO-October-2026.pdf | page 49]\nMETALS AND MINERALSCOMMODITY MARKETS OUTLOOK | OCTOBER 2026 41 Base metals and iron ore Recent developments and outlook Average base metal prices edged lower in 2026Q3 and declined further in October, although aluminum, copper, tin, and zinc reached all-time highs. In contrast, iron ore prices declined in the quarter, recently averaging about 40 percent below their 2011 peak level (figure 19.A). Tightness in several base metal markets has partly reflected supply constraints, including disruptions at major mines and smelters, and official production limits in China. Rapidly growing investment in power grids, electric vehicle (EV) production, renewable energy, electronics, and data centers continued to support demand for aluminum, copper, and tin. Meanwhile, the ongoing slump in construction and steel activity—particularly in China—weighed on iron ore prices.\n\n[world-bank-cmo-2026-10:50:paragraph-900:3 | CMO-October-2026.pdf | page 50]\nGlobal consumption remained broadly resilient in 2026H1, with stronger demand in China offsetting weakness elsewhere, and is expected to expand steadily, supported by investment in data centers, electrification, transport and packaging. Aluminum prices are estimated to average an all-time high of $3,250 per metric ton in 2026, about 24 percent (y/y) higher than in 2025, before easing by 5 percent in FIGURE 19 Metals and minerals markets Base metal prices remained close to all-time highs in 2026Q3, although iron ore prices weakened further amid subdued steel demand. Copper prices rose anew amid mine disruptions and increased stockpiling related to uncertainty about U.S. import tariffs. Aluminum prices have moderated after supply concerns linked to Middle East trade disruptions pushed them to record highs earlier this year, but they remain historically elevated.\n\n[world-bank-cmo-2026-10:51:paragraph-900:3 | CMO-October-2026.pdf | page 51]\nDemand growth is expected to strengthen somewhat in 2027–28, supported by electronics and semiconductor applications. Solder accounts for about half of global tin use, while use in solar and other electrification technologies is growing. Following an expected 50 percent (y/y) increase in 2026 to a record annual average, tin prices are forecast to decline by 12 percent in both 2027 and 2028 as improving supply conditions ease market tightness. Zinc prices increased by 11 percent in 2026Q3 (q/q) and were little changed in October, as temporary disruptions to Chinese smelter output added to tight availability elsewhere. Mine output is expected to increase over 2027–28 as recently expanded operations in the Democratic Republic of Congo and South Africa ramp up and new capacity elsewhere in Africa comes online."
+      }
+    ],
+    "context": "[world-bank-cmo-2026-10:49:paragraph-900:0 | CMO-October-2026.pdf | page 49]\nMETALS AND MINERALSCOMMODITY MARKETS OUTLOOK | OCTOBER 2026 41 Base metals and iron ore Recent developments and outlook Average base metal prices edged lower in 2026Q3 and declined further in October, although aluminum, copper, tin, and zinc reached all-time highs. In contrast, iron ore prices declined in the quarter, recently averaging about 40 percent below their 2011 peak level (figure 19.A). Tightness in several base metal markets has partly reflected supply constraints, including disruptions at major mines and smelters, and official production limits in China. Rapidly growing investment in power grids, electric vehicle (EV) production, renewable energy, electronics, and data centers continued to support demand for aluminum, copper, and tin. Meanwhile, the ongoing slump in construction and steel activity—particularly in China—weighed on iron ore prices.\n\n[world-bank-cmo-2026-10:50:paragraph-900:3 | CMO-October-2026.pdf | page 50]\nGlobal consumption remained broadly resilient in 2026H1, with stronger demand in China offsetting weakness elsewhere, and is expected to expand steadily, supported by investment in data centers, electrification, transport and packaging. Aluminum prices are estimated to average an all-time high of $3,250 per metric ton in 2026, about 24 percent (y/y) higher than in 2025, before easing by 5 percent in FIGURE 19 Metals and minerals markets Base metal prices remained close to all-time highs in 2026Q3, although iron ore prices weakened further amid subdued steel demand. Copper prices rose anew amid mine disruptions and increased stockpiling related to uncertainty about U.S. import tariffs. Aluminum prices have moderated after supply concerns linked to Middle East trade disruptions pushed them to record highs earlier this year, but they remain historically elevated.\n\n[world-bank-cmo-2026-10:51:paragraph-900:3 | CMO-October-2026.pdf | page 51]\nDemand growth is expected to strengthen somewhat in 2027–28, supported by electronics and semiconductor applications. Solder accounts for about half of global tin use, while use in solar and other electrification technologies is growing. Following an expected 50 percent (y/y) increase in 2026 to a record annual average, tin prices are forecast to decline by 12 percent in both 2027 and 2028 as improving supply conditions ease market tightness. Zinc prices increased by 11 percent in 2026Q3 (q/q) and were little changed in October, as temporary disruptions to Chinese smelter output added to tight availability elsewhere. Mine output is expected to increase over 2027–28 as recently expanded operations in the Democratic Republic of Congo and South Africa ramp up and new capacity elsewhere in Africa comes online.",
+    "context_ids": [
+      "world-bank-cmo-2026-10:49:paragraph-900:0",
+      "world-bank-cmo-2026-10:50:paragraph-900:3",
+      "world-bank-cmo-2026-10:51:paragraph-900:3"
+    ],
+    "model": "openai/gpt-4o-mini-2024-07-18",
+    "usage": {
+      "prompt_tokens": 1023,
+      "completion_tokens": 73
+    },
+    "elapsed_ms": 4343.34,
+    "query_id": "q14",
+    "split": "dev",
+    "question": "Which investment areas supported demand for aluminum, copper and tin?",
+    "method": "hybrid",
+    "backend": "local",
+    "top_k": 3,
+    "budget_chars": 3000,
+    "max_searches": 2
+  },
+  {
+    "status": "answered",
+    "answer": "The Special Focus examines 15 internationally traded commodities across six groups: energy, food, industrial metals, livestock, precious metals, and soft commodities [world-bank-cmo-2026-10:56:paragraph-900:1].",
+    "citations": [
+      "world-bank-cmo-2026-10:56:paragraph-900:1"
+    ],
+    "rejected_answer": null,
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_report",
+        "query": "Special Focus examine internationally traded commodities and groups",
+        "method": "hybrid",
+        "filter": null,
+        "top_k": 3,
+        "results": [
+          {
+            "id": "world-bank-cmo-2026-10:56:paragraph-900:1",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 56,
+            "text": "Most commodity analysis appropriately focuses on the supply and demand fundamentals of individual markets. While that approach remains important, it provides only a partial view when volatility associated with one commodity is linked to developments in other commodity markets. This Special Focus examines price volatility connectedness across 15 internationally traded commodities in six groups—energy, food, industrial metals, livestock, precious metals, and soft commodities (such as coffee and cotton)— using daily data from 2006 to 2026. Price volatility connectedness measures how much of the variance in a commodity’s price volatility can be explained by shocks affecting prices in other commodity markets.",
+            "metadata": {
+              "section": "special_focus",
+              "year": 2026,
+              "printed_page": 48,
+              "version": "October 2026 edition"
+            },
+            "score": 0.032266458495966696,
+            "strategy": "hybrid",
+            "rank": 1
+          },
+          {
+            "id": "world-bank-cmo-2026-10:56:paragraph-900:0",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 56,
+            "text": "SPECIAL FOCUS COMMODITY MARKETS OUTLOOK | OCTOBER 2026 48 Introduction Commodity prices often move in tandem because many markets are exposed to common shifts in global activity, input costs, trade, and financial conditions. For instance, a slowdown in industrial activity can weaken demand for energy and industrial metals at the same time, while disruptions to energy supply can raise transport and fertilizer costs and spill into agricultural markets. Periods of financial or geopolitical stress can broaden these movements across otherwise distinct commodity groups (World Bank 2024). Understanding these linkages is key because commodity price shocks affect inflation, fiscal revenues, trade balances, and food and energy security, particularly in emerging market and developing economies (EMDEs) with large commodity exposures (Balcilar, Usman and Agan 2024; World Bank 2026a).",
+            "metadata": {
+              "section": "special_focus",
+              "year": 2026,
+              "printed_page": 48,
+              "version": "October 2026 edition"
+            },
+            "score": 0.030834914611005692,
+            "strategy": "hybrid",
+            "rank": 2
+          },
+          {
+            "id": "world-bank-cmo-2026-10:57:paragraph-900:0",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 57,
+            "text": "SPECIAL FOCUSCOMMODITY MARKETS OUTLOOK | OCTOBER 2026 49 six groups: energy, food, industrial metals, livestock, precious metals, and soft commodities. The products include crude oil and U.S. natural gas in the energy group; aluminum, copper, nickel, and zinc in the industrial metals group; maize, soybeans, and wheat in the food group; live cattle and lean hogs in the livestock group; gold and silver in the precious metals group; and coffee and cotton in the soft commodities group.3 The common sample spans May 5, 2006, the earliest date for which data are available, to June 26, 2026. Price volatility is measured using the range-based estimator of Garman and Klass (1980), which combines daily opening, closing, high, and low prices. T o capture relationships across a relatively large number of markets, the analysis estimates an elastic net vector autoregression model (appendix SF .1).",
+            "metadata": {
+              "section": "special_focus",
+              "year": 2026,
+              "printed_page": 49,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03028233151183971,
+            "strategy": "hybrid",
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "world-bank-cmo-2026-10:56:paragraph-900:1",
+          "world-bank-cmo-2026-10:56:paragraph-900:0",
+          "world-bank-cmo-2026-10:57:paragraph-900:0"
+        ],
+        "context": "[world-bank-cmo-2026-10:56:paragraph-900:1 | CMO-October-2026.pdf | page 56]\nMost commodity analysis appropriately focuses on the supply and demand fundamentals of individual markets. While that approach remains important, it provides only a partial view when volatility associated with one commodity is linked to developments in other commodity markets. This Special Focus examines price volatility connectedness across 15 internationally traded commodities in six groups—energy, food, industrial metals, livestock, precious metals, and soft commodities (such as coffee and cotton)— using daily data from 2006 to 2026. Price volatility connectedness measures how much of the variance in a commodity’s price volatility can be explained by shocks affecting prices in other commodity markets.\n\n[world-bank-cmo-2026-10:56:paragraph-900:0 | CMO-October-2026.pdf | page 56]\nSPECIAL FOCUS COMMODITY MARKETS OUTLOOK | OCTOBER 2026 48 Introduction Commodity prices often move in tandem because many markets are exposed to common shifts in global activity, input costs, trade, and financial conditions. For instance, a slowdown in industrial activity can weaken demand for energy and industrial metals at the same time, while disruptions to energy supply can raise transport and fertilizer costs and spill into agricultural markets. Periods of financial or geopolitical stress can broaden these movements across otherwise distinct commodity groups (World Bank 2024). Understanding these linkages is key because commodity price shocks affect inflation, fiscal revenues, trade balances, and food and energy security, particularly in emerging market and developing economies (EMDEs) with large commodity exposures (Balcilar, Usman and Agan 2024; World Bank 2026a).\n\n[world-bank-cmo-2026-10:57:paragraph-900:0 | CMO-October-2026.pdf | page 57]\nSPECIAL FOCUSCOMMODITY MARKETS OUTLOOK | OCTOBER 2026 49 six groups: energy, food, industrial metals, livestock, precious metals, and soft commodities. The products include crude oil and U.S. natural gas in the energy group; aluminum, copper, nickel, and zinc in the industrial metals group; maize, soybeans, and wheat in the food group; live cattle and lean hogs in the livestock group; gold and silver in the precious metals group; and coffee and cotton in the soft commodities group.3 The common sample spans May 5, 2006, the earliest date for which data are available, to June 26, 2026. Price volatility is measured using the range-based estimator of Garman and Klass (1980), which combines daily opening, closing, high, and low prices. T o capture relationships across a relatively large number of markets, the analysis estimates an elastic net vector autoregression model (appendix SF .1)."
+      }
+    ],
+    "context": "[world-bank-cmo-2026-10:56:paragraph-900:1 | CMO-October-2026.pdf | page 56]\nMost commodity analysis appropriately focuses on the supply and demand fundamentals of individual markets. While that approach remains important, it provides only a partial view when volatility associated with one commodity is linked to developments in other commodity markets. This Special Focus examines price volatility connectedness across 15 internationally traded commodities in six groups—energy, food, industrial metals, livestock, precious metals, and soft commodities (such as coffee and cotton)— using daily data from 2006 to 2026. Price volatility connectedness measures how much of the variance in a commodity’s price volatility can be explained by shocks affecting prices in other commodity markets.\n\n[world-bank-cmo-2026-10:56:paragraph-900:0 | CMO-October-2026.pdf | page 56]\nSPECIAL FOCUS COMMODITY MARKETS OUTLOOK | OCTOBER 2026 48 Introduction Commodity prices often move in tandem because many markets are exposed to common shifts in global activity, input costs, trade, and financial conditions. For instance, a slowdown in industrial activity can weaken demand for energy and industrial metals at the same time, while disruptions to energy supply can raise transport and fertilizer costs and spill into agricultural markets. Periods of financial or geopolitical stress can broaden these movements across otherwise distinct commodity groups (World Bank 2024). Understanding these linkages is key because commodity price shocks affect inflation, fiscal revenues, trade balances, and food and energy security, particularly in emerging market and developing economies (EMDEs) with large commodity exposures (Balcilar, Usman and Agan 2024; World Bank 2026a).\n\n[world-bank-cmo-2026-10:57:paragraph-900:0 | CMO-October-2026.pdf | page 57]\nSPECIAL FOCUSCOMMODITY MARKETS OUTLOOK | OCTOBER 2026 49 six groups: energy, food, industrial metals, livestock, precious metals, and soft commodities. The products include crude oil and U.S. natural gas in the energy group; aluminum, copper, nickel, and zinc in the industrial metals group; maize, soybeans, and wheat in the food group; live cattle and lean hogs in the livestock group; gold and silver in the precious metals group; and coffee and cotton in the soft commodities group.3 The common sample spans May 5, 2006, the earliest date for which data are available, to June 26, 2026. Price volatility is measured using the range-based estimator of Garman and Klass (1980), which combines daily opening, closing, high, and low prices. T o capture relationships across a relatively large number of markets, the analysis estimates an elastic net vector autoregression model (appendix SF .1).",
+    "context_ids": [
+      "world-bank-cmo-2026-10:56:paragraph-900:1",
+      "world-bank-cmo-2026-10:56:paragraph-900:0",
+      "world-bank-cmo-2026-10:57:paragraph-900:0"
+    ],
+    "model": "openai/gpt-4o-mini-2024-07-18",
+    "usage": {
+      "prompt_tokens": 996,
+      "completion_tokens": 69
+    },
+    "elapsed_ms": 25266.96,
+    "query_id": "q15",
+    "split": "dev",
+    "question": "How many internationally traded commodities and groups does the Special Focus examine?",
+    "method": "hybrid",
+    "backend": "local",
+    "top_k": 3,
+    "budget_chars": 3000,
+    "max_searches": 2
+  },
+  {
+    "status": "abstain",
+    "answer": "Insufficient evidence in the report.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_report",
+        "query": "Brent crude price forecast 2030",
+        "method": "hybrid",
+        "filter": null,
+        "top_k": 3,
+        "results": [
+          {
+            "id": "world-bank-cmo-2026-10:26:paragraph-900:3",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 26,
+            "text": "These risks might lift crude oil prices to $105/bbl in 2027 and exacerbate diesel price increases. Downside risks to the forecast include slower-than-projected global growth, which would weaken oil consumption and prices, higher oil output, and accelerated adoption of electric vehicles, given the substantial scope for increased EV sales in many regions. A. Brent oil price forecast comparison Sources: Bloomberg; Consensus Forecasts; International Energy Agency (IEA); U.S. Energy Information Administration (EIA); World Bank. Note: bbl = barrel; EV = electric vehicle; mb/d = million barrels per day. A. Futures data as of October 14, 2026. Consensus data are from the September 2026 report. EIA data are from EIA’s Short-Term Energy Outlook (October 2026 edition). Dashed lines indicate forecasts for 2026–28. B. Monthly data averaged by quarter. Bars show quarter-on-quarter changes.",
+            "metadata": {
+              "section": "energy",
+              "year": 2026,
+              "printed_page": 18,
+              "version": "October 2026 edition"
+            },
+            "score": 0.031099324975891997,
+            "strategy": "hybrid",
+            "rank": 1
+          },
+          {
+            "id": "world-bank-cmo-2026-10:22:paragraph-900:3",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 22,
+            "text": "In an adverse scenario, renewed hostilities in the Middle East reverse the recovery in oil production, while Russia’s oil exports remain diminished due to hostilities with Ukraine. Brent oil prices surge anew, averaging $105 per barrel in 2027. Downside risks to prices become more prominent later in the forecast period. A durable settlement of the Middle East conflict could accelerate the return of global energy supplies, while growth of solar and wind generation and rapid adoption of electric vehicles could weigh on demand for fossil fuels. understanding (MoU) between the Islamic Republic of Iran and the United States did not produce a follow-on agreement, Brent futures fluctuated widely, between $75/bbl and $100/bbl, before remaining above $100/bbl in September and October. Physical dated Brent prices rose faster, signaling growing scarcity of near-term supplies.",
+            "metadata": {
+              "section": "energy",
+              "year": 2026,
+              "printed_page": 14,
+              "version": "October 2026 edition"
+            },
+            "score": 0.030536130536130537,
+            "strategy": "hybrid",
+            "rank": 2
+          },
+          {
+            "id": "world-bank-cmo-2026-10:16:paragraph-900:4",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 16,
+            "text": "Change in Russia’s crude oil and oil product exports Sources: Bloomberg; Federal Reserve Bank of Dallas; International Energy Agency (IEA); World Bank. Note: bbl = barrel; mb/d = million barrels per day. A. Monthly data averaged by quarter. Bars show quarter-on-quarter changes. Data are from the IEA’s Oil Market Report (October 2026 edition). B. Dashed blue line indicates baseline forecast for 2026–27 for Brent crude oil price; red line represents the 2027 forecast in the adverse scenario. C. Bars show the percentage difference in 2027 for the food price index and sub-indexes under the adverse scenario compared with the baseline forecast. D. Bars show coefficients from individual OLS regressions of commodity prices on coincident global industrial production and the foreign exchange value of the U.S. dollar.",
+            "metadata": {
+              "section": "executive_summary",
+              "year": 2026,
+              "printed_page": 8,
+              "version": "October 2026 edition"
+            },
+            "score": 0.0304147465437788,
+            "strategy": "hybrid",
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "world-bank-cmo-2026-10:26:paragraph-900:3",
+          "world-bank-cmo-2026-10:22:paragraph-900:3",
+          "world-bank-cmo-2026-10:16:paragraph-900:4"
+        ],
+        "context": "[world-bank-cmo-2026-10:26:paragraph-900:3 | CMO-October-2026.pdf | page 26]\nThese risks might lift crude oil prices to $105/bbl in 2027 and exacerbate diesel price increases. Downside risks to the forecast include slower-than-projected global growth, which would weaken oil consumption and prices, higher oil output, and accelerated adoption of electric vehicles, given the substantial scope for increased EV sales in many regions. A. Brent oil price forecast comparison Sources: Bloomberg; Consensus Forecasts; International Energy Agency (IEA); U.S. Energy Information Administration (EIA); World Bank. Note: bbl = barrel; EV = electric vehicle; mb/d = million barrels per day. A. Futures data as of October 14, 2026. Consensus data are from the September 2026 report. EIA data are from EIA’s Short-Term Energy Outlook (October 2026 edition). Dashed lines indicate forecasts for 2026–28. B. Monthly data averaged by quarter. Bars show quarter-on-quarter changes.\n\n[world-bank-cmo-2026-10:22:paragraph-900:3 | CMO-October-2026.pdf | page 22]\nIn an adverse scenario, renewed hostilities in the Middle East reverse the recovery in oil production, while Russia’s oil exports remain diminished due to hostilities with Ukraine. Brent oil prices surge anew, averaging $105 per barrel in 2027. Downside risks to prices become more prominent later in the forecast period. A durable settlement of the Middle East conflict could accelerate the return of global energy supplies, while growth of solar and wind generation and rapid adoption of electric vehicles could weigh on demand for fossil fuels. understanding (MoU) between the Islamic Republic of Iran and the United States did not produce a follow-on agreement, Brent futures fluctuated widely, between $75/bbl and $100/bbl, before remaining above $100/bbl in September and October. Physical dated Brent prices rose faster, signaling growing scarcity of near-term supplies.\n\n[world-bank-cmo-2026-10:16:paragraph-900:4 | CMO-October-2026.pdf | page 16]\nChange in Russia’s crude oil and oil product exports Sources: Bloomberg; Federal Reserve Bank of Dallas; International Energy Agency (IEA); World Bank. Note: bbl = barrel; mb/d = million barrels per day. A. Monthly data averaged by quarter. Bars show quarter-on-quarter changes. Data are from the IEA’s Oil Market Report (October 2026 edition). B. Dashed blue line indicates baseline forecast for 2026–27 for Brent crude oil price; red line represents the 2027 forecast in the adverse scenario. C. Bars show the percentage difference in 2027 for the food price index and sub-indexes under the adverse scenario compared with the baseline forecast. D. Bars show coefficients from individual OLS regressions of commodity prices on coincident global industrial production and the foreign exchange value of the U.S. dollar."
+      },
+      {
+        "event": "search",
+        "tool": "search_report",
+        "query": "Brent crude price forecast 2030 dollars per barrel",
+        "method": "hybrid",
+        "filter": null,
+        "top_k": 3,
+        "results": [
+          {
+            "id": "world-bank-cmo-2026-10:26:paragraph-900:3",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 26,
+            "text": "These risks might lift crude oil prices to $105/bbl in 2027 and exacerbate diesel price increases. Downside risks to the forecast include slower-than-projected global growth, which would weaken oil consumption and prices, higher oil output, and accelerated adoption of electric vehicles, given the substantial scope for increased EV sales in many regions. A. Brent oil price forecast comparison Sources: Bloomberg; Consensus Forecasts; International Energy Agency (IEA); U.S. Energy Information Administration (EIA); World Bank. Note: bbl = barrel; EV = electric vehicle; mb/d = million barrels per day. A. Futures data as of October 14, 2026. Consensus data are from the September 2026 report. EIA data are from EIA’s Short-Term Energy Outlook (October 2026 edition). Dashed lines indicate forecasts for 2026–28. B. Monthly data averaged by quarter. Bars show quarter-on-quarter changes.",
+            "metadata": {
+              "section": "energy",
+              "year": 2026,
+              "printed_page": 18,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03177805800756621,
+            "strategy": "hybrid",
+            "rank": 1
+          },
+          {
+            "id": "world-bank-cmo-2026-10:22:paragraph-900:3",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 22,
+            "text": "In an adverse scenario, renewed hostilities in the Middle East reverse the recovery in oil production, while Russia’s oil exports remain diminished due to hostilities with Ukraine. Brent oil prices surge anew, averaging $105 per barrel in 2027. Downside risks to prices become more prominent later in the forecast period. A durable settlement of the Middle East conflict could accelerate the return of global energy supplies, while growth of solar and wind generation and rapid adoption of electric vehicles could weigh on demand for fossil fuels. understanding (MoU) between the Islamic Republic of Iran and the United States did not produce a follow-on agreement, Brent futures fluctuated widely, between $75/bbl and $100/bbl, before remaining above $100/bbl in September and October. Physical dated Brent prices rose faster, signaling growing scarcity of near-term supplies.",
+            "metadata": {
+              "section": "energy",
+              "year": 2026,
+              "printed_page": 14,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03125,
+            "strategy": "hybrid",
+            "rank": 2
+          },
+          {
+            "id": "world-bank-cmo-2026-10:16:paragraph-900:4",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 16,
+            "text": "Change in Russia’s crude oil and oil product exports Sources: Bloomberg; Federal Reserve Bank of Dallas; International Energy Agency (IEA); World Bank. Note: bbl = barrel; mb/d = million barrels per day. A. Monthly data averaged by quarter. Bars show quarter-on-quarter changes. Data are from the IEA’s Oil Market Report (October 2026 edition). B. Dashed blue line indicates baseline forecast for 2026–27 for Brent crude oil price; red line represents the 2027 forecast in the adverse scenario. C. Bars show the percentage difference in 2027 for the food price index and sub-indexes under the adverse scenario compared with the baseline forecast. D. Bars show coefficients from individual OLS regressions of commodity prices on coincident global industrial production and the foreign exchange value of the U.S. dollar.",
+            "metadata": {
+              "section": "executive_summary",
+              "year": 2026,
+              "printed_page": 8,
+              "version": "October 2026 edition"
+            },
+            "score": 0.031099324975891997,
+            "strategy": "hybrid",
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "world-bank-cmo-2026-10:26:paragraph-900:3",
+          "world-bank-cmo-2026-10:22:paragraph-900:3",
+          "world-bank-cmo-2026-10:16:paragraph-900:4"
+        ],
+        "context": "[world-bank-cmo-2026-10:26:paragraph-900:3 | CMO-October-2026.pdf | page 26]\nThese risks might lift crude oil prices to $105/bbl in 2027 and exacerbate diesel price increases. Downside risks to the forecast include slower-than-projected global growth, which would weaken oil consumption and prices, higher oil output, and accelerated adoption of electric vehicles, given the substantial scope for increased EV sales in many regions. A. Brent oil price forecast comparison Sources: Bloomberg; Consensus Forecasts; International Energy Agency (IEA); U.S. Energy Information Administration (EIA); World Bank. Note: bbl = barrel; EV = electric vehicle; mb/d = million barrels per day. A. Futures data as of October 14, 2026. Consensus data are from the September 2026 report. EIA data are from EIA’s Short-Term Energy Outlook (October 2026 edition). Dashed lines indicate forecasts for 2026–28. B. Monthly data averaged by quarter. Bars show quarter-on-quarter changes.\n\n[world-bank-cmo-2026-10:22:paragraph-900:3 | CMO-October-2026.pdf | page 22]\nIn an adverse scenario, renewed hostilities in the Middle East reverse the recovery in oil production, while Russia’s oil exports remain diminished due to hostilities with Ukraine. Brent oil prices surge anew, averaging $105 per barrel in 2027. Downside risks to prices become more prominent later in the forecast period. A durable settlement of the Middle East conflict could accelerate the return of global energy supplies, while growth of solar and wind generation and rapid adoption of electric vehicles could weigh on demand for fossil fuels. understanding (MoU) between the Islamic Republic of Iran and the United States did not produce a follow-on agreement, Brent futures fluctuated widely, between $75/bbl and $100/bbl, before remaining above $100/bbl in September and October. Physical dated Brent prices rose faster, signaling growing scarcity of near-term supplies.\n\n[world-bank-cmo-2026-10:16:paragraph-900:4 | CMO-October-2026.pdf | page 16]\nChange in Russia’s crude oil and oil product exports Sources: Bloomberg; Federal Reserve Bank of Dallas; International Energy Agency (IEA); World Bank. Note: bbl = barrel; mb/d = million barrels per day. A. Monthly data averaged by quarter. Bars show quarter-on-quarter changes. Data are from the IEA’s Oil Market Report (October 2026 edition). B. Dashed blue line indicates baseline forecast for 2026–27 for Brent crude oil price; red line represents the 2027 forecast in the adverse scenario. C. Bars show the percentage difference in 2027 for the food price index and sub-indexes under the adverse scenario compared with the baseline forecast. D. Bars show coefficients from individual OLS regressions of commodity prices on coincident global industrial production and the foreign exchange value of the U.S. dollar."
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "context": "[world-bank-cmo-2026-10:26:paragraph-900:3 | CMO-October-2026.pdf | page 26]\nThese risks might lift crude oil prices to $105/bbl in 2027 and exacerbate diesel price increases. Downside risks to the forecast include slower-than-projected global growth, which would weaken oil consumption and prices, higher oil output, and accelerated adoption of electric vehicles, given the substantial scope for increased EV sales in many regions. A. Brent oil price forecast comparison Sources: Bloomberg; Consensus Forecasts; International Energy Agency (IEA); U.S. Energy Information Administration (EIA); World Bank. Note: bbl = barrel; EV = electric vehicle; mb/d = million barrels per day. A. Futures data as of October 14, 2026. Consensus data are from the September 2026 report. EIA data are from EIA’s Short-Term Energy Outlook (October 2026 edition). Dashed lines indicate forecasts for 2026–28. B. Monthly data averaged by quarter. Bars show quarter-on-quarter changes.\n\n[world-bank-cmo-2026-10:22:paragraph-900:3 | CMO-October-2026.pdf | page 22]\nIn an adverse scenario, renewed hostilities in the Middle East reverse the recovery in oil production, while Russia’s oil exports remain diminished due to hostilities with Ukraine. Brent oil prices surge anew, averaging $105 per barrel in 2027. Downside risks to prices become more prominent later in the forecast period. A durable settlement of the Middle East conflict could accelerate the return of global energy supplies, while growth of solar and wind generation and rapid adoption of electric vehicles could weigh on demand for fossil fuels. understanding (MoU) between the Islamic Republic of Iran and the United States did not produce a follow-on agreement, Brent futures fluctuated widely, between $75/bbl and $100/bbl, before remaining above $100/bbl in September and October. Physical dated Brent prices rose faster, signaling growing scarcity of near-term supplies.\n\n[world-bank-cmo-2026-10:16:paragraph-900:4 | CMO-October-2026.pdf | page 16]\nChange in Russia’s crude oil and oil product exports Sources: Bloomberg; Federal Reserve Bank of Dallas; International Energy Agency (IEA); World Bank. Note: bbl = barrel; mb/d = million barrels per day. A. Monthly data averaged by quarter. Bars show quarter-on-quarter changes. Data are from the IEA’s Oil Market Report (October 2026 edition). B. Dashed blue line indicates baseline forecast for 2026–27 for Brent crude oil price; red line represents the 2027 forecast in the adverse scenario. C. Bars show the percentage difference in 2027 for the food price index and sub-indexes under the adverse scenario compared with the baseline forecast. D. Bars show coefficients from individual OLS regressions of commodity prices on coincident global industrial production and the foreign exchange value of the U.S. dollar.",
+    "context_ids": [
+      "world-bank-cmo-2026-10:26:paragraph-900:3",
+      "world-bank-cmo-2026-10:22:paragraph-900:3",
+      "world-bank-cmo-2026-10:16:paragraph-900:4"
+    ],
+    "model": "openai/gpt-4o-mini-2024-07-18",
+    "usage": {
+      "prompt_tokens": 1905,
+      "completion_tokens": 66
+    },
+    "elapsed_ms": 5926.47,
+    "query_id": "d_missing_01",
+    "split": "dev",
+    "question": "What Brent crude price does this report forecast for 2030, in dollars per barrel?",
+    "method": "hybrid",
+    "backend": "local",
+    "top_k": 3,
+    "budget_chars": 3000,
+    "max_searches": 2
+  },
+  {
+    "status": "abstain",
+    "answer": "Insufficient evidence in the report.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "tool": "search_report",
+        "query": "cocoa price forecast July 2030",
+        "method": "hybrid",
+        "filter": null,
+        "top_k": 3,
+        "results": [
+          {
+            "id": "world-bank-cmo-2026-10:14:paragraph-900:0",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 14,
+            "text": "EXECUTIVE SUMMARY COMMODITY MARKETS OUTLOOK | OCTOBER 2026 6 Beverage prices are expected to retreat by 24 percent (y/y) in 2026, as both cocoa and coffee production recover from past disease- and weather-related declines. Average beverage prices are forecast to broadly stabilize thereafter, as declining coffee prices partly offset a pickup in cocoa prices. In all, the World Bank Group’s agricultural commodity price index—a composite measure for food, beverages, and raw materials—is forecast to inch up this year, then gain 5 percent in 2027. The effects of El Niño are evident in several price forecast revisions relative to April 2026. The palm oil price forecast, for instance, has been revised higher by 15 percent in 2027 amid unusually dry conditions in Indonesia.",
+            "metadata": {
+              "section": "executive_summary",
+              "year": 2026,
+              "printed_page": 6,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03252247488101534,
+            "strategy": "hybrid",
+            "rank": 1
+          },
+          {
+            "id": "world-bank-cmo-2026-10:41:paragraph-900:3",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 41,
+            "text": "With the cocoa supply outlook weakening for the 2026-27 season, as adverse weather and lower pod counts weigh on crops in West Africa, the global cocoa market is expected to tighten. Following a sharp decline of 37 percent in 2026, cocoa prices are projected to rise by 10 percent in 2027 and stabilize in 2028 as the market moves roughly into balance. The main risks to the baseline forecast are related to weather, particularly El Niño, which has historically reduced cocoa yields through drier-than-normal conditions, especially in the rainfed production areas of Côte d’Ivoire and Ghana. T ea prices are expected to increase by 4 percent in 2027 and by 2 percent in 2028 as demand recovers, particularly in the Middle East.",
+            "metadata": {
+              "section": "agriculture",
+              "year": 2026,
+              "printed_page": 33,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03252247488101534,
+            "strategy": "hybrid",
+            "rank": 2
+          },
+          {
+            "id": "world-bank-cmo-2026-10:39:paragraph-900:0",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 39,
+            "text": "AGRICULTURECOMMODITY MARKETS OUTLOOK | OCTOBER 2026 31 which reduced production and pushed global inventories to a 27-year low, while a major earthquake in Colombia in August disrupted coffee-processing facilities. Robusta prices also increased, by 6 percent (q/q), amid adverse weather in Indonesia and disruption from an earthquake in early August. Despite these recent disruptions, global coffee output has been strong, reaching around 179 million bags during the 2025-26 season (figure 16.B). Cocoa prices rose by 46 percent in 2026Q3 but remained about 20 percent lower than a year earlier. The renewed surge in prices reflects concerns that strengthening El Niño conditions could affect supplies in Côte d’Ivoire and Ghana, the world’s leading cocoa suppliers (figure 16.C).",
+            "metadata": {
+              "section": "agriculture",
+              "year": 2026,
+              "printed_page": 31,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03057889822595705,
+            "strategy": "hybrid",
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "world-bank-cmo-2026-10:14:paragraph-900:0",
+          "world-bank-cmo-2026-10:41:paragraph-900:3",
+          "world-bank-cmo-2026-10:39:paragraph-900:0"
+        ],
+        "context": "[world-bank-cmo-2026-10:14:paragraph-900:0 | CMO-October-2026.pdf | page 14]\nEXECUTIVE SUMMARY COMMODITY MARKETS OUTLOOK | OCTOBER 2026 6 Beverage prices are expected to retreat by 24 percent (y/y) in 2026, as both cocoa and coffee production recover from past disease- and weather-related declines. Average beverage prices are forecast to broadly stabilize thereafter, as declining coffee prices partly offset a pickup in cocoa prices. In all, the World Bank Group’s agricultural commodity price index—a composite measure for food, beverages, and raw materials—is forecast to inch up this year, then gain 5 percent in 2027. The effects of El Niño are evident in several price forecast revisions relative to April 2026. The palm oil price forecast, for instance, has been revised higher by 15 percent in 2027 amid unusually dry conditions in Indonesia.\n\n[world-bank-cmo-2026-10:41:paragraph-900:3 | CMO-October-2026.pdf | page 41]\nWith the cocoa supply outlook weakening for the 2026-27 season, as adverse weather and lower pod counts weigh on crops in West Africa, the global cocoa market is expected to tighten. Following a sharp decline of 37 percent in 2026, cocoa prices are projected to rise by 10 percent in 2027 and stabilize in 2028 as the market moves roughly into balance. The main risks to the baseline forecast are related to weather, particularly El Niño, which has historically reduced cocoa yields through drier-than-normal conditions, especially in the rainfed production areas of Côte d’Ivoire and Ghana. T ea prices are expected to increase by 4 percent in 2027 and by 2 percent in 2028 as demand recovers, particularly in the Middle East.\n\n[world-bank-cmo-2026-10:39:paragraph-900:0 | CMO-October-2026.pdf | page 39]\nAGRICULTURECOMMODITY MARKETS OUTLOOK | OCTOBER 2026 31 which reduced production and pushed global inventories to a 27-year low, while a major earthquake in Colombia in August disrupted coffee-processing facilities. Robusta prices also increased, by 6 percent (q/q), amid adverse weather in Indonesia and disruption from an earthquake in early August. Despite these recent disruptions, global coffee output has been strong, reaching around 179 million bags during the 2025-26 season (figure 16.B). Cocoa prices rose by 46 percent in 2026Q3 but remained about 20 percent lower than a year earlier. The renewed surge in prices reflects concerns that strengthening El Niño conditions could affect supplies in Côte d’Ivoire and Ghana, the world’s leading cocoa suppliers (figure 16.C)."
+      },
+      {
+        "event": "search",
+        "tool": "search_report",
+        "query": "cocoa price July 2030 forecast",
+        "method": "hybrid",
+        "filter": null,
+        "top_k": 3,
+        "results": [
+          {
+            "id": "world-bank-cmo-2026-10:14:paragraph-900:0",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 14,
+            "text": "EXECUTIVE SUMMARY COMMODITY MARKETS OUTLOOK | OCTOBER 2026 6 Beverage prices are expected to retreat by 24 percent (y/y) in 2026, as both cocoa and coffee production recover from past disease- and weather-related declines. Average beverage prices are forecast to broadly stabilize thereafter, as declining coffee prices partly offset a pickup in cocoa prices. In all, the World Bank Group’s agricultural commodity price index—a composite measure for food, beverages, and raw materials—is forecast to inch up this year, then gain 5 percent in 2027. The effects of El Niño are evident in several price forecast revisions relative to April 2026. The palm oil price forecast, for instance, has been revised higher by 15 percent in 2027 amid unusually dry conditions in Indonesia.",
+            "metadata": {
+              "section": "executive_summary",
+              "year": 2026,
+              "printed_page": 6,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03252247488101534,
+            "strategy": "hybrid",
+            "rank": 1
+          },
+          {
+            "id": "world-bank-cmo-2026-10:41:paragraph-900:3",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 41,
+            "text": "With the cocoa supply outlook weakening for the 2026-27 season, as adverse weather and lower pod counts weigh on crops in West Africa, the global cocoa market is expected to tighten. Following a sharp decline of 37 percent in 2026, cocoa prices are projected to rise by 10 percent in 2027 and stabilize in 2028 as the market moves roughly into balance. The main risks to the baseline forecast are related to weather, particularly El Niño, which has historically reduced cocoa yields through drier-than-normal conditions, especially in the rainfed production areas of Côte d’Ivoire and Ghana. T ea prices are expected to increase by 4 percent in 2027 and by 2 percent in 2028 as demand recovers, particularly in the Middle East.",
+            "metadata": {
+              "section": "agriculture",
+              "year": 2026,
+              "printed_page": 33,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03252247488101534,
+            "strategy": "hybrid",
+            "rank": 2
+          },
+          {
+            "id": "world-bank-cmo-2026-10:39:paragraph-900:0",
+            "source_id": "world-bank-cmo-2026-10",
+            "source": "CMO-October-2026.pdf",
+            "page": 39,
+            "text": "AGRICULTURECOMMODITY MARKETS OUTLOOK | OCTOBER 2026 31 which reduced production and pushed global inventories to a 27-year low, while a major earthquake in Colombia in August disrupted coffee-processing facilities. Robusta prices also increased, by 6 percent (q/q), amid adverse weather in Indonesia and disruption from an earthquake in early August. Despite these recent disruptions, global coffee output has been strong, reaching around 179 million bags during the 2025-26 season (figure 16.B). Cocoa prices rose by 46 percent in 2026Q3 but remained about 20 percent lower than a year earlier. The renewed surge in prices reflects concerns that strengthening El Niño conditions could affect supplies in Côte d’Ivoire and Ghana, the world’s leading cocoa suppliers (figure 16.C).",
+            "metadata": {
+              "section": "agriculture",
+              "year": 2026,
+              "printed_page": 31,
+              "version": "October 2026 edition"
+            },
+            "score": 0.03057889822595705,
+            "strategy": "hybrid",
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "world-bank-cmo-2026-10:14:paragraph-900:0",
+          "world-bank-cmo-2026-10:41:paragraph-900:3",
+          "world-bank-cmo-2026-10:39:paragraph-900:0"
+        ],
+        "context": "[world-bank-cmo-2026-10:14:paragraph-900:0 | CMO-October-2026.pdf | page 14]\nEXECUTIVE SUMMARY COMMODITY MARKETS OUTLOOK | OCTOBER 2026 6 Beverage prices are expected to retreat by 24 percent (y/y) in 2026, as both cocoa and coffee production recover from past disease- and weather-related declines. Average beverage prices are forecast to broadly stabilize thereafter, as declining coffee prices partly offset a pickup in cocoa prices. In all, the World Bank Group’s agricultural commodity price index—a composite measure for food, beverages, and raw materials—is forecast to inch up this year, then gain 5 percent in 2027. The effects of El Niño are evident in several price forecast revisions relative to April 2026. The palm oil price forecast, for instance, has been revised higher by 15 percent in 2027 amid unusually dry conditions in Indonesia.\n\n[world-bank-cmo-2026-10:41:paragraph-900:3 | CMO-October-2026.pdf | page 41]\nWith the cocoa supply outlook weakening for the 2026-27 season, as adverse weather and lower pod counts weigh on crops in West Africa, the global cocoa market is expected to tighten. Following a sharp decline of 37 percent in 2026, cocoa prices are projected to rise by 10 percent in 2027 and stabilize in 2028 as the market moves roughly into balance. The main risks to the baseline forecast are related to weather, particularly El Niño, which has historically reduced cocoa yields through drier-than-normal conditions, especially in the rainfed production areas of Côte d’Ivoire and Ghana. T ea prices are expected to increase by 4 percent in 2027 and by 2 percent in 2028 as demand recovers, particularly in the Middle East.\n\n[world-bank-cmo-2026-10:39:paragraph-900:0 | CMO-October-2026.pdf | page 39]\nAGRICULTURECOMMODITY MARKETS OUTLOOK | OCTOBER 2026 31 which reduced production and pushed global inventories to a 27-year low, while a major earthquake in Colombia in August disrupted coffee-processing facilities. Robusta prices also increased, by 6 percent (q/q), amid adverse weather in Indonesia and disruption from an earthquake in early August. Despite these recent disruptions, global coffee output has been strong, reaching around 179 million bags during the 2025-26 season (figure 16.B). Cocoa prices rose by 46 percent in 2026Q3 but remained about 20 percent lower than a year earlier. The renewed surge in prices reflects concerns that strengthening El Niño conditions could affect supplies in Côte d’Ivoire and Ghana, the world’s leading cocoa suppliers (figure 16.C)."
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "context": "[world-bank-cmo-2026-10:14:paragraph-900:0 | CMO-October-2026.pdf | page 14]\nEXECUTIVE SUMMARY COMMODITY MARKETS OUTLOOK | OCTOBER 2026 6 Beverage prices are expected to retreat by 24 percent (y/y) in 2026, as both cocoa and coffee production recover from past disease- and weather-related declines. Average beverage prices are forecast to broadly stabilize thereafter, as declining coffee prices partly offset a pickup in cocoa prices. In all, the World Bank Group’s agricultural commodity price index—a composite measure for food, beverages, and raw materials—is forecast to inch up this year, then gain 5 percent in 2027. The effects of El Niño are evident in several price forecast revisions relative to April 2026. The palm oil price forecast, for instance, has been revised higher by 15 percent in 2027 amid unusually dry conditions in Indonesia.\n\n[world-bank-cmo-2026-10:41:paragraph-900:3 | CMO-October-2026.pdf | page 41]\nWith the cocoa supply outlook weakening for the 2026-27 season, as adverse weather and lower pod counts weigh on crops in West Africa, the global cocoa market is expected to tighten. Following a sharp decline of 37 percent in 2026, cocoa prices are projected to rise by 10 percent in 2027 and stabilize in 2028 as the market moves roughly into balance. The main risks to the baseline forecast are related to weather, particularly El Niño, which has historically reduced cocoa yields through drier-than-normal conditions, especially in the rainfed production areas of Côte d’Ivoire and Ghana. T ea prices are expected to increase by 4 percent in 2027 and by 2 percent in 2028 as demand recovers, particularly in the Middle East.\n\n[world-bank-cmo-2026-10:39:paragraph-900:0 | CMO-October-2026.pdf | page 39]\nAGRICULTURECOMMODITY MARKETS OUTLOOK | OCTOBER 2026 31 which reduced production and pushed global inventories to a 27-year low, while a major earthquake in Colombia in August disrupted coffee-processing facilities. Robusta prices also increased, by 6 percent (q/q), amid adverse weather in Indonesia and disruption from an earthquake in early August. Despite these recent disruptions, global coffee output has been strong, reaching around 179 million bags during the 2025-26 season (figure 16.B). Cocoa prices rose by 46 percent in 2026Q3 but remained about 20 percent lower than a year earlier. The renewed surge in prices reflects concerns that strengthening El Niño conditions could affect supplies in Côte d’Ivoire and Ghana, the world’s leading cocoa suppliers (figure 16.C).",
+    "context_ids": [
+      "world-bank-cmo-2026-10:14:paragraph-900:0",
+      "world-bank-cmo-2026-10:41:paragraph-900:3",
+      "world-bank-cmo-2026-10:39:paragraph-900:0"
+    ],
+    "model": "openai/gpt-4o-mini-2024-07-18",
+    "usage": {
+      "prompt_tokens": 1800,
+      "completion_tokens": 63
+    },
+    "elapsed_ms": 5846.8,
+    "query_id": "d_missing_02",
+    "split": "dev",
+    "question": "What monthly cocoa price does the report forecast for July 2030?",
+    "method": "hybrid",
+    "backend": "local",
+    "top_k": 3,
+    "budget_chars": 3000,
+    "max_searches": 2
+  }
+]

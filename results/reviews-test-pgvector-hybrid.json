@@ -1,0 +1,9 @@
+[
+  {"query_id":"t01","answer_grade":0,"citation_support":[],"note":"Từ chối nhầm. Agent tự thêm October 2023 vào cả hai query; context cuối không có 100 triệu thùng dù gold ở trang 10."},
+  {"query_id":"t02","answer_grade":2,"citation_support":[true],"note":"2,5% và 110 bcm khớp trang PDF 29."},
+  {"query_id":"t03","answer_grade":2,"citation_support":[true],"note":"Thứ hai lịch sử và cao hơn 3% khớp trang PDF 35."},
+  {"query_id":"t04","answer_grade":2,"citation_support":[true],"note":"33%, rồi giảm 2% và 4% khớp trang PDF 50."},
+  {"query_id":"t05","answer_grade":2,"citation_support":[true,true],"note":"Bốn nhóm chính, trạng thái cân bằng của energy/precious metals và ngoại lệ COVID-19 được hai passage trang 62 và 59 hỗ trợ."},
+  {"query_id":"t_missing_01","abstention_correct":true,"citation_support":[],"note":"Không có dự báo giá urea chính xác tháng 12/2031."},
+  {"query_id":"t_missing_02","abstention_correct":true,"citation_support":[],"note":"Không có dự báo giá lithium năm 2032."}
+]

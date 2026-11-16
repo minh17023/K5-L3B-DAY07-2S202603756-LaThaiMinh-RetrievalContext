@@ -1,0 +1,342 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "In September, how did refined oil product flows from the Gulf region compare with preconflict levels?",
+    "expected_answer": "They were less than half of preconflict levels, amid refinery damage.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "world-bank-cmo-2026-10",
+        "page": 9,
+        "evidence": "Nonetheless, flows of refined oil products from the region have remained depressed amid damage to refineries, at less than half of preconflict levels in September."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "By how much had the World Bank Group's metals and minerals index risen in 2026 relative to the first nine months of 2025?",
+    "expected_answer": "31 percent.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "world-bank-cmo-2026-10",
+        "page": 11,
+        "evidence": "The World Bank Group’s metals and minerals index (which excludes precious metals) has increased by 31 percent this year, relative to the first nine months of 2025."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "What change in beverage prices does the report expect for 2026, and why?",
+    "expected_answer": "A 24 percent year-on-year decline as cocoa and coffee production recover from earlier disease- and weather-related declines.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "world-bank-cmo-2026-10",
+        "page": 14,
+        "evidence": "Beverage prices are expected to retreat by 24 percent (y/y) in 2026, as both cocoa and coffee production recover from past disease- and weather-related declines."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "How many people experienced severe food insecurity worldwide in 2025?",
+    "expected_answer": "779 million people.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "world-bank-cmo-2026-10",
+        "page": 18,
+        "evidence": "People experiencing severe food insecurity worldwide numbered 779 million in 2025, down from 803 million in 2024 and 837 million in 2021."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "In the energy section, what drove Gulf voyage rates to record highs?",
+    "expected_answer": "Tanker shortages.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "world-bank-cmo-2026-10",
+        "page": 22,
+        "evidence": "Tanker shortages, which drove Gulf voyage rates to record highs, together with intensifying attacks on vessels, thinning inventories and concerns about longer-term supply, kept Brent prices elevated (figure 7.C)."
+      }
+    ],
+    "filter": {
+      "section": "energy"
+    }
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Why is the reported 7.8 billion barrels of observed oil inventories not all immediately usable?",
+    "expected_answer": "Much of it is in transit or tied up operationally, for example to keep pipelines pressurized.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "world-bank-cmo-2026-10",
+        "page": 24,
+        "evidence": "Although global observed oil inventories still total about 7.8 billion barrels, much is in transit or tied up operationally—for instance, to keep pipelines pressurized—and therefore is not readily usable."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "What change in global natural gas production is projected for 2026?",
+    "expected_answer": "A decline of 0.8 percent, or 35 billion cubic meters.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "world-bank-cmo-2026-10",
+        "page": 29,
+        "evidence": "Global natural gas production is projected to decline by 0.8 percent (35 bcm) in 2026."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "How much is global coal demand projected to rise in 2026?",
+    "expected_answer": "1.2 percent, or 103 million metric tons.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "world-bank-cmo-2026-10",
+        "page": 31,
+        "evidence": "Global coal demand is projected to rise by 1.2 percent, or 103 million metric tons (mmt), in 2026, supported by gas-to-coal switching in the power sector, particularly in Asia (figure 11.B)."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "How far above their year-earlier level were wheat prices after their 2026Q3 jump?",
+    "expected_answer": "40 percent above the year-earlier level.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "world-bank-cmo-2026-10",
+        "page": 33,
+        "evidence": "Wheat prices jumped by 13 percent, to a three-and-a-half-year high, 40 percent above year-ago levels (figure 12.C)."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "What wheat price changes are projected for 2026, 2027 and 2028?",
+    "expected_answer": "Up 28 percent in 2026, up 14 percent in 2027, then down 11 percent in 2028.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "world-bank-cmo-2026-10",
+        "page": 35,
+        "evidence": "Wheat prices are projected to jump by 28 percent in 2026 and 14 percent in 2027, before easing by 11 percent in 2028."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Under the agriculture baseline, when are Black Sea shipment disruptions expected to ease, and what could enable that?",
+    "expected_answer": "They are expected to ease materially in 2027 if alternative export routes or arrangements protecting grain shipments become available.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "world-bank-cmo-2026-10",
+        "page": 37,
+        "evidence": "The baseline price forecasts assume that disruptions to Black Sea shipments will persist through 2026Q4 but ease materially in 2027, given the potential for alternative export routes to become available and for arrangements to protect much-needed grain shipments, akin to the 2022–23 Black Sea Grain Initiative."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "How many very strong El Niño episodes had occurred since 1950 before the current episode?",
+    "expected_answer": "Four; the current episode was expected to become the fifth.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "world-bank-cmo-2026-10",
+        "page": 43,
+        "evidence": "Since 1950, there have been 27 El Niño episodes, four of which were very strong (in 1982–83, 1991–92, 1997–98, and 2015–16), with the current episode expected to become the fifth."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "In the fertilizers section, what was the average urea price in 2026Q3?",
+    "expected_answer": "$399 per metric ton.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "world-bank-cmo-2026-10",
+        "page": 47,
+        "evidence": "Nitrogen (urea) prices averaged $399/mt in 2026Q3, down 42 percent (q/q) and 18 percent (y/y), after peaking at $857/mt in April (figure 18.A)."
+      }
+    ],
+    "filter": {
+      "section": "fertilizers"
+    }
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Which investment areas supported demand for aluminum, copper and tin?",
+    "expected_answer": "Power grids, electric vehicles, renewable energy, electronics and data centers.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "world-bank-cmo-2026-10",
+        "page": 49,
+        "evidence": "Rapidly growing investment in power grids, electric vehicle (EV) production, renewable energy, electronics, and data centers continued to support demand for aluminum, copper, and tin."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "How many internationally traded commodities and groups does the Special Focus examine?",
+    "expected_answer": "15 commodities across six groups.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "world-bank-cmo-2026-10",
+        "page": 56,
+        "evidence": "This Special Focus examines price volatility connectedness across 15 internationally traded commodities in six groups—energy, food, industrial metals, livestock, precious metals, and soft commodities (such as coffee and cotton)— using daily data from 2006 to 2026."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "t01",
+    "split": "test",
+    "question": "How many oil reserve barrels did IEA members agree in early October to release through January 2027?",
+    "expected_answer": "100 million barrels, initially focused on diesel.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "world-bank-cmo-2026-10",
+        "page": 10,
+        "evidence": "release 100 million barrels of oil reserves through January 2027, initially focused on diesel"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "t02",
+    "split": "test",
+    "question": "What growth in global natural gas production is forecast for 2027, in percent and bcm?",
+    "expected_answer": "About 2.5 percent, or 110 bcm.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "world-bank-cmo-2026-10",
+        "page": 29,
+        "evidence": "Global production is forecast to increase by about 2.5 percent (110 bcm) in 2027"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "t03",
+    "split": "test",
+    "question": "How large are total grain supplies projected to be in 2026–27 relative to the record and two years earlier?",
+    "expected_answer": "The second largest on record and about 3 percent higher than two years earlier.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "world-bank-cmo-2026-10",
+        "page": 35,
+        "evidence": "total grain supplies (production and beginning stocks combined) in 2026-27 are projected to be the second largest on record and about 3 percent higher than two years earlier"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "t04",
+    "split": "test",
+    "question": "What year-on-year copper price increase is projected for 2026 before declines in 2027 and 2028?",
+    "expected_answer": "33 percent year on year.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "world-bank-cmo-2026-10",
+        "page": 50,
+        "evidence": "After a projected 33 percent (y/y) increase to a record annual average in 2026, copper prices are forecast to decline by 2 percent in 2027 and 4 percent in 2028"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "t05",
+    "split": "test",
+    "question": "In the Special Focus, which commodity groups are net transmitters and which are net receivers of price volatility?",
+    "expected_answer": "Industrial metals and food are net transmitters; livestock and soft commodities are net receivers.",
+    "answerable": true,
+    "gold": [
+      {
+        "source_id": "world-bank-cmo-2026-10",
+        "page": 58,
+        "evidence": "Industrial metals and food are net transmitters, livestock and soft commodities are net receivers"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "d_missing_01",
+    "split": "dev",
+    "question": "What Brent crude price does this report forecast for 2030, in dollars per barrel?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "The report's price forecasts cover 2026–28, not an exact Brent forecast for 2030.",
+    "filter": null
+  },
+  {
+    "id": "d_missing_02",
+    "split": "dev",
+    "question": "What monthly cocoa price does the report forecast for July 2030?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "The report has no month-specific cocoa forecast for July 2030.",
+    "filter": null
+  },
+  {
+    "id": "t_missing_01",
+    "split": "test",
+    "question": "What exact urea price does the report forecast for December 2031?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "The report has no month-specific urea forecast for December 2031.",
+    "filter": null
+  },
+  {
+    "id": "t_missing_02",
+    "split": "test",
+    "question": "What lithium price does the report forecast for the year 2032?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "The report has no lithium price forecast for 2032.",
+    "filter": null
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "split": "dev",
+  "method": "dense",
+  "model": "openai/gpt-4o-mini-2024-07-18",
+  "N": 17,
+  "answered": 14,
+  "abstained": 3,
+  "errors": 0,
+  "tool_use": 17,
+  "prompt_tokens": 19052,
+  "completion_tokens": 1569
+}

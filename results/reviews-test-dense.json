@@ -1,0 +1,9 @@
+[
+  {"query_id":"t01","answer_grade":0,"citation_support":[],"note":"Từ chối nhầm; không tìm được con số 100 triệu thùng trong context cuối."},
+  {"query_id":"t02","answer_grade":2,"citation_support":[true],"note":"2,5%, 110 bcm và phần giải thích thêm khớp trang PDF 29."},
+  {"query_id":"t03","answer_grade":2,"citation_support":[true],"note":"Thứ hai lịch sử và cao hơn 3% khớp trang PDF 35."},
+  {"query_id":"t04","answer_grade":2,"citation_support":[true],"note":"33%, rồi giảm 2% và 4% khớp trang PDF 50."},
+  {"query_id":"t05","answer_grade":1,"citation_support":[false,false],"note":"Đúng bốn nhóm chính nhưng xếp cả precious metals vào nhóm net transmitters; nguồn trang 57 và 62 nói nhóm này cân bằng trên toàn mẫu. Hai citation cuối không hỗ trợ toàn bộ câu trả lời."},
+  {"query_id":"t_missing_01","abstention_correct":true,"citation_support":[],"note":"Báo cáo không dự báo giá urea chính xác tháng 12/2031."},
+  {"query_id":"t_missing_02","abstention_correct":true,"citation_support":[],"note":"Báo cáo không dự báo giá lithium năm 2032."}
+]

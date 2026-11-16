@@ -1,0 +1,22 @@
+{
+  "split": "dev",
+  "method": "tfidf",
+  "backend": "pgvector",
+  "top_k": 3,
+  "budget_chars": 3000,
+  "N": 15,
+  "hit1": {
+    "n": 8,
+    "N": 15
+  },
+  "hit3": {
+    "n": 13,
+    "N": 15
+  },
+  "context_evidence_rate": {
+    "n": 13,
+    "N": 15
+  },
+  "mean_ms": 2.73,
+  "query_embedding_tokens": 0
+}
